@@ -143,15 +143,15 @@ A medida que Anowon vacía las bibliotecas enemigas, estas cartas se convierten 
 
 * **[Crippling Fear](file:///root/mtg/decks/Commander/anowon/anowon.txt#L68) (Ira Unilateral):**
   * Eliges el tipo **Bribón (*Rogue*)**. Todas las criaturas que no sean Bribones obtienen **-3/-3**. Barres los aceleradores, fichas y defensas rivales mientras todo tu ejército sigue intacto en mesa.
-* **[Soul Manipulation](file:///root/mtg/decks/Commander/anowon/anowon.txt#L64):**
+* **[Soul Manipulation](file:///root/mtg/decks/Commander/anowon/anowon.txt#L65):**
   * Respuesta 2-en-1 de enorme valor por `{1}{U}{B}` a velocidad de instantáneo: contrarresta una criatura peligrosa del oponente y a la vez recupera a tu mejor Bribón muerto del cementerio a tu mano.
 * **[Open into Wonder](file:///root/mtg/decks/Commander/anowon/anowon.txt#L75):** Hace que X Bribones sean inbloqueables este turno y roben carta adicional por cada impacto, combinando evasión absoluta y ventaja masiva.
 * **[Notorious Throng](file:///root/mtg/decks/Commander/anowon/anowon.txt#L74) (Finisher Absoluto):**
   * Si hiciste daño con un Rogue ese turno, pagas su coste de *Prowl* `{5}{U}`: pones fichas de Hada Bribón 1/1 con volar iguales al daño causado y **tomas un turno extra inmediatamente**.
 * **Contrahechizos Clave:**
-  * [Saw It Coming](file:///root/mtg/decks/Commander/anowon/anowon.txt#L62): Puedes dejarlo en *Foretell* por `{2}` y contrarrestar cualquier hechizo por `{U}{U}`.
-  * [Whirlwind Denial](file:///root/mtg/decks/Commander/anowon/anowon.txt#L65): Contrarresta todos los hechizos y habilidades de los oponentes en la pila salvo que paguen `{4}` por cada uno.
-  * [Negate](file:///root/mtg/decks/Commander/anowon/anowon.txt#L59): Protección directa frente a iras de mesa o combos no-criatura.
+  * [Saw It Coming](file:///root/mtg/decks/Commander/anowon/anowon.txt#L63): Puedes dejarlo en *Foretell* por `{2}` y contrarrestar cualquier hechizo por `{U}{U}`.
+  * [Disdainful Stroke](file:///root/mtg/decks/Commander/anowon/anowon.txt#L58): Por solo `{1}{U}` contrarresta cualquier hechizo de coste 4 o más, frenando limpiamesas masivos (*Wrath of God*, *Farewell*) y la inmensa mayoría de comandantes rivales.
+  * [Negate](file:///root/mtg/decks/Commander/anowon/anowon.txt#L60): Protección directa frente a iras de mesa o combos no-criatura.
 
 ---
 
@@ -180,7 +180,7 @@ sequenceDiagram
 
 ### Turnos 5 y 6: El Dominio de Mesa
 1. Equipa [Whispersteel Dagger](file:///root/mtg/decks/Commander/anowon/anowon.txt#L47) para empezar a castear los hechizos más potentes que tus rivales hayan molido.
-2. Mantén maná abierto para [Saw It Coming](file:///root/mtg/decks/Commander/anowon/anowon.txt#L62), [Resculpt](file:///root/mtg/decks/Commander/anowon/anowon.txt#L61) o [Aetherize](file:///root/mtg/decks/Commander/anowon/anowon.txt#L57).
+2. Mantén maná abierto para [Saw It Coming](file:///root/mtg/decks/Commander/anowon/anowon.txt#L63), [Resculpt](file:///root/mtg/decks/Commander/anowon/anowon.txt#L62) o [Aetherize](file:///root/mtg/decks/Commander/anowon/anowon.txt#L57).
 
 ### Turno 7+: Ejecución del Cierre
 1. **Opción A (Combate Agresivo):** Lanza [Notorious Throng](file:///root/mtg/decks/Commander/anowon/anowon.txt#L74) para llenar la mesa de hadas y jugar un turno extra.

@@ -56,13 +56,13 @@
 1 Essence Scatter
 1 Eureka Moment
 1 Into the Roil
-1 Lofty Denial
 1 Opt
 1 Ram Through
 1 Rapid Hybridization
 1 Snakeskin Veil
 1 Thirst for Knowledge
 1 Thirst for Meaning
+1 Whirlwind Denial
 1 Wilt
 
 // SORCERIES (8)
