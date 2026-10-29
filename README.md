@@ -1,22 +1,24 @@
-# Magic Skill & Commander Decks Ecosystem
+# Magic Skill & MTG Decks Ecosystem
 
 [![Platform](https://img.shields.io/badge/Platform-Antigravity%20CLI-blue.svg)](https://github.com/)
-[![Format](https://img.shields.io/badge/Format-Magic%3A%20The%20Gathering%20(Commander)-orange.svg)](https://magic.wizards.com/en/formats/commander)
-[![Compliance](https://img.shields.io/badge/Rules%20Compliance-CR%20903%20%7C%20MTR-brightgreen.svg)](https://magic.wizards.com/en/rules)
+[![Format](https://img.shields.io/badge/Format-Commander%20%7C%20Casual%2060--Card-orange.svg)](https://magic.wizards.com/)
+[![Compliance](https://img.shields.io/badge/Rules%20Compliance-CR%20100.2a%20%7C%20CR%20903-brightgreen.svg)](https://magic.wizards.com/en/rules)
 
-Repositorio que contiene la **Skill oficial para Antigravity (`mtg-deckbuilder`)** y el ecosistema completo de **5 mazos de Commander (EDH)** construidos, validados y optimizados al 100% sin solapamiento de inventario físico.
+Repositorio que contiene la **Skill oficial para Antigravity (`mtg-deckbuilder`)** y el ecosistema completo de **Mazos de Magic: The Gathering** (Commander y Casual de 60 cartas) construidos, validados y optimizados al 100% sobre la colección física real sin solapamiento de cartas.
 
 ---
 
 ## 📁 Estructura del Repositorio
 
+La organización de los mazos sigue una jerarquía estricta según el formato y el arquetipo:
+
 ```text
 .
-├── mtg-deckbuilder/                  # Skill de Antigravity (Copia raíz)
+├── mtg-deckbuilder/                  # Skill de Antigravity (Copia raíz para publicación)
 │   ├── SKILL.md                      # Definición e instrucciones de la skill
 │   ├── scripts/                      # Herramientas de validación y cálculo
 │   │   ├── calculate_mana_base.py    # Análisis de curva y modelo matemático de Karsten
-│   │   ├── validate_deck.py          # Validador oficial de formato y reglas CR 903
+│   │   ├── validate_deck.py          # Validador oficial de formatos (Commander, Casual, Modern, etc.)
 │   │   ├── search_rules.py           # Buscador en las Reglas Oficiales (CR)
 │   │   └── scryfall_lookup.py        # Consulta y caché de metadatos de Scryfall
 │   ├── resources/                    # Bases de datos JSON y plantillas
@@ -24,31 +26,37 @@ Repositorio que contiene la **Skill oficial para Antigravity (`mtg-deckbuilder`)
 │
 ├── .agents/skills/mtg-deckbuilder/   # Ruta nativa para autodescubrimiento en Antigravity
 │
-└── decks/                            # Los 5 mazos de Commander construidos
-    ├── adrix/                        # Adrix and Nev, Twincasters (Simic Tokens)
-    │   ├── adrix.txt                 # Lista formateada para ManaBox
-    │   ├── adrix_guide.md            # Guía técnica y plan de partida
-    │   └── adrix_upgrades.md         # Guía de mejoras modular en 3 fases
+└── decks/                            # Directorio central de mazos
+    ├── Commander/                    # Mazos de formato Commander / EDH (100 cartas Singleton)
+    │   ├── adrix/                    # Adrix and Nev, Twincasters (Simic Tokens)
+    │   │   ├── adrix.txt             # Lista formateada para ManaBox
+    │   │   ├── adrix_guide.md        # Guía técnica y plan de partida
+    │   │   └── adrix_upgrades.md     # Guía de mejoras modular en 3 fases
+    │   │
+    │   ├── anowon/                   # Anowon, the Ruin Thief (Dimir Rogues / Mill)
+    │   │   ├── anowon.txt
+    │   │   ├── anowon_guide.md
+    │   │   └── anowon_upgrades.md
+    │   │
+    │   ├── liesa/                    # Liesa, Shroud of Dusk (Orzhov Tax / Lifegain)
+    │   │   ├── liesa.txt
+    │   │   ├── liesa_guide.md
+    │   │   └── liesa_upgrades.md
+    │   │
+    │   ├── kardur/                   # Kardur, Doomscourge (Rakdos Forced Combat)
+    │   │   ├── kardur.txt
+    │   │   ├── kardur_guide.md
+    │   │   └── kardur_upgrades.md
+    │   │
+    │   └── svella/                   # Svella, Ice Shaper (Gruul Ramp / Stompy)
+    │       ├── svella.txt
+    │       ├── svella_guide.md
+    │       └── svella_upgrades.md
     │
-    ├── anowon/                       # Anowon, the Ruin Thief (Dimir Rogues / Mill)
-    │   ├── anowon.txt
-    │   ├── anowon_guide.md
-    │   └── anowon_upgrades.md
-    │
-    ├── liesa/                        # Liesa, Shroud of Dusk (Orzhov Tax / Lifegain)
-    │   ├── liesa.txt
-    │   ├── liesa_guide.md
-    │   └── liesa_upgrades.md
-    │
-    ├── kardur/                       # Kardur, Doomscourge (Rakdos Forced Combat)
-    │   ├── kardur.txt
-    │   ├── kardur_guide.md
-    │   └── kardur_upgrades.md
-    │
-    └── svella/                       # Svella, Ice Shaper (Gruul Ramp / Stompy)
-        ├── svella.txt
-        ├── svella_guide.md
-        └── svella_upgrades.md
+    └── Casual/                       # Mazos de formato Casual / Construido (60 cartas + 15 banquillo)
+        └── boros/                    # Boros Equipment Knights ({R}{W} Aggro / Voltron)
+            ├── boros_knights.txt     # Lista formateada para ManaBox
+            └── boros_knights_guide.md # Guía técnica, curva y guía de banquillo
 ```
 
 ---
@@ -58,9 +66,9 @@ Repositorio que contiene la **Skill oficial para Antigravity (`mtg-deckbuilder`)
 Diseñada como un asistente experto para jugadores y constructores de mazos de MTG:
 
 1. **Validador de Formatos (`validate_deck.py`):**
-   - Verifica el tamaño estricto de la baraja (100 cartas en Commander, 60 en Construido).
-   - Comprueba la legalidad de la identidad de color del comandante (CR 903.4 / CR 903.5c).
-   - Valida la regla de copia única (*Singleton*) y banquillos según la normativa MTR.
+   - Verifica el tamaño estricto de la baraja (100 cartas en Commander, 60 en Casual/Construido).
+   - Comprueba la legalidad de la identidad de color del comandante (CR 903.4 / CR 903.5c) o el límite de 4 copias por carta (CR 100.2a).
+   - Valida la regla de banquillo (máximo 15 cartas).
 
 2. **Calculadora de Base de Maná (`calculate_mana_base.py`):**
    - Calcula el coste medio de maná (CMC) y distribución de curva.
@@ -71,7 +79,7 @@ Diseñada como un asistente experto para jugadores y constructores de mazos de M
 
 ---
 
-## 🃏 Los 5 Mazos de Commander Incluidos
+## 🃏 Mazos de Commander (EDH)
 
 Todos los mazos están verificados con 100 cartas exactas, formateados con comentarios por sección listos para importar directamente en **ManaBox (Android / iOS)**:
 
@@ -85,9 +93,19 @@ Todos los mazos están verificados con 100 cartas exactas, formateados con comen
 
 ---
 
+## ⚔️ Mazos Casuales (60 Cartas)
+
+Mazos optimizados para juego casual construido 1v1 o multijugador con 60 cartas de mazo principal y 15 cartas de banquillo:
+
+| Mazo / Arquetipo | Colores | Estrategia Principal | Lista ManaBox | Guía Técnica |
+| :--- | :---: | :--- | :--- | :--- |
+| **Boros Equipment Knights** | Boros (`{R, W}`) | Aggro tribal con 4x lord [`Inspiring Veteran`], combo Voltron de [`Grafted Wargear`] + Doble Daño y recarga con [`Showdown of the Skalds`]. | [`boros_knights.txt`](decks/Casual/boros/boros_knights.txt) | [`boros_knights_guide.md`](decks/Casual/boros/boros_knights_guide.md) |
+
+---
+
 ## 🚀 Cómo importar a ManaBox (Android / iOS)
 
-1. Abre cualquiera de los archivos `.txt` en la carpeta `decks/<comandante>/<comandante>.txt`.
+1. Abre cualquiera de los archivos `.txt` en la carpeta `decks/<Formato>/<mazo>/<mazo>.txt`.
 2. Copia todo el contenido del texto.
 3. En la app **ManaBox**, ve a **Decks** -> **+** -> **Import Deck**.
-4. Pega el texto y selecciona el formato **Commander / EDH**. ManaBox detectará automáticamente el Comandante, las Criaturas, Hechizos, Artefactos y Tierras.
+4. Pega el texto y selecciona el formato correspondiente (**Commander / EDH** o **Casual / Constructed**). ManaBox detectará automáticamente el Comandante o las secciones de Criaturas, Hechizos, Tierras y Banquillo.
