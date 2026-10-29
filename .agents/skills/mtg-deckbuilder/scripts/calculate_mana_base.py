@@ -190,7 +190,7 @@ def main():
     parser = argparse.ArgumentParser(description="Analyze MTG Mana Curve and Land Base")
     parser.add_argument("deck_file", help="Path to deck file")
     parser.add_argument("-f", "--format", default="commander", help="Format name")
-    parser.add_argument("--offline", action="store_true", help="Run 100% offline using local cache")
+    parser.add_argument("--offline", action="store_true", help="Run offline using local cache")
     args = parser.parse_args()
 
     if not os.path.exists(args.deck_file):

@@ -9,7 +9,10 @@
       "max_copies_per_card": 1,
       "singleton": true,
       "commander_required": true,
-      "commander_count": [1, 2],
+      "commander_count": [
+        1,
+        2
+      ],
       "enforce_color_identity": true,
       "starting_life": 40,
       "commander_damage_loss": 21,
@@ -125,6 +128,19 @@
       "enforce_color_identity": false,
       "starting_life": 20,
       "notes": "Minimum 40 cards. No copy limit for cards in pool. Sideboard consists of all unused cards in pool."
+    },
+    "casual": {
+      "name": "Casual / Kitchen Table Constructed",
+      "cr_rule": "100.2a",
+      "min_deck_size": 60,
+      "max_deck_size": null,
+      "sideboard_max": 15,
+      "max_copies_per_card": 4,
+      "singleton": false,
+      "commander_required": false,
+      "enforce_color_identity": false,
+      "starting_life": 20,
+      "notes": "Casual 60-card constructed (CR 100.2a). Minimum 60 cards, max 4 copies per non-basic card, up to 15 sideboard."
     }
   },
   "special_card_limits": {

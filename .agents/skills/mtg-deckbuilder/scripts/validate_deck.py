@@ -358,7 +358,7 @@ def main():
     parser.add_argument("deck_file", help="Path to deck file")
     parser.add_argument("-f", "--format", default="commander", help="Format: commander, standard, modern, pioneer, legacy, vintage, pauper, brawl, limited")
     parser.add_argument("--check-legality", action="store_true", help="Query Scryfall to verify format card legalities and banlists")
-    parser.add_argument("--offline", action="store_true", help="Run 100% offline using local cache without making network requests")
+    parser.add_argument("--offline", action="store_true", help="Run offline using local cache without making network requests")
     parser.add_argument("--json", action="store_true", help="Output validation as JSON")
 
     args = parser.parse_args()
