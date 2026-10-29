@@ -1,0 +1,29 @@
+// Format: Constructed (Standard / Modern / Pioneer / Legacy) (CR 100.2a, 100.4a)
+// Deck Size: Minimum 60 cards
+// Sideboard: Maximum 15 cards
+// Max 4 copies of any unique English card name across main + sideboard (excluding Basic Lands)
+
+Deck
+// [Lands: typically 22-26]
+4 [Dual Land 1]
+4 [Dual Land 2]
+14 [Basic Lands]
+
+// [Creatures / Threats: typically 16-24]
+4 [1-Drop Threat]
+4 [2-Drop Threat]
+4 [3-Drop Threat]
+2 [Finisher]
+
+// [Spells / Interaction / Removal: typically 14-18]
+4 [Removal / Burn / Interaction]
+4 [Card Draw / Filter]
+4 [Disruption / Counters]
+
+Sideboard
+// [Sideboard: Up to 15 cards tailored against meta]
+3 [Graveyard Hate]
+3 [Artifact / Enchantment Removal]
+3 [Anti-Aggro / Sweepers]
+3 [Anti-Control / Additional Countermagic]
+3 [Alternative Win Conditions]

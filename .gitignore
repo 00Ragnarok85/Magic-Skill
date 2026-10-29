@@ -1,0 +1,19 @@
+# Security & Credentials
+api
+token*
+*.key
+*.pem
+*.secret
+
+# Temporary caches & pools
+dimir_pool.json
+remaining_pool.json
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS artifacts
+.DS_Store
+Thumbs.db

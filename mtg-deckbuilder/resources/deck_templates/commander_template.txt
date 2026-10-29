@@ -1,0 +1,32 @@
+// Format: Commander / EDH (CR 903)
+// Deck Size: Exactly 100 cards (including Commander)
+// Rule: Singleton (1 copy of each card except Basic Lands)
+// All cards must match the Commander's Color Identity
+
+Commander
+1 [Legendary Creature or allowed Planeswalker]
+
+Deck
+// [Lands: 36-38 recommended]
+1 Command Tower
+1 Arcane Signet
+// Add your basic lands and dual lands matching commander's identity
+// e.g.:
+// 10 Plains
+// 10 Island
+
+// [Mana Ramp / Rocks: 10-12 recommended]
+1 Sol Ring
+// e.g., Mind Stone, Cultivate, Farseek
+
+// [Card Draw / Advantage: 10-12 recommended]
+// e.g., Rhystic Study, Esper Sentinel, Phyrexian Arena
+
+// [Single Target Removal: 8-10 recommended]
+// e.g., Swords to Plowshares, Beast Within, Counterspell
+
+// [Board Wipes: 2-4 recommended]
+// e.g., Wrath of God, Toxic Deluge, Blasphemous Act
+
+// [Synergy / Strategy / Win Conditions: 25-30 recommended]
+// Core engine cards that fit your deck's archetype

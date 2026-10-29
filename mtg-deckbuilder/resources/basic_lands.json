@@ -1,0 +1,16 @@
+{
+  "basic_lands": {
+    "plains": { "colors": ["W"], "type": "Plains" },
+    "island": { "colors": ["U"], "type": "Island" },
+    "swamp": { "colors": ["B"], "type": "Swamp" },
+    "mountain": { "colors": ["R"], "type": "Mountain" },
+    "forest": { "colors": ["G"], "type": "Forest" },
+    "snow-covered plains": { "colors": ["W"], "type": "Plains" },
+    "snow-covered island": { "colors": ["U"], "type": "Island" },
+    "snow-covered swamp": { "colors": ["B"], "type": "Swamp" },
+    "snow-covered mountain": { "colors": ["R"], "type": "Mountain" },
+    "snow-covered forest": { "colors": ["G"], "type": "Forest" },
+    "wastes": { "colors": [], "type": null }
+  },
+  "basic_land_types": ["Plains", "Island", "Swamp", "Mountain", "Forest"]
+}

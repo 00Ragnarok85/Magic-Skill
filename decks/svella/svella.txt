@@ -1,0 +1,91 @@
+// COMMANDER (1)
+1 Svella, Ice Shaper
+
+// CREATURES (27)
+1 Alena, Kessig Trapper
+1 Annoyed Altisaur
+1 Basalt Ravager
+1 Battle Mammoth
+1 Beanstalk Giant // Fertile Footsteps
+1 Birgi, God of Storytelling // Harnfel, Horn of Bounty
+1 Boarding Party
+1 Cinderheart Giant
+1 Doomskar Titan
+1 Entourage of Trest
+1 Farhaven Elf
+1 Hornet Queen
+1 Humble Naturalist
+1 Hydra Broodmaster
+1 Incubation Druid
+1 Jaspera Sentinel
+1 Joraga Visionary
+1 Kodama of the East Tree
+1 Lotus Cobra
+1 Masked Vandal
+1 Old-Growth Troll
+1 Rampaging Baloths
+1 Sifter Wurm
+1 Sweet-Gum Recluse
+1 Terastodon
+1 Toski, Bearer of Secrets
+1 Wicked Wolf
+
+// PLANESWALKERS (1)
+1 Garruk, Primal Hunter
+
+// ARTIFACTS (8)
+1 Altar of the Pantheon
+1 Armillary Sphere
+1 Esika's Chariot
+1 Guild Globe
+1 Murmuring Volume
+1 Raiders' Karve
+1 Seer's Lantern
+1 Traveler's Amulet
+
+// ENCHANTMENTS (4)
+1 Arni Slays the Troll
+1 Gift of Paradise
+1 Rune of Might
+1 The Weatherseed Treaty
+
+// INSTANTS (9)
+1 Beast Within
+1 Broken Wings
+1 Hunter's Insight
+1 Krosan Grip
+1 Natural Reclamation
+1 Return of the Wildspeaker
+1 Shredded Sails
+1 Thrill of Possibility
+1 Wilt
+
+// SORCERIES (14)
+1 Adventure Awaits
+1 Blessing of Frost
+1 Blizzard Brawl
+1 Ezuri's Predation
+1 Jeska's Will
+1 Migration Path
+1 Mizzix's Mastery
+1 Rampant Growth
+1 Reshape the Earth
+1 Roots of Wisdom
+1 Scale the Heights
+1 Seize the Spoils
+1 Shamanic Revelation
+1 Tundra Fumarole
+
+// LANDS (36)
+1 Blighted Woodland
+12 Forest
+1 Gnottvold Slumbermound
+1 Highland Forest
+1 Llanowar Reborn
+1 Mosswort Bridge
+10 Mountain
+1 Oran-Rief, the Vastwood
+1 Rugged Highlands
+1 Shimmerdrift Vale
+5 Snow-Covered Forest
+1 Tranquil Thicket

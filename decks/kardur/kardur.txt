@@ -1,0 +1,91 @@
+// COMMANDER (1)
+1 Kardur, Doomscourge
+
+// CREATURES (23)
+1 Axgard Cavalry
+1 Boarding Party
+1 Bushmeat Poacher
+1 Cinderheart Giant
+1 Crimson Fleet Commodore
+1 Demon of Loathing
+1 Doomskar Titan
+1 Dream Devourer
+1 Elvish Doomsayer
+1 Foulmire Knight // Profane Insight
+1 Goldspan Dragon
+1 Immersturm Predator
+1 Immersturm Raider
+1 Impulsive Pilferer
+1 Kathari Bomber
+1 Meteor Golem
+1 Novice Dissector
+1 Rakshasa Debaser
+1 Slaughter-Priest of Mogis
+1 Staunch Throneguard
+1 Thorn of the Black Rose
+1 Toralf, God of Fury // Toralf's Hammer
+1 Viscera Seer
+
+// ARTIFACTS (9)
+1 Armillary Sphere
+1 Dreamstone Hedron
+1 Fire Diamond
+1 Golden Egg
+1 Goldvein Pick
+1 Prophetic Prism
+1 Sisay's Ring
+1 Spare Supplies
+1 Traveler's Amulet
+
+// ENCHANTMENTS (3)
+1 Kardur's Vicious Return
+1 Rune of Mortality
+1 Rune of Speed
+
+// INSTANTS (14)
+1 Blazing Crescendo
+1 Corpse Churn
+1 Demonic Gifts
+1 Fated Return
+1 Fling
+1 Frost Bite
+1 Heartfire
+1 Murder
+1 Poison the Cup
+1 Raise the Draugr
+1 Sulfurous Blast
+1 Supernatural Stamina
+1 Tergrid's Shadow
+1 Thrill of Possibility
+
+// SORCERIES (14)
+1 Act of Treason
+1 Bitter Revelation
+1 Cathartic Reunion
+1 Claim the Firstborn
+1 Crush the Weak
+1 Endless Obedience
+1 Return Upon the Tide
+1 Rise from the Grave
+1 Skull Raid
+1 Soulfire Eruption
+1 Spark Harvest
+1 Tentative Connection
+1 Unbreakable Bond
+1 Volcanic Torrent
+
+// LANDS (36)
+1 Akoum Warrior // Akoum Teeth
+1 Base Camp
+1 Bloodfell Caves
+1 Faceless Haven
+1 Immersturm Skullcairn
+7 Mountain
+1 Shimmerdrift Vale
+6 Snow-Covered Mountain
+1 Song-Mad Treachery // Song-Mad Ruins
+1 Spikefield Hazard // Spikefield Cave
+1 Sulfurous Mire
+12 Swamp
+1 Terramorphic Expanse
+1 Unknown Shores

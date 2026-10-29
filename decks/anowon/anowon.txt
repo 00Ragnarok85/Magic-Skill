@@ -1,0 +1,93 @@
+// COMMANDER (1)
+1 Anowon, the Ruin Thief
+
+// CREATURES (30)
+1 Blackbloom Rogue // Blackbloom Bog
+1 Bloodline Pretender
+1 Changeling Outcast
+1 Consuming Aberration
+1 Daring Saboteur
+1 Dhund Operative
+1 Expedition Skulker
+1 Faerie Vandal
+1 Frogtosser Banneret
+1 Glasspool Mimic // Glasspool Shore
+1 Gonti, Lord of Luxury
+1 Invisible Stalker
+1 Lazav, Dimir Mastermind
+1 Merfolk Windrobber
+1 Nighthawk Scavenger
+1 Nighthowler
+1 Nightveil Sprite
+1 Notion Thief
+1 Ogre Slumlord
+1 Oona's Blackguard
+1 Oona, Queen of the Fae
+1 Sepulchral Primordial
+1 Slither Blade
+1 Soaring Thought-Thief
+1 Stinkdrinker Bandit
+1 Sure-Footed Infiltrator
+1 Sygg, River Cutthroat
+1 Syr Konrad, the Grim
+1 Triton Shorestalker
+1 Whirler Rogue
+
+// ARTIFACTS (11)
+1 Arcane Signet
+1 Blackblade Reforged
+1 Bonehoard
+1 Dimir Signet
+1 Heirloom Blade
+1 Mind Stone
+1 Obelisk of Urd
+1 Scroll Rack
+1 Scytheclaw
+1 Sol Ring
+1 Whispersteel Dagger
+
+// ENCHANTMENTS (5)
+1 Aqueous Form
+1 Bastion of Remembrance
+1 King Narfi's Betrayal
+1 Military Intelligence
+1 Ominous Seas
+
+// INSTANTS (8)
+1 Aetherize
+1 Fact or Fiction
+1 Negate
+1 Price of Fame
+1 Resculpt
+1 Saw It Coming
+1 Silumgar's Command
+1 Whirlwind Denial
+
+// SORCERIES (10)
+1 Crippling Fear
+1 Curse of the Swine
+1 Distant Melody
+1 Extract from Darkness
+1 Feed the Swarm
+1 Maddening Cacophony
+1 Necromantic Selection
+1 Notorious Throng
+1 Open into Wonder
+1 Victimize
+
+// LANDS (35)
+1 Access Tunnel
+1 Command Tower
+1 Dimir Aqueduct
+1 Dimir Guildgate
+1 Dismal Backwater
+1 Exotic Orchard
+1 Ice Tunnel
+1 Jwar Isle Refuge
+1 Myriad Landscape
+1 Path of Ancestry
+1 Port of Karfell
+1 Rogue's Passage
+1 Submerged Boneyard
+11 Swamp
+11 Island

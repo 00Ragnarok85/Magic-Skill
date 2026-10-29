@@ -1,0 +1,20 @@
+{
+  "common_lands": [
+    "command tower", "arcane signet", "path of ancestry", "exotic orchard", "fabled passage",
+    "prismatic vista", "myriad landscape", "terramorphic expanse", "evolving wilds",
+    "castle embereth", "den of the bugbear", "forgotten cave", "smoldering crater",
+    "war room", "command beacon", "nykthos, shrine of nyx", "reliquary tower",
+    "rogue's passage", "ancient tomb", "strip mine", "wasteland", "valakut, the molten pinnacle",
+    "boseiju, who endures", "otawara, soaring city", "takenuma, abandoned mire",
+    "sokenzan, crucible of defiance", "eiganjo, seat of the empire",
+    "bloodstained mire", "wooded foothills", "windswept heath", "polluted delta",
+    "flooded strand", "scalding tarn", "verdant catacombs", "arid mesa",
+    "marsh flats", "misty rainforest", "badlands", "bayou", "plateau", "savannah",
+    "scrubland", "taiga", "tropical island", "underground sea", "volcanic island",
+    "tundra", "blood crypt", "breeding pool", "godless shrine", "hallowed fountain",
+    "overgrown tomb", "sacred foundry", "steam vents", "stomping ground",
+    "temple garden", "watery grave", "inspiring vantage", "blackcleave cliffs",
+    "darkslick shores", "seachrome coast", "copperline gorge", "sunbaked canyon",
+    "fiery islet", "horizon canopy", "nurturing peatland", "silent clearing", "waterlogged grove"
+  ]
+}

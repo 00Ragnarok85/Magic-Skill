@@ -1,0 +1,93 @@
+// Format: Commander / EDH (CR 903)
+// Commander: Krenko, Mob Boss
+// Total Cards: Exactly 100 cards (1 Commander + 99 Mainboard)
+// Color Identity: Red
+// Rules: CR 903.5a (100 cards exact), CR 903.5b (Singleton except Basic Lands), CR 903.5c (Color Identity)
+
+Commander
+1 Krenko, Mob Boss
+
+Deck
+// --- Ramp & Fast Mana (10) ---
+1 Sol Ring
+1 Arcane Signet
+1 Ruby Medallion
+1 Mind Stone
+1 Thought Vessel
+1 Fire Diamond
+1 Heraldic Banner
+1 Worn Powerstone
+1 Commander's Sphere
+1 Gilded Lotus
+
+// --- Card Advantage & Draw (10) ---
+1 Skullclamp
+1 Wheel of Misfortune
+1 Faithless Looting
+1 Thrill of Possibility
+1 Tormenting Voice
+1 Cathartic Reunion
+1 Light Up the Stage
+1 Jeska's Will
+1 Reforge the Soul
+1 Valakut Exploration
+
+// --- Goblin Lords & Synergy (25) ---
+1 Goblin Chieftain
+1 Goblin King
+1 Goblin Warchief
+1 Siege-Gang Commander
+1 Goblin Trashmaster
+1 Rundvelt Hordemaster
+1 Skirk Prospector
+1 Pashalik Mons
+1 Muxus, Goblin Grandee
+1 Goblin Piledriver
+1 Legion Warboss
+1 Goblin Rabblemaster
+1 Warren Instigator
+1 Goblin Matron
+1 Goblin Ringleader
+1 Goblin Recruiter
+1 Krenko, Tin Street Kingpin
+1 Beetleback Chief
+1 Conspicuous Snoop
+1 Goblin Instigator
+1 Battle Cry Goblin
+1 Hobgoblin Bandit Lord
+1 Dark-Dweller Oracle
+1 Goro-Goro, Disciple of Ryusei
+1 Squee, the Immortal
+
+// --- Token Makers & Finishers (10) ---
+1 Dragon Fodder
+1 Krenko's Command
+1 Hordeling Outburst
+1 Empty the Warrens
+1 Shared Animosity
+1 Impact Tremors
+1 Purphoros, God of the Forge
+1 Goblin Bombardment
+1 Torbran, Thane of Red Fell
+1 Burn at the Stake
+
+// --- Interaction & Removal (8) ---
+1 Chaos Warp
+1 Lightning Bolt
+1 Abrade
+1 Blasphemous Act
+1 Chain Reaction
+1 Vandalblast
+1 Tibalt's Trickery
+1 Deflecting Swat
+
+// --- Utility Lands & Basic Mountains (36) ---
+1 Castle Embereth
+1 Den of the Bugbear
+1 Forgotten Cave
+1 Smoldering Crater
+1 War Room
+1 Command Beacon
+1 Myriad Landscape
+1 Nykthos, Shrine of Nyx
+28 Mountain

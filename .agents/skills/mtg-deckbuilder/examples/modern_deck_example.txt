@@ -1,0 +1,30 @@
+// Format: Modern
+// Archetype: Burn
+// Main Deck: 60 cards
+// Sideboard: 15 cards
+// Rules: CR 100.2a (min 60 cards, max 4 copies), CR 100.4a (max 15 sideboard)
+
+Deck
+4 Goblin Guide
+4 Monastery Swiftspear
+4 Eidolon of the Great Revel
+4 Lightning Bolt
+4 Lava Spike
+4 Rift Bolt
+4 Searing Blaze
+4 Boros Charm
+4 Lightning Helix
+4 Inspiring Vantage
+4 Sacred Foundry
+4 Arid Mesa
+4 Bloodstained Mire
+2 Sunbaked Canyon
+2 Mountain
+4 Skullcrack
+
+Sideboard
+3 Smash to Smithereens
+3 Path to Exile
+3 Roiling Vortex
+3 Sanctifier en-Vec
+3 Deflecting Palm

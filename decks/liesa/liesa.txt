@@ -1,0 +1,94 @@
+// COMMANDER (1)
+1 Liesa, Shroud of Dusk
+
+// CREATURES (29)
+1 Akroma, Vision of Ixidor
+1 Daxos, Blessed by the Sun
+1 Demon's Disciple
+1 Drannith Magistrate
+1 Egon, God of Death // Throne of Death
+1 Elderfang Disciple
+1 Elvish Doomsayer
+1 Filigree Familiar
+1 Firja, Judge of Valor
+1 Fleshbag Marauder
+1 Gray Merchant of Asphodel
+1 Keleth, Sunmane Familiar
+1 Kor Celebrant
+1 Mage Hunter
+1 Marauding Blight-Priest
+1 Nadier's Nightblade
+1 Nullpriest of Oblivion
+1 Pilgrim's Eye
+1 Radiant, Serra Archangel
+1 Screeching Soulbreaker
+1 Selfless Savior
+1 Shepherd of the Cosmos
+1 Silverquill Pledgemage
+1 Soulmender
+1 Staunch Throneguard
+1 Tergrid, God of Fright // Tergrid's Lantern
+1 Thalia, the Survivor
+1 Tymaret, Chosen from Death
+1 Viscera Seer
+
+// ARTIFACTS (7)
+1 Arcane Signet
+1 Commander's Sphere
+1 Firemind Vessel
+1 Goldvein Pick
+1 Hero's Blade
+1 Relic Vial
+1 Sol Ring
+
+// ENCHANTMENTS (5)
+1 Banishing Light
+1 Benevolent Blessing
+1 Dogged Pursuit
+1 Faith's Fetters
+1 Omen of the Sun
+
+// INSTANTS (10)
+1 Bake into a Pie
+1 Fracture
+1 Light of Hope
+1 Path to Exile
+1 Plumb the Forbidden
+1 Poison the Cup
+1 Rally of Wings
+1 Revitalize
+1 Tergrid's Shadow
+1 Village Rites
+
+// SORCERIES (12)
+1 Blood on the Snow
+1 Cast Away Doubt
+1 Environmental Sciences
+1 Extinction Event
+1 Feast of Succession
+1 Feed the Swarm
+1 Funeral Rites
+1 Generous Revival
+1 Go Blank
+1 In Garruk's Wake
+1 Open the Armory
+1 Slaughter the Strong
+
+// LANDS (36)
+1 Blackbloom Rogue // Blackbloom Bog
+1 Command Tower
+1 Great Hall of Starnheim
+1 Kabira Takedown // Kabira Plateau
+1 Myriad Landscape
+1 Opal Palace
+1 Pelakka Predation // Pelakka Caverns
+6 Plains
+1 Rogue's Passage
+1 Scoured Barrens
+6 Snow-Covered Plains
+6 Snow-Covered Swamp
+1 Snowfield Sinkhole
+5 Swamp
+1 Temple of Silence
+1 Terramorphic Expanse
+1 Thriving Heath

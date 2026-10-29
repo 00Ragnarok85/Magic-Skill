@@ -1,0 +1,90 @@
+// COMMANDER (1)
+1 Adrix and Nev, Twincasters
+
+// CREATURES (24)
+1 Beanstalk Giant // Fertile Footsteps
+1 Biomathematician
+1 Caustic Caterpillar
+1 Champion of Wits
+1 Crafty Cutpurse
+1 Curious Pair // Treats to Share
+1 Cyclone Summoner
+1 Desolation Twin
+1 Elderleaf Mentor
+1 Farfinder
+1 Flaxen Intruder // Welcome Home
+1 Humble Naturalist
+1 Kaseto, Orochi Archmage
+1 Kazandu Tuskcaller
+1 Malcolm, Keen-Eyed Navigator
+1 Meteor Golem
+1 Migratory Greathorn
+1 Old-Growth Troll
+1 Prosperous Pirates
+1 Reclamation Sage
+1 Ruxa, Patient Professor
+1 Sailor of Means
+1 Sarulf's Packmate
+1 Treeshaker Chimera
+
+// ARTIFACTS (10)
+1 Commander's Sphere
+1 Fractal Harness
+1 Goldvein Pick
+1 Heraldic Banner
+1 Idol of Oblivion
+1 Mana Geode
+1 Moss Diamond
+1 Replicating Ring
+1 Sequence Engine
+1 Witching Well
+
+// ENCHANTMENTS (6)
+1 Mantle of the Wolf
+1 Omen of the Hunt
+1 Reflections of Littjara
+1 Roost of Drakes
+1 The Bears of Littjara
+1 The Weatherseed Treaty
+
+// INSTANTS (16)
+1 Annul
+1 Anticipate
+1 Behold the Multiverse
+1 Biomass Mutation
+1 Commander's Insight
+1 Essence Scatter
+1 Eureka Moment
+1 Into the Roil
+1 Lofty Denial
+1 Opt
+1 Ram Through
+1 Rapid Hybridization
+1 Snakeskin Veil
+1 Thirst for Knowledge
+1 Thirst for Meaning
+1 Wilt
+
+// SORCERIES (8)
+1 Boon of the Wish-Giver
+1 Deep Analysis
+1 Field Trip
+1 Introduction to Annihilation
+1 Of One Mind
+1 Ravenform
+1 Stolen Identity
+1 Storm the Citadel
+
+// LANDS (35)
+1 Beyeen Veil // Beyeen Coast
+1 Evolving Wilds
+1 Opal Palace
+1 Silundi Vision // Silundi Isle
+1 Study Hall
+1 Temple of the False God
+1 Terramorphic Expanse
+1 Theorist's Sanctum
+1 Tyrite Sanctum
+1 Unknown Shores
+13 Forest
+12 Island
