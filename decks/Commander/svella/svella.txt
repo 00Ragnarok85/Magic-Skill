@@ -40,7 +40,7 @@
 1 Guild Globe
 1 Murmuring Volume
 1 Raiders' Karve
-1 Seer's Lantern
+1 Scroll Rack
 1 Traveler's Amulet
 
 // ENCHANTMENTS (4)

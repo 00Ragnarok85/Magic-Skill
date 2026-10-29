@@ -2,7 +2,7 @@
 ### Infiltración Tribal, Molino de Combate y Hurto de Cementerios (Dimir Rogues & Reanimation)
 
 > **Formato:** Commander / EDH (CR 903)  
-> **Comandante:** [`Anowon, the Ruin Thief`](file:///root/mtg/decks/Commander/anowon/anowon.txt#L2)  
+> **Comandante:** [Anowon, the Ruin Thief](file:///root/mtg/decks/Commander/anowon/anowon.txt#L2)  
 > **Identidad de Color:** Dimir (`{U, B}`)  
 > **Total Cartas:** 100 cartas exactas (Conforme a la normativa oficial CR 903.5)  
 > **Lista del mazo:** [`decks/Commander/anowon/anowon.txt`](file:///root/mtg/decks/Commander/anowon/anowon.txt)  
@@ -15,9 +15,9 @@
 | Característica | Detalle |
 | :--- | :--- |
 | **Coste de Maná** | `{2}{U}{B}` (CMC: 4) |
-| **Tipo de Carta** | Criatura Legendaria — Pícaro Vampiro (2/4) |
-| **Efecto Lord Tribal** | *"Los otros Pícaros que controlas obtienen +1/+1."* |
-| **Habilidad de Combate** | *"Siempre que uno o más Pícaros que controlas hagan daño de combate a un jugador, ese jugador muele (*mills*) una carta por cada 1 punto de daño recibido. Si ese jugador molió al menos una carta de criatura de esta manera, robas una carta."* |
+| **Tipo de Carta** | Criatura Legendaria — Bribón Vampiro (2/4) |
+| **Efecto Lord Tribal** | *"Los otros Bribones que controlas obtienen +1/+1."* |
+| **Habilidad de Combate** | *"Siempre que uno o más Bribones que controlas hagan daño de combate a un jugador, ese jugador muele (*mills*) una carta por cada 1 punto de daño recibido. Si ese jugador molió al menos una carta de criatura de esta manera, robas una carta."* |
 
 ### Reglas Oficiales Clave (CR 903 & CR 510)
 1. **Disparo por Cada Jugador Impactado:** La habilidad se comprueba **por cada oponente individual**. Si atacas a 3 oponentes distintos con al menos un Rogue a cada uno y los 3 reciben daño, mueles a los 3 y puedes **robar hasta 3 cartas en un solo turno de combate**.
@@ -63,7 +63,7 @@ Distribución de Pips:   Negro (B): 52.0%  |  Azul (U): 48.0%
 
 ```mermaid
 flowchart TD
-    A["Pícaros Imbloqueables / Evasivos"] -->|Daño de Combate| B["Molino al Oponente (Mill)"]
+    A["Bribones Imbloqueables / Evasivos"] -->|Daño de Combate| B["Molino al Oponente (Mill)"]
     B -->|Criatura en Cementerio| C["Robo Masivo de Cartas (Anowon)"]
     B -->|Cementerios Llenos| D["Hurto y Reanimación de Amenazas"]
     B -->|Pings continuos| E["Drenaje Letal (Syr Konrad)"]
@@ -74,34 +74,34 @@ flowchart TD
 La clave para que Anowon funcione es que tus criaturas **no puedan ser bloqueadas**:
 
 * **Imbloqueables Naturales de Coste 1 y 2:**
-  * [`Slither Blade`](file:///root/mtg/decks/Commander/anowon/anowon.txt#L27), [`Triton Shorestalker`](file:///root/mtg/decks/Commander/anowon/anowon.txt#L33) y [`Changeling Outcast`](file:///root/mtg/decks/Commander/anowon/anowon.txt#L7): Atacantes de turno 1 que garantizan daño en todos los turnos.
-  * [`Invisible Stalker`](file:///root/mtg/decks/Commander/anowon/anowon.txt#L16): Imbloqueable y con **Antimaleficio** (*Hexproof*). Es el mejor portador de equipos de todo el mazo.
-  * [`Daring Saboteur`](file:///root/mtg/decks/Commander/anowon/anowon.txt#L9): Se hace imbloqueable pagando `{1}{U}` y filtra tu mano robando y descartando.
+  * [Slither Blade](file:///root/mtg/decks/Commander/anowon/anowon.txt#L27), [Triton Shorestalker](file:///root/mtg/decks/Commander/anowon/anowon.txt#L33) y [Changeling Outcast](file:///root/mtg/decks/Commander/anowon/anowon.txt#L7): Atacantes de turno 1 que garantizan daño en todos los turnos.
+  * [Invisible Stalker](file:///root/mtg/decks/Commander/anowon/anowon.txt#L16): Imbloqueable y con **Antimaleficio** (*Hexproof*). Es el mejor portador de equipos de todo el mazo.
+  * [Daring Saboteur](file:///root/mtg/decks/Commander/anowon/anowon.txt#L9): Se hace imbloqueable pagando `{1}{U}` y filtra tu mano robando y descartando.
 * **Voladores y Flash con Utilidad:**
-  * [`Soaring Thought-Thief`](file:///root/mtg/decks/Commander/anowon/anowon.txt#L28): Entra a velocidad instantánea (*Flash*), da +1/+0 a tus Rogues y muele 2 cartas a cada rival al atacar.
-  * [`Faerie Vandal`](file:///root/mtg/decks/Commander/anowon/anowon.txt#L12): Vuela y gana un contador +1/+1 cada vez que robas tu segunda carta del turno (automático con Anowon).
-  * [`Merfolk Windrobber`](file:///root/mtg/decks/Commander/anowon/anowon.txt#L18) y [`Nightveil Sprite`](file:///root/mtg/decks/Commander/anowon/anowon.txt#L21): Aceleran el molino y vigilan (*Surveil*) la parte superior de tu baraja.
-* **Señores Pícaros (*Lords*) y Disrupción:**
-  * [`Oona's Blackguard`](file:///root/mtg/decks/Commander/anowon/anowon.txt#L24): Pone contadores +1/+1 sobre tus Rogues y hace que **los oponentes descarten una carta** cada vez que una de tus criaturas con contador les haga daño de combate.
-  * [`Stinkdrinker Bandit`](file:///root/mtg/decks/Commander/anowon/anowon.txt#L29): Otorga la habilidad de **Merodear** (*Prowl*): cada vez que un Rogue no sea bloqueado, obtiene **+2/+1**. Con 3 criaturas imbloqueables es un impulso de +6 de daño.
-  * [`Frogtosser Banneret`](file:///root/mtg/decks/Commander/anowon/anowon.txt#L13): Reduce en `{1}` el coste de todos tus Pícaros.
-  * [`Notion Thief`](file:///root/mtg/decks/Commander/anowon/anowon.txt#L22): Carta brutal en Commander. Si un oponente fuera a robar cartas adicionales, **las robas tú en su lugar**.
+  * [Soaring Thought-Thief](file:///root/mtg/decks/Commander/anowon/anowon.txt#L28): Entra a velocidad instantánea (*Flash*), da +1/+0 a tus Rogues y muele 2 cartas a cada rival al atacar.
+  * [Faerie Vandal](file:///root/mtg/decks/Commander/anowon/anowon.txt#L12): Vuela y gana un contador +1/+1 cada vez que robas tu segunda carta del turno (automático con Anowon).
+  * [Merfolk Windrobber](file:///root/mtg/decks/Commander/anowon/anowon.txt#L18) y [Nightveil Sprite](file:///root/mtg/decks/Commander/anowon/anowon.txt#L21): Aceleran el molino y vigilan (*Surveil*) la parte superior de tu baraja.
+* **Señores Bribones (*Lords*) y Disrupción:**
+  * [Oona's Blackguard](file:///root/mtg/decks/Commander/anowon/anowon.txt#L24): Pone contadores +1/+1 sobre tus Rogues y hace que **los oponentes descarten una carta** cada vez que una de tus criaturas con contador les haga daño de combate.
+  * [Stinkdrinker Bandit](file:///root/mtg/decks/Commander/anowon/anowon.txt#L29): Otorga la habilidad de **Merodear** (*Prowl*): cada vez que un Rogue no sea bloqueado, obtiene **+2/+1**. Con 3 criaturas imbloqueables es un impulso de +6 de daño.
+  * [Frogtosser Banneret](file:///root/mtg/decks/Commander/anowon/anowon.txt#L13): Reduce en `{1}` el coste de todos tus Bribones.
+  * [Notion Thief](file:///root/mtg/decks/Commander/anowon/anowon.txt#L22): Carta brutal en Commander. Si un oponente fuera a robar cartas adicionales, **las robas tú en su lugar**.
 
 ---
 
 ### Pilar 2: Amenazas que Escalan con el Molino (Payoffs)
 A medida que Anowon vacía las bibliotecas enemigas, estas cartas se convierten en monstruos descomunales:
 
-1. **[`Consuming Aberration`](file:///root/mtg/decks/Commander/anowon/anowon.txt#L8):**
+1. **[Consuming Aberration](file:///root/mtg/decks/Commander/anowon/anowon.txt#L8):**
    * Su fuerza y resistencia son iguales a **todas las cartas en todos los cementerios oponentes** (fácilmente un 30/30 o 40/40 en turnos medios).
    * Cada vez que lanzas un hechizo, un rival muele cartas hasta revelar una tierra.
-2. **[`Syr Konrad, the Grim`](file:///root/mtg/decks/Commander/anowon/anowon.txt#L32):**
+2. **[Syr Konrad, the Grim](file:///root/mtg/decks/Commander/anowon/anowon.txt#L32):**
    * Cada vez que una carta de criatura entra a un cementerio desde cualquier lugar (incluyendo al ser molida por Anowon), **hace 1 punto de daño a cada oponente**.
    * Con 3 oponentes moliendo criaturas en combate, Syr Konrad drena entre 4 y 8 vidas por turno a toda la mesa sin tener que atacar.
-3. **[`Nighthowler`](file:///root/mtg/decks/Commander/anowon/anowon.txt#L20):**
+3. **[Nighthowler](file:///root/mtg/decks/Commander/anowon/anowon.txt#L20):**
    * Criatura con *Bestow* que obtiene +X/+X igual a todas las criaturas en todos los cementerios.
-   * Puedes encantar a un [`Invisible Stalker`](file:///root/mtg/decks/Commander/anowon/anowon.txt#L16) para convertirlo en un atacante imbloqueable 15/15 con antimaleficio.
-4. **[`Nighthawk Scavenger`](file:///root/mtg/decks/Commander/anowon/anowon.txt#L19):**
+   * Puedes encantar a un [Invisible Stalker](file:///root/mtg/decks/Commander/anowon/anowon.txt#L16) para convertirlo en un atacante imbloqueable 15/15 con antimaleficio.
+4. **[Nighthawk Scavenger](file:///root/mtg/decks/Commander/anowon/anowon.txt#L19):**
    * Vampiro con volar, toque mortal y vínculo vital cuya fuerza escala con la cantidad de tipos de carta en los cementerios rivales (tierra, criatura, instantáneo, conjuro, artefacto, encantamiento, planeswalker).
 
 ---
@@ -109,49 +109,49 @@ A medida que Anowon vacía las bibliotecas enemigas, estas cartas se convierten 
 ### Pilar 3: Reanimación y Hurto del Rival (Reanimation & Theft)
 ¿Para qué gastar maná en criaturas gigantes cuando puedes robar las de tus oponentes?
 
-* **[`Whispersteel Dagger`](file:///root/mtg/decks/Commander/anowon/anowon.txt#L47):**
+* **[Whispersteel Dagger](file:///root/mtg/decks/Commander/anowon/anowon.txt#L47):**
   * Equipo estelar para Anowon. Cuando la criatura equipada hace daño de combate a un rival, **puedes lanzar cartas de su cementerio** gastando maná de cualquier color. Te juegas sus mejores hechizos y criaturas recién molidas.
-* **[`Victimize`](file:///root/mtg/decks/Commander/anowon/anowon.txt#L76):**
+* **[Victimize](file:///root/mtg/decks/Commander/anowon/anowon.txt#L76):**
   * Por solo `{2}{B}`, sacrificas un Rogue de coste 1 como *Slither Blade* y regresas al campo de batalla **dos cartas de criatura** de tu cementerio (por ejemplo, *Consuming Aberration* y *Sepulchral Primordial*).
-* **[`Sepulchral Primordial`](file:///root/mtg/decks/Commander/anowon/anowon.txt#L26):**
+* **[Sepulchral Primordial](file:///root/mtg/decks/Commander/anowon/anowon.txt#L26):**
   * Entra al campo con intimidar y pone bajo tu control la mejor criatura del cementerio de **cada uno de tus oponentes** (3 criaturas gigantes de golpe).
-* **[`Extract from Darkness`](file:///root/mtg/decks/Commander/anowon/anowon.txt#L70):**
+* **[Extract from Darkness](file:///root/mtg/decks/Commander/anowon/anowon.txt#L70):**
   * Muele 2 cartas a cada jugador y reanima cualquier criatura de cualquier cementerio.
-* **[`King Narfi's Betrayal`](file:///root/mtg/decks/Commander/anowon/anowon.txt#L52):**
+* **[King Narfi's Betrayal](file:///root/mtg/decks/Commander/anowon/anowon.txt#L52):**
   * Saga que muele 4 cartas a toda la mesa y en los dos turnos siguientes te permite lanzar criaturas y planeswalkers de entre las cartas molidas.
-* **[`Lazav, Dimir Mastermind`](file:///root/mtg/decks/Commander/anowon/anowon.txt#L17):**
+* **[Lazav, Dimir Mastermind](file:///root/mtg/decks/Commander/anowon/anowon.txt#L17):**
   * Criatura 3/3 con antimaleficio que, cada vez que una criatura enemiga va al cementerio, puede transformarse en una copia de esa criatura manteniendo su nombre y antimaleficio.
 
 ---
 
 ### Pilar 4: Artefactos, Equipos y Armamento (12 Cartas)
 
-* **[`Scroll Rack`](file:///root/mtg/decks/Commander/anowon/anowon.txt#L44):** 
-  * Artefacto de control de mano supremo. Por `{1}` maná intercambias las cartas muertas de tu mano por la misma cantidad de cartas frescas de tu biblioteca.
-* **[`Blackblade Reforged`](file:///root/mtg/decks/Commander/anowon/anowon.txt#L38):**
+* **[Grafted Wargear](file:///root/mtg/decks/Commander/anowon/anowon.txt#L41):** 
+  * Equipo estelar con coste de equipar de `{0}` manás. Otorga **+3/+2**, transformando a cualquier Bribón 1/1 inbloqueable en un temible 4/3 que inflige 4 de daño y **muele 4 cartas por impacto**, acelerando enormemente el motor de robo de Anowon.
+* **[Blackblade Reforged](file:///root/mtg/decks/Commander/anowon/anowon.txt#L38):**
   * Otorga +1/+1 por cada tierra que controlas. Equipado a Anowon, permite noquear a los rivales por daño de comandante (21 puntos).
-* **[`Obelisk of Urd`](file:///root/mtg/decks/Commander/anowon/anowon.txt#L43):**
-  * Artefacto con convocar (*Convoke*). Tus propios pícaros te ayudan a lanzarlo gratis; da **+2/+2 a todos tus Rogues**.
-* **[`Heirloom Blade`](file:///root/mtg/decks/Commander/anowon/anowon.txt#L41):**
-  * Da +3/+1. Cuando la criatura equipada muere, revela cartas de tu biblioteca hasta encontrar otro Pícaro y ponerlo en tu mano, asegurando que nunca te quedes sin criaturas.
-* **[`Scytheclaw`](file:///root/mtg/decks/Commander/anowon/anowon.txt#L45):**
+* **[Obelisk of Urd](file:///root/mtg/decks/Commander/anowon/anowon.txt#L44):**
+  * Artefacto con convocar (*Convoke*). Tus propios bribones te ayudan a lanzarlo gratis; da **+2/+2 a todos tus Rogues**.
+* **[Heirloom Blade](file:///root/mtg/decks/Commander/anowon/anowon.txt#L42):**
+  * Da +3/+1. Cuando la criatura equipada muere, revela cartas de tu biblioteca hasta encontrar otro Bribón y ponerlo en tu mano, asegurando que nunca te quedes sin criaturas.
+* **[Scytheclaw](file:///root/mtg/decks/Commander/anowon/anowon.txt#L45):**
   * Cada vez que conecta daño a un oponente, ese jugador **pierde la mitad de su total de vidas**.
 
 ---
 
 ### Pilar 5: Interacción, Contrahechizos e Iras Asimétricas
 
-* **[`Crippling Fear`](file:///root/mtg/decks/Commander/anowon/anowon.txt#L67) (Ira Unilateral):**
-  * Eliges el tipo **Pícaro (*Rogue*)**. Todas las criaturas que no sean Pícaros obtienen **-3/-3**. Barres los aceleradores, fichas y defensas rivales mientras todo tu ejército sigue intacto en mesa.
-* **[`Curse of the Swine`](file:///root/mtg/decks/Commander/anowon/anowon.txt#L68):**
+* **[Crippling Fear](file:///root/mtg/decks/Commander/anowon/anowon.txt#L67) (Ira Unilateral):**
+  * Eliges el tipo **Bribón (*Rogue*)**. Todas las criaturas que no sean Bribones obtienen **-3/-3**. Barres los aceleradores, fichas y defensas rivales mientras todo tu ejército sigue intacto en mesa.
+* **[Curse of the Swine](file:///root/mtg/decks/Commander/anowon/anowon.txt#L68):**
   * Exilio selectivo masivo. Exilia las X mayores amenazas de la mesa y las cambia por cerdos 2/2 inofensivos que tus Rogues imbloqueables pueden ignorar.
-* **[`Open into Wonder`](file:///root/mtg/decks/Commander/anowon/anowon.txt#L75):** Hace que X Pícaros sean inbloqueables este turno y roben carta adicional por cada impacto, combinando evasión absoluta y ventaja masiva.
-* **[`Notorious Throng`](file:///root/mtg/decks/Commander/anowon/anowon.txt#L74) (Finisher Absoluto):**
-  * Si hiciste daño con un Rogue ese turno, pagas su coste de *Prowl* `{5}{U}`: pones fichas de Hada Pícaro 1/1 con volar iguales al daño causado y **tomas un turno extra inmediatamente**.
+* **[Open into Wonder](file:///root/mtg/decks/Commander/anowon/anowon.txt#L75):** Hace que X Bribones sean inbloqueables este turno y roben carta adicional por cada impacto, combinando evasión absoluta y ventaja masiva.
+* **[Notorious Throng](file:///root/mtg/decks/Commander/anowon/anowon.txt#L74) (Finisher Absoluto):**
+  * Si hiciste daño con un Rogue ese turno, pagas su coste de *Prowl* `{5}{U}`: pones fichas de Hada Bribón 1/1 con volar iguales al daño causado y **tomas un turno extra inmediatamente**.
 * **Contrahechizos Clave:**
-  * [`Saw It Coming`](file:///root/mtg/decks/Commander/anowon/anowon.txt#L62): Puedes dejarlo en *Foretell* por `{2}` y contrarrestar cualquier hechizo por `{U}{U}`.
-  * [`Whirlwind Denial`](file:///root/mtg/decks/Commander/anowon/anowon.txt#L64): Contrarresta todos los hechizos y habilidades de los oponentes en la pila salvo que paguen `{4}` por cada uno.
-  * [`Negate`](file:///root/mtg/decks/Commander/anowon/anowon.txt#L59): Protección directa frente a iras de mesa o combos no-criatura.
+  * [Saw It Coming](file:///root/mtg/decks/Commander/anowon/anowon.txt#L62): Puedes dejarlo en *Foretell* por `{2}` y contrarrestar cualquier hechizo por `{U}{U}`.
+  * [Whirlwind Denial](file:///root/mtg/decks/Commander/anowon/anowon.txt#L64): Contrarresta todos los hechizos y habilidades de los oponentes en la pila salvo que paguen `{4}` por cada uno.
+  * [Negate](file:///root/mtg/decks/Commander/anowon/anowon.txt#L59): Protección directa frente a iras de mesa o combos no-criatura.
 
 ---
 
@@ -171,21 +171,21 @@ sequenceDiagram
 ```
 
 ### Turnos 1 a 3: Asedio Evasivo
-1. Baja siempre una criatura de turno 1 o 2 ([`Slither Blade`](file:///root/mtg/decks/Commander/anowon/anowon.txt#L27), [`Invisible Stalker`](file:///root/mtg/decks/Commander/anowon/anowon.txt#L16), [`Changeling Outcast`](file:///root/mtg/decks/Commander/anowon/anowon.txt#L7)).
-2. Coloca motores pasivos de robo como [`Military Intelligence`](file:///root/mtg/decks/Commander/anowon/anowon.txt#L53) o [`Ominous Seas`](file:///root/mtg/decks/Commander/anowon/anowon.txt#L54).
+1. Baja siempre una criatura de turno 1 o 2 ([Slither Blade](file:///root/mtg/decks/Commander/anowon/anowon.txt#L27), [Invisible Stalker](file:///root/mtg/decks/Commander/anowon/anowon.txt#L16), [Changeling Outcast](file:///root/mtg/decks/Commander/anowon/anowon.txt#L7)).
+2. Coloca motores pasivos de robo como [Military Intelligence](file:///root/mtg/decks/Commander/anowon/anowon.txt#L53) o [Ominous Seas](file:///root/mtg/decks/Commander/anowon/anowon.txt#L54).
 
 ### Turno 4: La Llegada del Comandante
 1. Entra **Anowon, the Ruin Thief**. Automáticamente todos tus atacantes se convierten en 2/2 o 3/3.
 2. Si tus criaturas ya atacaron o atacan ese turno, inicias la rueda de molino y comienzas a robar cartas adicionales en cada combate.
 
 ### Turnos 5 y 6: El Dominio de Mesa
-1. Equipa [`Whispersteel Dagger`](file:///root/mtg/decks/Commander/anowon/anowon.txt#L47) para empezar a castear los hechizos más potentes que tus rivales hayan molido.
-2. Mantén maná abierto para [`Saw It Coming`](file:///root/mtg/decks/Commander/anowon/anowon.txt#L62), [`Resculpt`](file:///root/mtg/decks/Commander/anowon/anowon.txt#L61) o [`Aetherize`](file:///root/mtg/decks/Commander/anowon/anowon.txt#L57).
+1. Equipa [Whispersteel Dagger](file:///root/mtg/decks/Commander/anowon/anowon.txt#L47) para empezar a castear los hechizos más potentes que tus rivales hayan molido.
+2. Mantén maná abierto para [Saw It Coming](file:///root/mtg/decks/Commander/anowon/anowon.txt#L62), [Resculpt](file:///root/mtg/decks/Commander/anowon/anowon.txt#L61) o [Aetherize](file:///root/mtg/decks/Commander/anowon/anowon.txt#L57).
 
 ### Turno 7+: Ejecución del Cierre
-1. **Opción A (Combate Agresivo):** Lanza [`Notorious Throng`](file:///root/mtg/decks/Commander/anowon/anowon.txt#L74) para llenar la mesa de hadas y jugar un turno extra.
-2. **Opción B (Drenaje Pasivo):** Baja a [`Syr Konrad, the Grim`](file:///root/mtg/decks/Commander/anowon/anowon.txt#L32) y lanza [`Maddening Cacophony`](file:///root/mtg/decks/Commander/anowon/anowon.txt#L72) estimulada (*Kicked*) para vaciar la mitad de las bibliotecas rivales y matarlos instantáneamente por daño de impacto de criaturas molidas.
-3. **Opción C (Reanimación Masiva):** Lanza [`Sepulchral Primordial`](file:///root/mtg/decks/Commander/anowon/anowon.txt#L26) para robar los 3 mejores monstruos de los cementerios enemigos.
+1. **Opción A (Combate Agresivo):** Lanza [Notorious Throng](file:///root/mtg/decks/Commander/anowon/anowon.txt#L74) para llenar la mesa de hadas y jugar un turno extra.
+2. **Opción B (Drenaje Pasivo):** Baja a [Syr Konrad, the Grim](file:///root/mtg/decks/Commander/anowon/anowon.txt#L32) y lanza [Maddening Cacophony](file:///root/mtg/decks/Commander/anowon/anowon.txt#L72) estimulada (*Kicked*) para vaciar la mitad de las bibliotecas rivales y matarlos instantáneamente por daño de impacto de criaturas molidas.
+3. **Opción C (Reanimación Masiva):** Lanza [Sepulchral Primordial](file:///root/mtg/decks/Commander/anowon/anowon.txt#L26) para robar los 3 mejores monstruos de los cementerios enemigos.
 
 ---
 
@@ -193,11 +193,11 @@ sequenceDiagram
 
 El mazo cuenta con **37 tierras efectivas** gracias a dos cartas modales de doble cara:
 
-1. **[`Blackbloom Rogue // Blackbloom Bog`](file:///root/mtg/decks/Commander/anowon/anowon.txt#L5):**
-   * *Cara Delantera:* Pícaro 2/3 con amenaza que se transforma en un **5/3 temible** cuando un oponente tiene 6 o más cartas en su cementerio.
+1. **[Blackbloom Rogue // Blackbloom Bog](file:///root/mtg/decks/Commander/anowon/anowon.txt#L5):**
+   * *Cara Delantera:* Bribón 2/3 con amenaza que se transforma en un **5/3 temible** cuando un oponente tiene 6 o más cartas en su cementerio.
    * *Cara Trasera:* Tierra que entra girada y produce maná negro `{B}` si te has quedado corto de tierras en mano.
-2. **[`Glasspool Mimic // Glasspool Shore`](file:///root/mtg/decks/Commander/anowon/anowon.txt#L14):**
-   * *Cara Delantera:* Clona a cualquiera de tus mejores Pícaros o a un monstruo rival en mesa.
+2. **[Glasspool Mimic // Glasspool Shore](file:///root/mtg/decks/Commander/anowon/anowon.txt#L14):**
+   * *Cara Delantera:* Clona a cualquiera de tus mejores Bribones o a un monstruo rival en mesa.
    * *Cara Trasera:* Tierra que entra girada y da maná azul `{U}`.
 
 ---
