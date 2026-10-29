@@ -1,9 +1,9 @@
 # Guía de Mejoras y Upgrades Futuros: Adrix and Nev, Twincasters
 ### De Fábrica de Fichas Simic a Multiplicación Exponencial Imparable (Power Level 8)
 
-> **Mazo Base:** [`decks/adrix/adrix.txt`](file:///root/mtg/decks/adrix/adrix.txt)  
-> **Guía Estratégica Base:** [`decks/adrix/adrix_guide.md`](file:///root/mtg/decks/adrix/adrix_guide.md)  
-> **Comandante:** [Adrix and Nev, Twincasters](file:///root/mtg/decks/adrix/adrix.txt#L2)  
+> **Mazo Base:** [`decks/Commander/adrix/adrix.txt`](file:///root/mtg/decks/Commander/adrix/adrix.txt)  
+> **Guía Estratégica Base:** [`decks/Commander/adrix/adrix_guide.md`](file:///root/mtg/decks/Commander/adrix/adrix_guide.md)  
+> **Comandante:** [Adrix and Nev, Twincasters](file:///root/mtg/decks/Commander/adrix/adrix.txt#L2)  
 > **Identidad de Color:** Simic (`{G, U}`)  
 > **Presupuesto Estimado:** Escalonado en 3 fases modulares (desde 12 €).
 
@@ -14,7 +14,7 @@
 Adrix and Nev tiene el **techo de poder más alto en mesa despejada**: duplicar fichas es una de las habilidades matemáticas más rotas de Magic. Sin embargo, sufre de tres debilidades clave:
 
 1. **Dependencia de la supervivencia del Comandante:** Si te barren la mesa con un *Wrath of God* o *Blasphemous Act*, la protección de Ward {2} no sirve de nada. Necesitas **protección incondicional** (*Heroic Intervention*) y **contramagia eficiente de 1 y 2 manás**.
-2. **Generadores de fichas de bajo impacto:** Cartas de relleno como [Curious Pair](file:///root/mtg/decks/adrix/adrix.txt#L10) o [Biomathematician](file:///root/mtg/decks/adrix/adrix.txt#L6) generan fichas mediocres. Necesitan reemplazarse por bombas que produzcan ejércitos por sí solas (*Avenger of Zendikar*, *Koma, Cosmos Serpent*).
+2. **Generadores de fichas de bajo impacto:** Cartas de relleno como [Curious Pair](file:///root/mtg/decks/Commander/adrix/adrix.txt#L10) o [Biomathematician](file:///root/mtg/decks/Commander/adrix/adrix.txt#L6) generan fichas mediocres. Necesitan reemplazarse por bombas que produzcan ejércitos por sí solas (*Avenger of Zendikar*, *Koma, Cosmos Serpent*).
 3. **Multiplicación de Adrix (El "Loop de Clonación"):** Si clonas a Adrix evitando la regla de leyendas (con cartas como *Irenicus's Vile Duplication* o *Helm of the Host*), las fichas no se duplican: **se cuadruplican o multiplican por ocho**.
 
 ```mermaid
@@ -80,17 +80,17 @@ flowchart TD
 
 | Sale de la Lista Actual | Entra como Mejora | Motivo del Cambio |
 | :--- | :--- | :--- |
-| [Curious Pair](file:///root/mtg/decks/adrix/adrix.txt#L10) | **Avenger of Zendikar** | Pasas de crear una humilde ficha de comida a crear 14 plantas gigantes. |
-| [Biomathematician](file:///root/mtg/decks/adrix/adrix.txt#L6) | **Biovisionary** | Sustituyes una ficha 0/0 débil por una condición de victoria alternativa directa. |
-| [Flaxen Intruder](file:///root/mtg/decks/adrix/adrix.txt#L15) | **Irenicus's Vile Duplication** | Clonar a Adrix sin leyenda multiplica todo tu mazo por 8. |
-| [Introduction to Annihilation](file:///root/mtg/decks/adrix/adrix.txt#L72) | **Koma, Cosmos Serpent** | Quitas un removal incoloro caro que da carta al rival para meter el mejor generador de fichas Simic. |
-| [Lofty Denial](file:///root/mtg/decks/adrix/adrix.txt#L59) | **Counterspell** | Cancelación condicional reemplazada por contramagia dura y segura. |
-| [Essence Scatter](file:///root/mtg/decks/adrix/adrix.txt#L56) | **An Offer You Can't Refuse** | Proteger a Adrix de conjuros y removals por solo `{U}` es vital. |
-| [Mana Geode](file:///root/mtg/decks/adrix/adrix.txt#L36) | **Cackling Counterpart** | Quitas una roca lenta de coste 3 para meter un clonador a velocidad de instantáneo. |
-| [Moss Diamond](file:///root/mtg/decks/adrix/adrix.txt#L37) | **Heroic Intervention** | Añades el seguro de vida definitivo contra limpiezas de mesa por 2 manás. |
-| [Treeshaker Chimera](file:///root/mtg/decks/adrix/adrix.txt#L28) | **Helm of the Host** | Cambias un monstruo de 7 manás por un motor que genera infinitos Adrix. |
-| [Unknown Shores](file:///root/mtg/decks/adrix/adrix.txt#L88) | **Yavimaya Coast** | Tierra ineficiente que cobra maná por filtrar cambiada por dual enderezada. |
-| [Study Hall](file:///root/mtg/decks/adrix/adrix.txt#L83) | **Rejuvenating Springs** | Tierra incolora cambiada por la tierra dual perfecta de Commander. |
+| [Curious Pair](file:///root/mtg/decks/Commander/adrix/adrix.txt#L10) | **Avenger of Zendikar** | Pasas de crear una humilde ficha de comida a crear 14 plantas gigantes. |
+| [Biomathematician](file:///root/mtg/decks/Commander/adrix/adrix.txt#L6) | **Biovisionary** | Sustituyes una ficha 0/0 débil por una condición de victoria alternativa directa. |
+| [Flaxen Intruder](file:///root/mtg/decks/Commander/adrix/adrix.txt#L15) | **Irenicus's Vile Duplication** | Clonar a Adrix sin leyenda multiplica todo tu mazo por 8. |
+| [Introduction to Annihilation](file:///root/mtg/decks/Commander/adrix/adrix.txt#L72) | **Koma, Cosmos Serpent** | Quitas un removal incoloro caro que da carta al rival para meter el mejor generador de fichas Simic. |
+| [Lofty Denial](file:///root/mtg/decks/Commander/adrix/adrix.txt#L59) | **Counterspell** | Cancelación condicional reemplazada por contramagia dura y segura. |
+| [Essence Scatter](file:///root/mtg/decks/Commander/adrix/adrix.txt#L56) | **An Offer You Can't Refuse** | Proteger a Adrix de conjuros y removals por solo `{U}` es vital. |
+| [Mana Geode](file:///root/mtg/decks/Commander/adrix/adrix.txt#L36) | **Cackling Counterpart** | Quitas una roca lenta de coste 3 para meter un clonador a velocidad de instantáneo. |
+| [Moss Diamond](file:///root/mtg/decks/Commander/adrix/adrix.txt#L37) | **Heroic Intervention** | Añades el seguro de vida definitivo contra limpiezas de mesa por 2 manás. |
+| [Treeshaker Chimera](file:///root/mtg/decks/Commander/adrix/adrix.txt#L28) | **Helm of the Host** | Cambias un monstruo de 7 manás por un motor que genera infinitos Adrix. |
+| [Unknown Shores](file:///root/mtg/decks/Commander/adrix/adrix.txt#L88) | **Yavimaya Coast** | Tierra ineficiente que cobra maná por filtrar cambiada por dual enderezada. |
+| [Study Hall](file:///root/mtg/decks/Commander/adrix/adrix.txt#L83) | **Rejuvenating Springs** | Tierra incolora cambiada por la tierra dual perfecta de Commander. |
 
 ---
 

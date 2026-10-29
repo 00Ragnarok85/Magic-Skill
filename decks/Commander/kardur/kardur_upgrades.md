@@ -1,9 +1,9 @@
 # Guía de Mejoras y Upgrades Futuros: Kardur, Doomscourge
 ### De Caos Forzado a Bloqueo Perpetuo de Combate y Drenaje Aristócrata (Power Level 8)
 
-> **Mazo Base:** [`decks/kardur/kardur.txt`](file:///root/mtg/decks/kardur/kardur.txt)  
-> **Guía Estratégica Base:** [`decks/kardur/kardur_guide.md`](file:///root/mtg/decks/kardur/kardur_guide.md)  
-> **Comandante:** [Kardur, Doomscourge](file:///root/mtg/decks/kardur/kardur.txt#L2)  
+> **Mazo Base:** [`decks/Commander/kardur/kardur.txt`](file:///root/mtg/decks/Commander/kardur/kardur.txt)  
+> **Guía Estratégica Base:** [`decks/Commander/kardur/kardur_guide.md`](file:///root/mtg/decks/Commander/kardur/kardur_guide.md)  
+> **Comandante:** [Kardur, Doomscourge](file:///root/mtg/decks/Commander/kardur/kardur.txt#L2)  
 > **Identidad de Color:** Rakdos (`{B, R}`)  
 > **Presupuesto Estimado:** Escalonado en 3 fases modulares (desde 12 €).
 
@@ -81,16 +81,16 @@ flowchart TD
 
 | Sale de la Lista Actual | Entra como Mejora | Motivo del Cambio |
 | :--- | :--- | :--- |
-| [Kathari Bomber](file:///root/mtg/decks/kardur/kardur.txt#L19) | **Blood Artist** | Cambias un pájaro prescindible por el mejor motor de drenaje de muertes del juego. |
-| [Axgard Cavalry](file:///root/mtg/decks/kardur/kardur.txt#L5) | **Mayhem Devil** | Cambias dar prisa a una criatura por ametrallar a la mesa con cada sacrificio. |
-| [Novice Dissector](file:///root/mtg/decks/kardur/kardur.txt#L21) | **Zulaport Cutthroat** | Sacrificar criaturas pagando maná reemplazado por drenaje automático pasivo. |
-| [Immersturm Raider](file:///root/mtg/decks/kardur/kardur.txt#L17) | **Morbid Opportunist** | Cambias un 2/1 con descarte por un motor que puede robar 4 cartas por ronda. |
-| [Spare Supplies](file:///root/mtg/decks/kardur/kardur.txt#L37) | **Conjurer's Closet** | Cambias un artefacto de robo menor por la pieza de bloqueo perpetuo de la mesa. |
-| [Traveler's Amulet](file:///root/mtg/decks/kardur/kardur.txt#L38) | **Blade of Selves** | Sustituyes una búsqueda lenta de tierra por *Myriad* para re-disparar a Kardur en combate. |
-| [Bitter Revelation](file:///root/mtg/decks/kardur/kardur.txt#L63) | **Blasphemous Act** | Cambias un conjuro de robo a velocidad lenta por el mejor wipe de coste 1 del color rojo. |
-| [Skull Raid](file:///root/mtg/decks/kardur/kardur.txt#L70) | **Disrupt Decorum** | Reemplazas un descarte menor por un segundo turno garantizado de combate forzado. |
-| [Base Camp](file:///root/mtg/decks/kardur/kardur.txt#L79) | **Luxury Suite** | Cambias una tierra que entra girada por la dual perfecta de Commander. |
-| [Unknown Shores](file:///root/mtg/decks/kardur/kardur.txt#L91) | **Smoldering Marsh** | Cambias una tierra que te cobra maná por filtrar por una dual buscable. |
+| [Kathari Bomber](file:///root/mtg/decks/Commander/kardur/kardur.txt#L19) | **Blood Artist** | Cambias un pájaro prescindible por el mejor motor de drenaje de muertes del juego. |
+| [Axgard Cavalry](file:///root/mtg/decks/Commander/kardur/kardur.txt#L5) | **Mayhem Devil** | Cambias dar prisa a una criatura por ametrallar a la mesa con cada sacrificio. |
+| [Novice Dissector](file:///root/mtg/decks/Commander/kardur/kardur.txt#L21) | **Zulaport Cutthroat** | Sacrificar criaturas pagando maná reemplazado por drenaje automático pasivo. |
+| [Immersturm Raider](file:///root/mtg/decks/Commander/kardur/kardur.txt#L17) | **Morbid Opportunist** | Cambias un 2/1 con descarte por un motor que puede robar 4 cartas por ronda. |
+| [Spare Supplies](file:///root/mtg/decks/Commander/kardur/kardur.txt#L37) | **Conjurer's Closet** | Cambias un artefacto de robo menor por la pieza de bloqueo perpetuo de la mesa. |
+| [Traveler's Amulet](file:///root/mtg/decks/Commander/kardur/kardur.txt#L38) | **Blade of Selves** | Sustituyes una búsqueda lenta de tierra por *Myriad* para re-disparar a Kardur en combate. |
+| [Bitter Revelation](file:///root/mtg/decks/Commander/kardur/kardur.txt#L63) | **Blasphemous Act** | Cambias un conjuro de robo a velocidad lenta por el mejor wipe de coste 1 del color rojo. |
+| [Skull Raid](file:///root/mtg/decks/Commander/kardur/kardur.txt#L70) | **Disrupt Decorum** | Reemplazas un descarte menor por un segundo turno garantizado de combate forzado. |
+| [Base Camp](file:///root/mtg/decks/Commander/kardur/kardur.txt#L79) | **Luxury Suite** | Cambias una tierra que entra girada por la dual perfecta de Commander. |
+| [Unknown Shores](file:///root/mtg/decks/Commander/kardur/kardur.txt#L91) | **Smoldering Marsh** | Cambias una tierra que te cobra maná por filtrar por una dual buscable. |
 
 ---
 

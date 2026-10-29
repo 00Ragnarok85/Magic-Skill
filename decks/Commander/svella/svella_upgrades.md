@@ -1,8 +1,8 @@
 # Guía de Mejoras y Upgrades Futuros: Svella, Ice Shaper
 ### De Rampa de Manalitos a Ametralladora de Hechizos Colosales Gratuitos (Power Level 8)
 
-> **Mazo Base:** [`decks/svella/svella.txt`](file:///root/mtg/decks/svella/svella.txt)  
-> **Guía Estratégica Base:** [`decks/svella/svella_guide.md`](file:///root/mtg/decks/svella/svella_guide.md)  
+> **Mazo Base:** [`decks/Commander/svella/svella.txt`](file:///root/mtg/decks/Commander/svella/svella.txt)  
+> **Guía Estratégica Base:** [`decks/Commander/svella/svella_guide.md`](file:///root/mtg/decks/Commander/svella/svella_guide.md)  
 > **Comandante:** [Svella, Ice Shaper](file:///root/mtg/decks/svella.txt#L2)  
 > **Identidad de Color:** Gruul (`{R, G}`)  
 > **Presupuesto Estimado:** Escalonado en 3 fases modulares (desde 12 €).
@@ -81,17 +81,17 @@ flowchart TD
 
 | Sale de la Lista Actual | Entra como Mejora | Motivo del Cambio |
 | :--- | :--- | :--- |
-| [Joraga Visionary](file:///root/mtg/decks/svella/svella.txt#L21) | **Seedborn Muse** | Cambias un 1/3 que roba una carta por el motor que te permite jugar 3 turnos extra por ronda. |
-| [Basalt Ravager](file:///root/mtg/decks/svella/svella.txt#L7) | **Apex Devastator** | Cambias un daño menor condicional por el mayor generador de 4 cascadas de Magic. |
-| [Boarding Party](file:///root/mtg/decks/svella/svella.txt#L11) | **Etali, Primal Storm** | Cambias una cascada menor por robar y lanzar hechizos de los 4 jugadores a la vez. |
-| [Humble Naturalist](file:///root/mtg/decks/svella/svella.txt#L17) | **Garruk's Uprising** | Quitas un dork condicional por robo masivo continuo y *Arrollar* para todo tu ejército. |
-| [Murmuring Volume](file:///root/mtg/decks/svella/svella.txt#L41) | **Illusionist's Bracers** | Quitas un artefacto lento por el equipo que duplica cada tirada de biblioteca de Svella. |
-| [Seer's Lantern](file:///root/mtg/decks/svella/svella.txt#L43) | **Magewright's Stone** | Quitas una roca cara de adivinación para enderezar a Svella y activarla dos veces por turno. |
-| [Traveler's Amulet](file:///root/mtg/decks/svella/svella.txt#L44) | **Heroic Intervention** | Añades el escudo definitivo contra limpiezas de mesa para proteger a tus criaturas y manalitos. |
-| [Adventure Awaits](file:///root/mtg/decks/svella/svella.txt#L64) | **Chaos Warp** | Cambias un cantrip por removal incondicional contra cualquier tipo de permanente. |
-| [Scale the Heights](file:///root/mtg/decks/svella/svella.txt#L74) | **Blasphemous Act** | Quitas un conjuro menor de 3 manás para meter la mejor limpieza roja de coste `{R}`. |
-| [Gnottvold Slumbermound](file:///root/mtg/decks/svella/svella.txt#L82) | **Spire Garden** | Sustituyes una tierra que entra girada por la dual perfecta de Commander. |
-| [Tranquil Thicket](file:///root/mtg/decks/svella/svella.txt#L91) | **Karplusan Forest** | Quitas una tierra que entra tapada por una dual rápida incondicional. |
+| [Joraga Visionary](file:///root/mtg/decks/Commander/svella/svella.txt#L21) | **Seedborn Muse** | Cambias un 1/3 que roba una carta por el motor que te permite jugar 3 turnos extra por ronda. |
+| [Basalt Ravager](file:///root/mtg/decks/Commander/svella/svella.txt#L7) | **Apex Devastator** | Cambias un daño menor condicional por el mayor generador de 4 cascadas de Magic. |
+| [Boarding Party](file:///root/mtg/decks/Commander/svella/svella.txt#L11) | **Etali, Primal Storm** | Cambias una cascada menor por robar y lanzar hechizos de los 4 jugadores a la vez. |
+| [Humble Naturalist](file:///root/mtg/decks/Commander/svella/svella.txt#L17) | **Garruk's Uprising** | Quitas un dork condicional por robo masivo continuo y *Arrollar* para todo tu ejército. |
+| [Murmuring Volume](file:///root/mtg/decks/Commander/svella/svella.txt#L41) | **Illusionist's Bracers** | Quitas un artefacto lento por el equipo que duplica cada tirada de biblioteca de Svella. |
+| [Seer's Lantern](file:///root/mtg/decks/Commander/svella/svella.txt#L43) | **Magewright's Stone** | Quitas una roca cara de adivinación para enderezar a Svella y activarla dos veces por turno. |
+| [Traveler's Amulet](file:///root/mtg/decks/Commander/svella/svella.txt#L44) | **Heroic Intervention** | Añades el escudo definitivo contra limpiezas de mesa para proteger a tus criaturas y manalitos. |
+| [Adventure Awaits](file:///root/mtg/decks/Commander/svella/svella.txt#L64) | **Chaos Warp** | Cambias un cantrip por removal incondicional contra cualquier tipo de permanente. |
+| [Scale the Heights](file:///root/mtg/decks/Commander/svella/svella.txt#L74) | **Blasphemous Act** | Quitas un conjuro menor de 3 manás para meter la mejor limpieza roja de coste `{R}`. |
+| [Gnottvold Slumbermound](file:///root/mtg/decks/Commander/svella/svella.txt#L82) | **Spire Garden** | Sustituyes una tierra que entra girada por la dual perfecta de Commander. |
+| [Tranquil Thicket](file:///root/mtg/decks/Commander/svella/svella.txt#L91) | **Karplusan Forest** | Quitas una tierra que entra tapada por una dual rápida incondicional. |
 
 ---
 

@@ -1,9 +1,9 @@
 # Guía de Mejoras y Upgrades Futuros: Liesa, Shroud of Dusk
 ### De Nivel Casual/Equilibrado a Nivel Optimizado (Power Level 8)
 
-> **Mazo Base:** [`decks/liesa/liesa.txt`](file:///root/mtg/decks/liesa/liesa.txt)  
-> **Guía Estratégica Base:** [`decks/liesa/liesa_guide.md`](file:///root/mtg/decks/liesa/liesa_guide.md)  
-> **Comandante:** [Liesa, Shroud of Dusk](file:///root/mtg/decks/liesa/liesa.txt#L2)  
+> **Mazo Base:** [`decks/Commander/liesa/liesa.txt`](file:///root/mtg/decks/Commander/liesa/liesa.txt)  
+> **Guía Estratégica Base:** [`decks/Commander/liesa/liesa_guide.md`](file:///root/mtg/decks/Commander/liesa/liesa_guide.md)  
+> **Comandante:** [Liesa, Shroud of Dusk](file:///root/mtg/decks/Commander/liesa/liesa.txt#L2)  
 > **Presupuesto Estimado Total:** ~80 € - 100 € (adquirible en fases modulares desde 10 €).
 
 ---
@@ -57,7 +57,7 @@ Para que puedas estudiarlo con calma sin desembolsar 100 € de golpe, la mejora
 
 | Carta a Incluir | Coste Maná | Tipo | Precio Aprox. | Rol Estratégico |
 | :--- | :---: | :--- | :---: | :--- |
-| **Exquisite Blood** *(Sangre exquisita)* | `{4}{B}` | Encantamiento | ~18.00 € | **La pieza reina.** Cada vez que un rival pierde vida, tú la ganas. Con Liesa te cura con cada hechizo rival. Con [Blight-Priest](file:///root/mtg/decks/liesa/liesa.txt#L19) o *Vito*, es **victoria infinita inmediata**. |
+| **Exquisite Blood** *(Sangre exquisita)* | `{4}{B}` | Encantamiento | ~18.00 € | **La pieza reina.** Cada vez que un rival pierde vida, tú la ganas. Con Liesa te cura con cada hechizo rival. Con [Blight-Priest](file:///root/mtg/decks/Commander/liesa/liesa.txt#L19) o *Vito*, es **victoria infinita inmediata**. |
 | **Vito, Thorn of the Dusk Rose** | `{2}{B}` | Criatura (1/3) | ~4.00 € | Cada vez que ganas vidas, un rival pierde esa cantidad. Convierte el ataque de Liesa en 10 daños. |
 | **Toxic Deluge** | `{2}{B}` | Conjuro | ~6.00 € | Limpieza de mesa por 3 manás que ignora *Indestructible* pagando vidas. |
 | **Lightning Greaves** | `{2}` | Artefacto — Equipo | ~4.50 € | Da *Prisa* y *Velo* gratis a Liesa para golpear el mismo turno que entra y protegerla de removal. |
@@ -84,18 +84,18 @@ Cuando decidas adquirir cartas de estas fases, esta es la tabla exacta de cambio
 
 | Sale de la Lista Actual | Entra como Mejora | Motivo del Cambio |
 | :--- | :--- | :--- |
-| [Cast Away Doubt](file:///root/mtg/decks/liesa/liesa.txt#L65) | **Kambal, Consul of Allocation** | Cambias un robo mediocre de 3 manás por un comandante secundario letal. |
-| [Faith's Fetters](file:///root/mtg/decks/liesa/liesa.txt#L48) | **Swords to Plowshares** | Cambias un removal lento de coste 4 por el mejor exilio incondicional de coste 1. |
-| [Filigree Familiar](file:///root/mtg/decks/liesa/liesa.txt#L12) | **Soul Warden** | Pagas 1 maná en vez de 3 y obtienes decenas de vidas pasivas en vez de solo 2. |
-| [Screeching Soulbreaker](file:///root/mtg/decks/liesa/liesa.txt#L24) | **Soul's Attendant** | Redundancia de ganancia de vidas para neutralizar el impuesto de Liesa. |
-| [Pilgrim's Eye](file:///root/mtg/decks/liesa/liesa.txt#L22) | **Talisman of Hierarchy** | La roca de coste 2 acelera a Liesa a turno 3; el pájaro de coste 3 llega tarde. |
-| [Firemind Vessel](file:///root/mtg/decks/liesa/liesa.txt#L38) | **Orzhov Signet** | Bajar el coste de la rampa de coste 4 a coste 2 agiliza toda la mano inicial. |
-| [In Garruk's Wake](file:///root/mtg/decks/liesa/liesa.txt#L73) | **Toxic Deluge** | 9 manás suele ser una carta muerta en mano; Deluge limpia la mesa por 3 manás. |
-| [Dogged Pursuit](file:///root/mtg/decks/liesa/liesa.txt#L47) | **Exquisite Blood** | Sustituir un drenaje pasivo de 1 vida por el combo infinito de victoria. |
-| [Soulmender](file:///root/mtg/decks/liesa/liesa.txt#L28) | **Authority of the Consuls** | Frenar atacantes rivales y ganar vida por cada criatura enemiga supera a girar un 1/1. |
-| [Light of Hope](file:///root/mtg/decks/liesa/liesa.txt#L54) | **Vito, Thorn of the Dusk Rose** | Añade una amenaza masiva que duplica el daño de cada ataque de Liesa. |
-| [Snowfield Sinkhole](file:///root/mtg/decks/liesa/liesa.txt#L90) | **Caves of Koilos** | Elimina una tierra que entra girada por una que entra enderezada de inmediato. |
-| [Scoured Barrens](file:///root/mtg/decks/liesa/liesa.txt#L87) | **Vault of Champions** | Tierra dual incondicionalmente enderezada para jugar en curva perfecta. |
+| [Cast Away Doubt](file:///root/mtg/decks/Commander/liesa/liesa.txt#L65) | **Kambal, Consul of Allocation** | Cambias un robo mediocre de 3 manás por un comandante secundario letal. |
+| [Faith's Fetters](file:///root/mtg/decks/Commander/liesa/liesa.txt#L48) | **Swords to Plowshares** | Cambias un removal lento de coste 4 por el mejor exilio incondicional de coste 1. |
+| [Filigree Familiar](file:///root/mtg/decks/Commander/liesa/liesa.txt#L12) | **Soul Warden** | Pagas 1 maná en vez de 3 y obtienes decenas de vidas pasivas en vez de solo 2. |
+| [Screeching Soulbreaker](file:///root/mtg/decks/Commander/liesa/liesa.txt#L24) | **Soul's Attendant** | Redundancia de ganancia de vidas para neutralizar el impuesto de Liesa. |
+| [Pilgrim's Eye](file:///root/mtg/decks/Commander/liesa/liesa.txt#L22) | **Talisman of Hierarchy** | La roca de coste 2 acelera a Liesa a turno 3; el pájaro de coste 3 llega tarde. |
+| [Firemind Vessel](file:///root/mtg/decks/Commander/liesa/liesa.txt#L38) | **Orzhov Signet** | Bajar el coste de la rampa de coste 4 a coste 2 agiliza toda la mano inicial. |
+| [In Garruk's Wake](file:///root/mtg/decks/Commander/liesa/liesa.txt#L73) | **Toxic Deluge** | 9 manás suele ser una carta muerta en mano; Deluge limpia la mesa por 3 manás. |
+| [Dogged Pursuit](file:///root/mtg/decks/Commander/liesa/liesa.txt#L47) | **Exquisite Blood** | Sustituir un drenaje pasivo de 1 vida por el combo infinito de victoria. |
+| [Soulmender](file:///root/mtg/decks/Commander/liesa/liesa.txt#L28) | **Authority of the Consuls** | Frenar atacantes rivales y ganar vida por cada criatura enemiga supera a girar un 1/1. |
+| [Light of Hope](file:///root/mtg/decks/Commander/liesa/liesa.txt#L54) | **Vito, Thorn of the Dusk Rose** | Añade una amenaza masiva que duplica el daño de cada ataque de Liesa. |
+| [Snowfield Sinkhole](file:///root/mtg/decks/Commander/liesa/liesa.txt#L90) | **Caves of Koilos** | Elimina una tierra que entra girada por una que entra enderezada de inmediato. |
+| [Scoured Barrens](file:///root/mtg/decks/Commander/liesa/liesa.txt#L87) | **Vault of Champions** | Tierra dual incondicionalmente enderezada para jugar en curva perfecta. |
 
 ---
 
@@ -124,7 +124,7 @@ Condición en mesa: [Exquisite Blood] + [Marauding Blight-Priest] (o [Vito])
 
 ## 5. Conclusión y Recomendación
 
-No hay ninguna prisa por gastar dinero de golpe. El mazo que tienes actualmente en [`decks/liesa/liesa.txt`](file:///root/mtg/decks/liesa/liesa.txt) es plenamente funcional y competitivo en mesas casuales.
+No hay ninguna prisa por gastar dinero de golpe. El mazo que tienes actualmente en [`decks/Commander/liesa/liesa.txt`](file:///root/mtg/decks/Commander/liesa/liesa.txt) es plenamente funcional y competitivo en mesas casuales.
 
 Si en el futuro te apetece darle un empujón:
 1. Empieza únicamente por la **Fase 1 (~12 €)**: con solo *Swords to Plowshares*, *Kambal*, *Soul Warden* y las dos rocas de 2 manás notarás que el mazo vuela.

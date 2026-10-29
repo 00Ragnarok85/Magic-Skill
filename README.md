@@ -77,11 +77,11 @@ Todos los mazos están verificados con 100 cartas exactas, formateados con comen
 
 | Comandante | Colores | Estrategia Principal | Lista ManaBox | Guía Técnica | Plan de Mejoras |
 | :--- | :---: | :--- | :--- | :--- | :--- |
-| **Liesa, Shroud of Dusk** | Orzhov (`{W, B}`) | Impuesto global (2 vidas/hechizo), drenaje y permanentes nevados. | [`liesa.txt`](decks/liesa/liesa.txt) | [`liesa_guide.md`](decks/liesa/liesa_guide.md) | [`liesa_upgrades.md`](decks/liesa/liesa_upgrades.md) |
-| **Kardur, Doomscourge** | Rakdos (`{B, R}`) | Combate obligatorio forzado (*Goad* global), robo de criaturas y Monarquía. | [`kardur.txt`](decks/kardur/kardur.txt) | [`kardur_guide.md`](decks/kardur/kardur_guide.md) | [`kardur_upgrades.md`](decks/kardur/kardur_upgrades.md) |
-| **Svella, Ice Shaper** | Gruul (`{R, G}`) | Rampa ilimitada con Manalitos de hielo y trampeo de titanes gratis del top 4. | [`svella.txt`](decks/svella/svella.txt) | [`svella_guide.md`](decks/svella/svella_guide.md) | [`svella_upgrades.md`](decks/svella/svella_upgrades.md) |
-| **Anowon, the Ruin Thief** | Dimir (`{U, B}`) | Infiltración de pícaros evasivos, molino masivo y reanimación de amenazas. | [`anowon.txt`](decks/anowon/anowon.txt) | [`anowon_guide.md`](decks/anowon/anowon_guide.md) | [`anowon_upgrades.md`](decks/anowon/anowon_upgrades.md) |
-| **Adrix and Nev** | Simic (`{G, U}`) | Multiplicación exponencial de fichas de criatura, rampa y bombas marinas. | [`adrix.txt`](decks/adrix/adrix.txt) | [`adrix_guide.md`](decks/adrix/adrix_guide.md) | [`adrix_upgrades.md`](decks/adrix/adrix_upgrades.md) |
+| **Liesa, Shroud of Dusk** | Orzhov (`{W, B}`) | Impuesto global (2 vidas/hechizo), drenaje y permanentes nevados. | [`liesa.txt`](decks/Commander/liesa/liesa.txt) | [`liesa_guide.md`](decks/Commander/liesa/liesa_guide.md) | [`liesa_upgrades.md`](decks/Commander/liesa/liesa_upgrades.md) |
+| **Kardur, Doomscourge** | Rakdos (`{B, R}`) | Combate obligatorio forzado (*Goad* global), robo de criaturas y Monarquía. | [`kardur.txt`](decks/Commander/kardur/kardur.txt) | [`kardur_guide.md`](decks/Commander/kardur/kardur_guide.md) | [`kardur_upgrades.md`](decks/Commander/kardur/kardur_upgrades.md) |
+| **Svella, Ice Shaper** | Gruul (`{R, G}`) | Rampa ilimitada con Manalitos de hielo y trampeo de titanes gratis del top 4. | [`svella.txt`](decks/Commander/svella/svella.txt) | [`svella_guide.md`](decks/Commander/svella/svella_guide.md) | [`svella_upgrades.md`](decks/Commander/svella/svella_upgrades.md) |
+| **Anowon, the Ruin Thief** | Dimir (`{U, B}`) | Infiltración de pícaros evasivos, molino masivo y reanimación de amenazas. | [`anowon.txt`](decks/Commander/anowon/anowon.txt) | [`anowon_guide.md`](decks/Commander/anowon/anowon_guide.md) | [`anowon_upgrades.md`](decks/Commander/anowon/anowon_upgrades.md) |
+| **Adrix and Nev** | Simic (`{G, U}`) | Multiplicación exponencial de fichas de criatura, rampa y bombas marinas. | [`adrix.txt`](decks/Commander/adrix/adrix.txt) | [`adrix_guide.md`](decks/Commander/adrix/adrix_guide.md) | [`adrix_upgrades.md`](decks/Commander/adrix/adrix_upgrades.md) |
 
 ---
 

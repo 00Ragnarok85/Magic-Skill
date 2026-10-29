@@ -1,9 +1,9 @@
 # Guía de Mejoras y Upgrades Futuros: Anowon, the Ruin Thief
 ### De Infiltración de Pícaros a Robo de Cementerios y Combo de Molino Letal (Power Level 8)
 
-> **Mazo Base:** [`decks/anowon/anowon.txt`](file:///root/mtg/decks/anowon/anowon.txt)  
-> **Guía Estratégica Base:** [`decks/anowon/anowon_guide.md`](file:///root/mtg/decks/anowon/anowon_guide.md)  
-> **Comandante:** [Anowon, the Ruin Thief](file:///root/mtg/decks/anowon/anowon.txt#L2)  
+> **Mazo Base:** [`decks/Commander/anowon/anowon.txt`](file:///root/mtg/decks/Commander/anowon/anowon.txt)  
+> **Guía Estratégica Base:** [`decks/Commander/anowon/anowon_guide.md`](file:///root/mtg/decks/Commander/anowon/anowon_guide.md)  
+> **Comandante:** [Anowon, the Ruin Thief](file:///root/mtg/decks/Commander/anowon/anowon.txt#L2)  
 > **Identidad de Color:** Dimir (`{U, B}`)  
 > **Presupuesto Estimado:** Escalonado en 3 fases modulares (desde 12 €).
 
@@ -14,7 +14,7 @@
 Anowon es extremadamente rápido y genera una ventaja de cartas pasiva constante si tus Pícaros conectan. Sin embargo, en mesas de nivel medio-alto presenta tres puntos vulnerables:
 
 1. **El "Efecto Búmeran" del Molino (*Self-Harm Mill*):** Moler cartas a los oponentes puede beneficiar a mazos que jueguen con el cementerio (como Karador, Muldrotha o Meren). Necesitas cartas que **exilien lo que mueles o te permitan robarlo antes de que lo usen**.
-2. **Pícaros de relleno de bajo impacto:** Criaturas como [Dhund Operative](file:///root/mtg/decks/anowon/anowon.txt#L10) o [Expedition Skulker](file:///root/mtg/decks/anowon/anowon.txt#L11) son simples cuerpos 2/2 que aportan poco. Deben sustituirse por Pícaros de utilidad estelar (*Dauthi Voidwalker*, *Brazen Borrower*).
+2. **Pícaros de relleno de bajo impacto:** Criaturas como [Dhund Operative](file:///root/mtg/decks/Commander/anowon/anowon.txt#L10) o [Expedition Skulker](file:///root/mtg/decks/Commander/anowon/anowon.txt#L11) son simples cuerpos 2/2 que aportan poco. Deben sustituirse por Pícaros de utilidad estelar (*Dauthi Voidwalker*, *Brazen Borrower*).
 3. **Cierre de partida sin combate masivo:** Si una mesa se llena de bloqueadores voladores gigantes, al mazo le cuesta cerrar la partida solo por daño de combate. La solución es un **combo letal de molino instantáneo** (*Mindcrank* + *Bloodchief Ascension*).
 
 ```mermaid
@@ -78,17 +78,17 @@ flowchart TD
 
 | Sale de la Lista Actual | Entra como Mejora | Motivo del Cambio |
 | :--- | :--- | :--- |
-| [Dhund Operative](file:///root/mtg/decks/anowon/anowon.txt#L10) | **Dauthi Voidwalker** | Cambias un 2/2 débil por el Pícaro más roto del formato con evasión absoluta y hurto gratis. |
-| [Expedition Skulker](file:///root/mtg/decks/anowon/anowon.txt#L11) | **Brazen Borrower** | Cambias una criatura mediocre por un Pícaro volador con flash y rebote incorporado. |
-| [Bloodline Pretender](file:///root/mtg/decks/anowon/anowon.txt#L6) | **Opposition Agent** | Cambias un changeling plano por el mayor freno a tutores del juego en tipo Pícaro. |
-| [Sure-Footed Infiltrator](file:///root/mtg/decks/anowon/anowon.txt#L30) | **Rogue Class** | Quitas un Pícaro lento de coste 4 para meter un motor de robo, evasión y hurto continuo. |
-| [Bonehoard](file:///root/mtg/decks/anowon/anowon.txt#L39) | **Mindcrank** | Cambias un equipo que solo da fuerza por el artefacto que duplica el molino y habilita el combo. |
-| [Extract from Darkness](file:///root/mtg/decks/anowon/anowon.txt#L70) | **Reanimate** | Pagas 1 maná en vez de 5 para quedarte con la mejor criatura molida del juego. |
-| [Necromantic Selection](file:///root/mtg/decks/anowon/anowon.txt#L73) | **Animate Dead** | Quitas un wipe pesado de 7 manás para meter reanimación rápida y agresiva de 2 manás. |
-| [Curse of the Swine](file:///root/mtg/decks/anowon/anowon.txt#L68) | **Drown in the Loch** | Cambias un conjuro situacional por una respuesta instantánea universal de 2 manás. |
-| [Distant Melody](file:///root/mtg/decks/anowon/anowon.txt#L69) | **Bloodchief Ascension** | Quitas un conjuro condicional de 4 manás por la condición de victoria definitiva. |
-| [Submerged Boneyard](file:///root/mtg/decks/anowon/anowon.txt#L91) | **Morphic Pool** | Sustituyes una tierra que entra girada obligatoria por la mejor dual enderezada. |
-| [Dismal Backwater](file:///root/mtg/decks/anowon/anowon.txt#L83) | **Sunken Hollow** | Eliminas tierra tapada por dual con tipos de tierra buscable. |
+| [Dhund Operative](file:///root/mtg/decks/Commander/anowon/anowon.txt#L10) | **Dauthi Voidwalker** | Cambias un 2/2 débil por el Pícaro más roto del formato con evasión absoluta y hurto gratis. |
+| [Expedition Skulker](file:///root/mtg/decks/Commander/anowon/anowon.txt#L11) | **Brazen Borrower** | Cambias una criatura mediocre por un Pícaro volador con flash y rebote incorporado. |
+| [Bloodline Pretender](file:///root/mtg/decks/Commander/anowon/anowon.txt#L6) | **Opposition Agent** | Cambias un changeling plano por el mayor freno a tutores del juego en tipo Pícaro. |
+| [Sure-Footed Infiltrator](file:///root/mtg/decks/Commander/anowon/anowon.txt#L30) | **Rogue Class** | Quitas un Pícaro lento de coste 4 para meter un motor de robo, evasión y hurto continuo. |
+| [Bonehoard](file:///root/mtg/decks/Commander/anowon/anowon.txt#L39) | **Mindcrank** | Cambias un equipo que solo da fuerza por el artefacto que duplica el molino y habilita el combo. |
+| [Extract from Darkness](file:///root/mtg/decks/Commander/anowon/anowon.txt#L70) | **Reanimate** | Pagas 1 maná en vez de 5 para quedarte con la mejor criatura molida del juego. |
+| [Necromantic Selection](file:///root/mtg/decks/Commander/anowon/anowon.txt#L73) | **Animate Dead** | Quitas un wipe pesado de 7 manás para meter reanimación rápida y agresiva de 2 manás. |
+| [Curse of the Swine](file:///root/mtg/decks/Commander/anowon/anowon.txt#L68) | **Drown in the Loch** | Cambias un conjuro situacional por una respuesta instantánea universal de 2 manás. |
+| [Distant Melody](file:///root/mtg/decks/Commander/anowon/anowon.txt#L69) | **Bloodchief Ascension** | Quitas un conjuro condicional de 4 manás por la condición de victoria definitiva. |
+| [Submerged Boneyard](file:///root/mtg/decks/Commander/anowon/anowon.txt#L91) | **Morphic Pool** | Sustituyes una tierra que entra girada obligatoria por la mejor dual enderezada. |
+| [Dismal Backwater](file:///root/mtg/decks/Commander/anowon/anowon.txt#L83) | **Sunken Hollow** | Eliminas tierra tapada por dual con tipos de tierra buscable. |
 
 ---
 
