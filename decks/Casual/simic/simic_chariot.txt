@@ -1,0 +1,50 @@
+// CREATURES (20)
+2 Adrix and Nev, Twincasters
+2 Almighty Brushwagg
+1 Battle Mammoth
+3 Deranged Assistant
+2 Faerie Vandal
+2 Farhaven Elf
+2 Fynn, the Fangbearer
+1 Garruk, Primal Hunter
+1 Lotus Cobra
+2 Old-Growth Troll
+2 Toski, Bearer of Secrets
+
+// SPELLS (17)
+2 Adventurous Impulse
+1 Alrund's Epiphany
+2 Blizzard Brawl
+2 Esika's Chariot
+2 Into the Roil
+1 Mystic Reflection
+1 Opt
+2 Rampant Growth
+1 Rapid Hybridization
+1 Snakeskin Veil
+2 The Bears of Littjara
+
+// LANDS (23)
+2 Barkchannel Pathway // Tidechannel Pathway
+1 Command Tower
+8 Forest
+5 Island
+1 Lumbering Falls
+2 Rimewood Falls
+1 Simic Growth Chamber
+1 Temple of Mystery
+2 Thornwood Falls
+
+// SIDEBOARD (15)
+1 Annul
+1 Blizzard Brawl
+1 Broken Wings
+1 Champion of Wits
+2 Chilling Trap
+1 Curse of the Swine
+2 Elven Bow
+1 Perplexing Test
+1 Return of the Wildspeaker
+1 Sol Ring
+1 Whirlwind Denial
+2 Wilt

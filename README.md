@@ -54,9 +54,12 @@ La organización de los mazos sigue una jerarquía estricta según el formato y 
     │       └── svella_upgrades.md
     │
     └── Casual/                       # Mazos de formato Casual / Construido (60 cartas + 15 banquillo)
-        └── boros/                    # Boros Equipment Knights ({R}{W} Aggro / Voltron)
-            ├── boros_knights.txt     # Lista formateada para ManaBox
-            └── boros_knights_guide.md # Guía técnica, curva y guía de banquillo
+        ├── boros/                    # Boros Equipment Knights ({R}{W} Aggro / Voltron)
+        │   ├── boros_knights.txt     # Lista formateada para ManaBox
+        │   └── boros_knights_guide.md # Guía técnica, curva y guía de banquillo
+        └── simic/                    # Simic Chariot Tokens & Ramp ({G}{U} Midrange / Tempo)
+            ├── simic_chariot.txt     # Lista formateada para ManaBox
+            └── simic_chariot_guide.md # Guía técnica, curva y guía de banquillo
 ```
 
 ---
@@ -100,6 +103,7 @@ Mazos optimizados para juego casual construido 1v1 o multijugador con 60 cartas 
 | Mazo / Arquetipo | Colores | Estrategia Principal | Lista ManaBox | Guía Técnica |
 | :--- | :---: | :--- | :--- | :--- |
 | **Boros Equipment Knights** | Boros (`{R, W}`) | Aggro tribal con 4x lord [`Inspiring Veteran`], combo Voltron de [`Grafted Wargear`] + Doble Daño y recarga con [`Showdown of the Skalds`]. | [`boros_knights.txt`](decks/Casual/boros/boros_knights.txt) | [`boros_knights_guide.md`](decks/Casual/boros/boros_knights_guide.md) |
+| **Simic Chariot Tokens & Ramp** | Simic (`{G, U}`) | Multiplicación de fichas con [`Adrix and Nev`] y [`Esika's Chariot`], motor indestructible con [`Toski`] y cierre con [`Alrund's Epiphany`]. | [`simic_chariot.txt`](decks/Casual/simic/simic_chariot.txt) | [`simic_chariot_guide.md`](decks/Casual/simic/simic_chariot_guide.md) |
 
 ---
 
