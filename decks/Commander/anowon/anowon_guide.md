@@ -141,16 +141,16 @@ A medida que Anowon vacía las bibliotecas enemigas, estas cartas se convierten 
 
 ### Pilar 5: Interacción, Contrahechizos e Iras Asimétricas
 
-* **[Crippling Fear](file:///root/mtg/decks/Commander/anowon/anowon.txt#L67) (Ira Unilateral):**
+* **[Crippling Fear](file:///root/mtg/decks/Commander/anowon/anowon.txt#L68) (Ira Unilateral):**
   * Eliges el tipo **Bribón (*Rogue*)**. Todas las criaturas que no sean Bribones obtienen **-3/-3**. Barres los aceleradores, fichas y defensas rivales mientras todo tu ejército sigue intacto en mesa.
-* **[Curse of the Swine](file:///root/mtg/decks/Commander/anowon/anowon.txt#L68):**
-  * Exilio selectivo masivo. Exilia las X mayores amenazas de la mesa y las cambia por cerdos 2/2 inofensivos que tus Rogues imbloqueables pueden ignorar.
+* **[Soul Manipulation](file:///root/mtg/decks/Commander/anowon/anowon.txt#L64):**
+  * Respuesta 2-en-1 de enorme valor por `{1}{U}{B}` a velocidad de instantáneo: contrarresta una criatura peligrosa del oponente y a la vez recupera a tu mejor Bribón muerto del cementerio a tu mano.
 * **[Open into Wonder](file:///root/mtg/decks/Commander/anowon/anowon.txt#L75):** Hace que X Bribones sean inbloqueables este turno y roben carta adicional por cada impacto, combinando evasión absoluta y ventaja masiva.
 * **[Notorious Throng](file:///root/mtg/decks/Commander/anowon/anowon.txt#L74) (Finisher Absoluto):**
   * Si hiciste daño con un Rogue ese turno, pagas su coste de *Prowl* `{5}{U}`: pones fichas de Hada Bribón 1/1 con volar iguales al daño causado y **tomas un turno extra inmediatamente**.
 * **Contrahechizos Clave:**
   * [Saw It Coming](file:///root/mtg/decks/Commander/anowon/anowon.txt#L62): Puedes dejarlo en *Foretell* por `{2}` y contrarrestar cualquier hechizo por `{U}{U}`.
-  * [Whirlwind Denial](file:///root/mtg/decks/Commander/anowon/anowon.txt#L64): Contrarresta todos los hechizos y habilidades de los oponentes en la pila salvo que paguen `{4}` por cada uno.
+  * [Whirlwind Denial](file:///root/mtg/decks/Commander/anowon/anowon.txt#L65): Contrarresta todos los hechizos y habilidades de los oponentes en la pila salvo que paguen `{4}` por cada uno.
   * [Negate](file:///root/mtg/decks/Commander/anowon/anowon.txt#L59): Protección directa frente a iras de mesa o combos no-criatura.
 
 ---

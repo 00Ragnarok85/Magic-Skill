@@ -83,7 +83,7 @@ flowchart TD
 | [Curious Pair](file:///root/mtg/decks/Commander/adrix/adrix.txt#L10) | **Avenger of Zendikar** | Pasas de crear una humilde ficha de comida a crear 14 plantas gigantes. |
 | [Biomathematician](file:///root/mtg/decks/Commander/adrix/adrix.txt#L6) | **Biovisionary** | Sustituyes una ficha 0/0 débil por una condición de victoria alternativa directa. |
 | [Flaxen Intruder](file:///root/mtg/decks/Commander/adrix/adrix.txt#L15) | **Irenicus's Vile Duplication** | Clonar a Adrix sin leyenda multiplica todo tu mazo por 8. |
-| [Introduction to Annihilation](file:///root/mtg/decks/Commander/adrix/adrix.txt#L72) | **Koma, Cosmos Serpent** | Quitas un removal incoloro caro que da carta al rival para meter el mejor generador de fichas Simic. |
+| [Boon of the Wish-Giver](file:///root/mtg/decks/Commander/adrix/adrix.txt#L69) | **Koma, Cosmos Serpent** | Quitas un conjuro de robo pesado de 6 manás para meter el mejor generador de fichas legendario Simic. |
 | [Lofty Denial](file:///root/mtg/decks/Commander/adrix/adrix.txt#L59) | **Counterspell** | Cancelación condicional reemplazada por contramagia dura y segura. |
 | [Essence Scatter](file:///root/mtg/decks/Commander/adrix/adrix.txt#L56) | **An Offer You Can't Refuse** | Proteger a Adrix de conjuros y removals por solo `{U}` es vital. |
 | [Mana Geode](file:///root/mtg/decks/Commander/adrix/adrix.txt#L36) | **Cackling Counterpart** | Quitas una roca lenta de coste 3 para meter un clonador a velocidad de instantáneo. |

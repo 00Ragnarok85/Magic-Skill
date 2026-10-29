@@ -53,7 +53,7 @@
 1 Military Intelligence
 1 Ominous Seas
 
-// INSTANTS (8)
+// INSTANTS (9)
 1 Aetherize
 1 Fact or Fiction
 1 Negate
@@ -61,11 +61,11 @@
 1 Resculpt
 1 Saw It Coming
 1 Silumgar's Command
+1 Soul Manipulation
 1 Whirlwind Denial
 
-// SORCERIES (10)
+// SORCERIES (9)
 1 Crippling Fear
-1 Curse of the Swine
 1 Distant Melody
 1 Extract from Darkness
 1 Feed the Swarm

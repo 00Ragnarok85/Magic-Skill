@@ -67,9 +67,9 @@
 
 // SORCERIES (8)
 1 Boon of the Wish-Giver
+1 Curse of the Swine
 1 Deep Analysis
 1 Field Trip
-1 Introduction to Annihilation
 1 Of One Mind
 1 Ravenform
 1 Stolen Identity

@@ -85,7 +85,7 @@ flowchart TD
 | [Bonehoard](file:///root/mtg/decks/Commander/anowon/anowon.txt#L39) | **Mindcrank** | Cambias un equipo que solo da fuerza por el artefacto que duplica el molino y habilita el combo. |
 | [Extract from Darkness](file:///root/mtg/decks/Commander/anowon/anowon.txt#L70) | **Reanimate** | Pagas 1 maná en vez de 5 para quedarte con la mejor criatura molida del juego. |
 | [Necromantic Selection](file:///root/mtg/decks/Commander/anowon/anowon.txt#L73) | **Animate Dead** | Quitas un wipe pesado de 7 manás para meter reanimación rápida y agresiva de 2 manás. |
-| [Curse of the Swine](file:///root/mtg/decks/Commander/anowon/anowon.txt#L68) | **Drown in the Loch** | Cambias un conjuro situacional por una respuesta instantánea universal de 2 manás. |
+| [Soul Manipulation](file:///root/mtg/decks/Commander/anowon/anowon.txt#L64) | **Drown in the Loch** | Cambias un contrahechizo condicional de 3 manás por la respuesta instantánea modal definitiva de 2 manás. |
 | [Distant Melody](file:///root/mtg/decks/Commander/anowon/anowon.txt#L69) | **Bloodchief Ascension** | Quitas un conjuro condicional de 4 manás por la condición de victoria definitiva. |
 | [Submerged Boneyard](file:///root/mtg/decks/Commander/anowon/anowon.txt#L91) | **Morphic Pool** | Sustituyes una tierra que entra girada obligatoria por la mejor dual enderezada. |
 | [Dismal Backwater](file:///root/mtg/decks/Commander/anowon/anowon.txt#L83) | **Sunken Hollow** | Eliminas tierra tapada por dual con tipos de tierra buscable. |
