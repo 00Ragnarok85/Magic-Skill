@@ -121,3 +121,24 @@ Deck
 Sideboard
 2 Smash to Smithereens
 ```
+
+---
+
+## Workspace Directory & File Organization Convention
+
+Every deck created or maintained in the workspace MUST strictly follow the designated directory structure:
+
+```text
+decks/
+├── Commander/
+│   └── <deck_name>/
+│       ├── <deck_name>.txt          # ManaBox-compatible card list
+│       ├── <deck_name>_guide.md     # Strategy and playguide
+│       └── <deck_name>_upgrades.md  # Upgrade path (if applicable)
+└── Casual/
+    └── <deck_name>/
+        ├── <deck_name>.txt          # 60-card + 15 sideboard list
+        └── <deck_name>_guide.md     # Strategy, curve, and sideboard guide
+```
+Whenever a new deck is generated, always place it inside `decks/<Format>/<deck_name>/` with its companion `.txt` and `_guide.md`.
+
