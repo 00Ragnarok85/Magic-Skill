@@ -89,7 +89,7 @@ El mazo no necesita esperar para desgastar a los rivales; cuenta con formas cont
 1. **[Ruxa, Patient Professor](file:///root/mtg/decks/Commander/adrix/adrix.txt#L25):** 
    * La mayoría de tus fichas (Fractales, Osos, Elefantes, Eldrazis) no tienen habilidades de texto.
    * Ruxa les otorga +1/+1 y hace que **asignen su daño de combate como si no hubiesen sido bloqueadas**, cerrando la partida directamente contra los puntos de vida de los oponentes.
-2. **[Biomass Mutation](file:///root/mtg/decks/Commander/adrix/adrix.txt#L54):**
+2. **[Biomass Mutation](file:///root/mtg/decks/Commander/adrix/adrix.txt#L53):**
    * Instantáneo sorpresa. Antes del cálculo de daño, convierte a todas tus criaturas en X/X (por ejemplo, diez fichas 6/6) para una victoria en un solo ataque.
 3. **[Storm the Citadel](file:///root/mtg/decks/Commander/adrix/adrix.txt#L76):**
    * Da +2/+2 a todos tus atacantes y destruye todos los artefactos y encantamientos de los oponentes cuando tus criaturas conectan.
@@ -104,11 +104,12 @@ El mazo no necesita esperar para desgastar a los rivales; cuenta con formas cont
 Un mazo de Commander necesita robar de forma continuada para no quedarse sin fuelle tras un barrido de mesa:
 
 * **[Idol of Oblivion](file:///root/mtg/decks/Commander/adrix/adrix.txt#L35):** En este mazo es un motor que roba 1 carta cada turno por solo girarlo (y a partida larga crea dos Eldrazis 10/10).
-* **[Eureka Moment](file:///root/mtg/decks/Commander/adrix/adrix.txt#L57):** Roba 2 cartas a velocidad instantánea y pone una tierra en juego.
-* **[Behold the Multiverse](file:///root/mtg/decks/Commander/adrix/adrix.txt#L53):** Adivina 2 y roba 2 (aprovechando la mecánica de *Foretell*).
+* **[Eureka Moment](file:///root/mtg/decks/Commander/adrix/adrix.txt#L56):** Roba 2 cartas a velocidad instantánea y pone una tierra en juego.
+* **[Behold the Multiverse](file:///root/mtg/decks/Commander/adrix/adrix.txt#L52):** Adivina 2 y roba 2 (aprovechando la mecánica de *Foretell*).
 * **[Of One Mind](file:///root/mtg/decks/Commander/adrix/adrix.txt#L73):** Como controlas criaturas Humanas (Adrix) y No-Humanas (fichas de Bestias/Osos), roba 2 cartas por solo `{U}`.
-* **[Commander's Insight](file:///root/mtg/decks/Commander/adrix/adrix.txt#L55):** Robo instantáneo a partida avanzada según las veces que hayas lanzado a Adrix.
-* **[Thirst for Knowledge](file:///root/mtg/decks/Commander/adrix/adrix.txt#L63) y [Thirst for Meaning](file:///root/mtg/decks/Commander/adrix/adrix.txt#L64):** Robo instantáneo de 3 cartas filtrando artefactos o encantamientos.
+* **[Commander's Insight](file:///root/mtg/decks/Commander/adrix/adrix.txt#L54):** Robo instantáneo a partida avanzada según las veces que hayas lanzado a Adrix.
+* **[Thirst for Knowledge](file:///root/mtg/decks/Commander/adrix/adrix.txt#L62) y [Thirst for Meaning](file:///root/mtg/decks/Commander/adrix/adrix.txt#L63):** Robo instantáneo de 3 cartas filtrando artefactos o encantamientos.
+* **[Kodama's Reach](file:///root/mtg/decks/Commander/adrix/adrix.txt#L72):** Aceleración esencial que adelanta una tierra básica al campo y otra a tu mano.
 
 ---
 
@@ -118,14 +119,14 @@ Un mazo de Commander necesita robar de forma continuada para no quedarse sin fue
   * Criatura 7/7 que al entrar regresa a la mano de sus propietarios todos los permanentes que no sean Gigantes ni Hechiceros.
   * **Interacción Clave:** Como Adrix and Nev tiene el tipo **Hechicero (*Merfolk Wizard*)**, **tu comandante no se va a la mano**, limpiando la defensa enemiga para un ataque libre.
 * **Eliminación y Respuestas Instantáneas:**
-  * [Rapid Hybridization](file:///root/mtg/decks/Commander/adrix/adrix.txt#L61): Destruye cualquier amenaza criatura por 1 maná azul.
-  * [Ram Through](file:///root/mtg/decks/Commander/adrix/adrix.txt#L60): Mordisco instantáneo a una criatura rival sin recibir daño (con arrollar excedente si se usa con criaturas grandes).
+  * [Rapid Hybridization](file:///root/mtg/decks/Commander/adrix/adrix.txt#L60): Destruye cualquier amenaza criatura por 1 maná azul.
+  * [Ram Through](file:///root/mtg/decks/Commander/adrix/adrix.txt#L59): Mordisco instantáneo a una criatura rival sin recibir daño (con arrollar excedente si se usa con criaturas grandes).
   * [Reclamation Sage](file:///root/mtg/decks/Commander/adrix/adrix.txt#L24) y [Caustic Caterpillar](file:///root/mtg/decks/Commander/adrix/adrix.txt#L7): Destrucción de artefactos y encantamientos prioritarios.
-  * [Curse of the Swine](file:///root/mtg/decks/Commander/adrix/adrix.txt#L70) y [Ravenform](file:///root/mtg/decks/Commander/adrix/adrix.txt#L74): El mejor exilio de criaturas masivo y puntual de Simic. `Curse of the Swine` escala con la abundante rampa verde para barrer múltiples comandantes rivales cambiándolos por inocuos jabalíes 2/2.
+  * [Curse of the Swine](file:///root/mtg/decks/Commander/adrix/adrix.txt#L69) y [Ravenform](file:///root/mtg/decks/Commander/adrix/adrix.txt#L74): El mejor exilio de criaturas masivo y puntual de Simic. `Curse of the Swine` escala con la abundante rampa verde para barrer múltiples comandantes rivales cambiándolos por inocuos jabalíes 2/2.
 * **Protección del Comandante:**
-  * [Snakeskin Veil](file:///root/mtg/decks/Commander/adrix/adrix.txt#L62): Antimaleficio instantáneo + contador +1/+1.
+  * [Snakeskin Veil](file:///root/mtg/decks/Commander/adrix/adrix.txt#L61): Antimaleficio instantáneo + contador +1/+1.
   * [Tyrite Sanctum](file:///root/mtg/decks/Commander/adrix/adrix.txt#L87): Tierra capaz de otorgar un contador de **Indestructible** sobre Adrix and Nev.
-  * [Annul](file:///root/mtg/decks/Commander/adrix/adrix.txt#L51), [Essence Scatter](file:///root/mtg/decks/Commander/adrix/adrix.txt#L56) y [Whirlwind Denial](file:///root/mtg/decks/Commander/adrix/adrix.txt#L65): Protección total contra limpiezas de mesa y turnos de combo rivales. Contrarresta todos los hechizos y habilidades salvo que paguen `{4}` por cada uno.
+  * [Annul](file:///root/mtg/decks/Commander/adrix/adrix.txt#L50), [Essence Scatter](file:///root/mtg/decks/Commander/adrix/adrix.txt#L55) y [Whirlwind Denial](file:///root/mtg/decks/Commander/adrix/adrix.txt#L64): Protección total contra limpiezas de mesa y turnos de combo rivales. Contrarresta todos los hechizos y habilidades salvo que paguen `{4}` por cada uno.
 
 ---
 
@@ -145,7 +146,7 @@ flowchart LR
 
 ### Turno 4: Lanzamiento Seguro del Comandante
 * Lanza a **Adrix and Nev, Twincasters**.
-* Gracias a su habilidad de **Ward {2}**, si algún oponente quiere eliminarlo en turno 4, tendrá que pagar 2 manás extra, lo que casi siempre les deja sin maná para responder. Si tienes [Snakeskin Veil](file:///root/mtg/decks/Commander/adrix/adrix.txt#L62) en mano, tu comandante está prácticamente blindado.
+* Gracias a su habilidad de **Ward {2}**, si algún oponente quiere eliminarlo en turno 4, tendrá que pagar 2 manás extra, lo que casi siempre les deja sin maná para responder. Si tienes [Snakeskin Veil](file:///root/mtg/decks/Commander/adrix/adrix.txt#L61) en mano, tu comandante está prácticamente blindado.
 
 ### Turnos 5 a 6: Explosión de Fichas
 * Ahora cualquier generador de fichas multiplica su valor por dos:
@@ -155,7 +156,7 @@ flowchart LR
 
 ### Turno 7 en adelante: El Golpe de Gracia
 * Despliega [Cyclone Summoner](file:///root/mtg/decks/Commander/adrix/adrix.txt#L11) para limpiar la mesa oponente dejando a Adrix intacto.
-* Conecta con [Ruxa, Patient Professor](file:///root/mtg/decks/Commander/adrix/adrix.txt#L25) o remata con [Biomass Mutation](file:///root/mtg/decks/Commander/adrix/adrix.txt#L54) / [Storm the Citadel](file:///root/mtg/decks/Commander/adrix/adrix.txt#L76).
+* Conecta con [Ruxa, Patient Professor](file:///root/mtg/decks/Commander/adrix/adrix.txt#L25) o remata con [Biomass Mutation](file:///root/mtg/decks/Commander/adrix/adrix.txt#L53) / [Storm the Citadel](file:///root/mtg/decks/Commander/adrix/adrix.txt#L76).
 * Si la partida se estanca, [Treeshaker Chimera](file:///root/mtg/decks/Commander/adrix/adrix.txt#L28) o [Desolation Twin](file:///root/mtg/decks/Commander/adrix/adrix.txt#L12) acabarán con las vidas de los contrincantes por fuerza bruta.
 
 ---

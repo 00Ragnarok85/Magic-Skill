@@ -39,13 +39,12 @@
 1 Sequence Engine
 1 Witching Well
 
-// ENCHANTMENTS (6)
+// ENCHANTMENTS (5)
 1 Mantle of the Wolf
 1 Omen of the Hunt
 1 Reflections of Littjara
 1 Roost of Drakes
 1 The Bears of Littjara
-1 The Weatherseed Treaty
 
 // INSTANTS (16)
 1 Annul
@@ -65,11 +64,12 @@
 1 Whirlwind Denial
 1 Wilt
 
-// SORCERIES (8)
+// SORCERIES (9)
 1 Boon of the Wish-Giver
 1 Curse of the Swine
 1 Deep Analysis
 1 Field Trip
+1 Kodama's Reach
 1 Of One Mind
 1 Ravenform
 1 Stolen Identity
