@@ -43,11 +43,10 @@
 1 Scroll Rack
 1 Traveler's Amulet
 
-// ENCHANTMENTS (4)
+// ENCHANTMENTS (3)
 1 Arni Slays the Troll
 1 Gift of Paradise
 1 Rune of Might
-1 The Weatherseed Treaty
 
 // INSTANTS (9)
 1 Beast Within
@@ -60,7 +59,7 @@
 1 Thrill of Possibility
 1 Wilt
 
-// SORCERIES (14)
+// SORCERIES (15)
 1 Adventure Awaits
 1 Blessing of Frost
 1 Blizzard Brawl
@@ -74,6 +73,7 @@
 1 Scale the Heights
 1 Seize the Spoils
 1 Shamanic Revelation
+1 Three Visits
 1 Tundra Fumarole
 
 // LANDS (36)
