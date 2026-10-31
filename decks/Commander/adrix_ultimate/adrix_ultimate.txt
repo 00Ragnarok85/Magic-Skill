@@ -1,0 +1,102 @@
+// COMMANDER (1)
+1 Adrix and Nev, Twincasters
+
+// CREATURES (25)
+1 Arixmethes, Slumbering Isle
+1 Battle Mammoth
+1 Beanstalk Giant // Fertile Footsteps
+1 Champion of Wits
+1 Cyclone Summoner
+1 Esix, Fractal Bloom
+1 Farhaven Elf
+1 Guardian Augmenter
+1 Hornet Queen
+1 Hydra Broodmaster
+1 Incubation Druid
+1 Kaseto, Orochi Archmage
+1 Kodama of the East Tree
+1 Lotus Cobra
+1 Master Biomancer
+1 Old-Growth Troll
+1 Rampaging Baloths
+1 Reclamation Sage
+1 Reef Worm
+1 Scourge of Fleets
+1 Serpent of Yawning Depths
+1 Shigeki, Jukai Visionary
+1 Spawning Kraken
+1 Terastodon
+1 Toski, Bearer of Secrets
+
+// PLANESWALKERS (1)
+1 Garruk, Primal Hunter
+
+// ARTIFACTS (8)
+1 Arcane Signet
+1 Esika's Chariot
+1 Idol of Oblivion
+1 Mind Stone
+1 Replicating Ring
+1 Scroll Rack
+1 Simic Signet
+1 Sol Ring
+
+// ENCHANTMENTS (3)
+1 Ominous Seas
+1 Paradox Zone
+1 Reflections of Littjara
+
+// INSTANTS (15)
+1 Beast Within
+1 Biomass Mutation
+1 Commander's Insight
+1 Disdainful Stroke
+1 Krosan Grip
+1 Mystic Reflection
+1 Negate
+1 Opt
+1 Perplexing Test
+1 Rapid Hybridization
+1 Resculpt
+1 Return of the Wildspeaker
+1 Saw It Coming
+1 Snakeskin Veil
+1 Whirlwind Denial
+
+// SORCERIES (11)
+1 Alrund's Epiphany
+1 Curse of the Swine
+1 Ezuri's Predation
+1 Kodama's Reach
+1 Migration Path
+1 Oversimplify
+1 Rampant Growth
+1 Replication Technique
+1 Rite of Replication
+1 Shamanic Revelation
+1 Stolen Identity
+
+// LANDS (36)
+1 Barkchannel Pathway // Tidechannel Pathway
+1 Blighted Woodland
+1 Command Tower
+1 Evolving Wilds
+1 Exotic Orchard
+8 Forest
+1 Glasspool Mimic // Glasspool Shore
+7 Island
+1 Littjara Mirrorlake
+1 Lumbering Falls
+1 Mosswort Bridge
+1 Myriad Landscape
+1 Novijen, Heart of Progress
+1 Oran-Rief, the Vastwood
+1 Quandrix Campus
+1 Rimewood Falls
+1 Rogue's Passage
+1 Silundi Vision // Silundi Isle
+1 Simic Growth Chamber
+1 Temple of Mystery
+1 Terramorphic Expanse
+1 Thornwood Falls
+1 Yavimaya Coast

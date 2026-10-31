@@ -28,12 +28,16 @@ La organización de los mazos sigue una jerarquía estricta según el formato y 
 │
 └── decks/                            # Directorio central de mazos
     ├── Commander/                    # Mazos de formato Commander / EDH (100 cartas Singleton)
-    │   ├── adrix/                    # Adrix and Nev, Twincasters (Simic Tokens)
+    │   ├── adrix_ultimate/           # 🔥 EL MEJOR MAZO DEL POOL COMPLETO: Adrix and Nev Ultimate (Power Level 8.5)
+    │   │   ├── adrix_ultimate.txt    # Lista maestra optimizada para ManaBox
+    │   │   └── adrix_ultimate_guide.md # Guía técnica de combos, curva y estrategia
+    │   │
+    │   ├── adrix/                    # Adrix and Nev, Twincasters (Simic Tokens - Pool Dividido)
     │   │   ├── adrix.txt             # Lista formateada para ManaBox
     │   │   ├── adrix_guide.md        # Guía técnica y plan de partida
     │   │   └── adrix_upgrades.md     # Guía de mejoras modular en 3 fases
     │   │
-    │   ├── anowon/                   # Anowon, the Ruin Thief (Dimir Rogues / Mill)
+    │   ├── anowon/                   # Anowon, the Ruin Thief (Dimir Bribones / Mill)
     │   │   ├── anowon.txt
     │   │   ├── anowon_guide.md
     │   │   └── anowon_upgrades.md
@@ -86,13 +90,14 @@ Diseñada como un asistente experto para jugadores y constructores de mazos de M
 
 Todos los mazos están verificados con 100 cartas exactas, formateados con comentarios por sección listos para importar directamente en **ManaBox (Android / iOS)**:
 
-| Comandante | Colores | Estrategia Principal | Lista ManaBox | Guía Técnica | Plan de Mejoras |
+| Mazo / Comandante | Colores | Estrategia Principal | Lista ManaBox | Guía Técnica | Plan de Mejoras |
 | :--- | :---: | :--- | :--- | :--- | :--- |
+| **🔥 Adrix and Nev (Ultimate Pool)** | Simic (`{G, U}`) | **El mejor mazo de la colección (Nivel 8.5):** Multiplicación masiva con [`Adrix and Nev`], combos con [`Esix`], [`Esika's Chariot`], [`Rite of Replication`], monstruos marinos inbloqueables y wipes unilaterales con [`Perplexing Test`]. | [`adrix_ultimate.txt`](decks/Commander/adrix_ultimate/adrix_ultimate.txt) | [`adrix_ultimate_guide.md`](decks/Commander/adrix_ultimate/adrix_ultimate_guide.md) | *Optimizado al máximo* |
 | **Liesa, Shroud of Dusk** | Orzhov (`{W, B}`) | Impuesto global (2 vidas/hechizo), drenaje y permanentes nevados. | [`liesa.txt`](decks/Commander/liesa/liesa.txt) | [`liesa_guide.md`](decks/Commander/liesa/liesa_guide.md) | [`liesa_upgrades.md`](decks/Commander/liesa/liesa_upgrades.md) |
 | **Kardur, Doomscourge** | Rakdos (`{B, R}`) | Combate obligatorio forzado (*Goad* global), robo de criaturas y Monarquía. | [`kardur.txt`](decks/Commander/kardur/kardur.txt) | [`kardur_guide.md`](decks/Commander/kardur/kardur_guide.md) | [`kardur_upgrades.md`](decks/Commander/kardur/kardur_upgrades.md) |
-| **Svella, Ice Shaper** | Gruul (`{R, G}`) | Rampa ilimitada con Manalitos de hielo y trampeo de titanes gratis del top 4. | [`svella.txt`](decks/Commander/svella/svella.txt) | [`svella_guide.md`](decks/Commander/svella/svella_guide.md) | [`svella_upgrades.md`](decks/Commander/svella/svella_upgrades.md) |
-| **Anowon, the Ruin Thief** | Dimir (`{U, B}`) | Infiltración de bribones evasivos, molino masivo y reanimación de amenazas. | [`anowon.txt`](decks/Commander/anowon/anowon.txt) | [`anowon_guide.md`](decks/Commander/anowon/anowon_guide.md) | [`anowon_upgrades.md`](decks/Commander/anowon/anowon_upgrades.md) |
-| **Adrix and Nev** | Simic (`{G, U}`) | Multiplicación exponencial de fichas de criatura, rampa y bombas marinas. | [`adrix.txt`](decks/Commander/adrix/adrix.txt) | [`adrix_guide.md`](decks/Commander/adrix/adrix_guide.md) | [`adrix_upgrades.md`](decks/Commander/adrix/adrix_upgrades.md) |
+| **Svella, Ice Shaper** | Gruul (`{R, G}`) | Rampa ilimitada con Manalitos de hielo y trampeo de titanes gratis del top 4 con [`Scroll Rack`]. | [`svella.txt`](decks/Commander/svella/svella.txt) | [`svella_guide.md`](decks/Commander/svella/svella_guide.md) | [`svella_upgrades.md`](decks/Commander/svella/svella_upgrades.md) |
+| **Anowon, the Ruin Thief** | Dimir (`{U, B}`) | Infiltración de bribones evasivos, molino masivo con [`Grafted Wargear`] y reanimación de amenazas. | [`anowon.txt`](decks/Commander/anowon/anowon.txt) | [`anowon_guide.md`](decks/Commander/anowon/anowon_guide.md) | [`anowon_upgrades.md`](decks/Commander/anowon/anowon_upgrades.md) |
+| **Adrix and Nev (Pool Dividido)** | Simic (`{G, U}`) | Multiplicación exponencial de fichas de criatura, rampa y bombas marinas (versión sin solapamiento con los otros 4 comandantes). | [`adrix.txt`](decks/Commander/adrix/adrix.txt) | [`adrix_guide.md`](decks/Commander/adrix/adrix_guide.md) | [`adrix_upgrades.md`](decks/Commander/adrix/adrix_upgrades.md) |
 
 ---
 
