@@ -1,12 +1,12 @@
 // COMMANDER (1)
 1 Krenko, Mob Boss
 
-// CREATURES (26)
+// CREATURES (25)
 1 Agate Instigator
 1 Birgi, God of Storytelling // Harnfel, Horn of Bounty
+1 Broadside Bombardiers
 1 Conspicuous Snoop
 1 Dualcaster Mage
-1 General Kreat, the Boltbringer
 1 Goblin Chirurgeon
 1 Goblin Engineer
 1 Goblin Matron
@@ -16,7 +16,6 @@
 1 Goblin Welder
 1 Goro-Goro, Disciple of Ryusei
 1 Hexing Squelcher
-1 Howlsquad Heavy
 1 Imperial Recruiter
 1 Kiki-Jiki, Mirror Breaker
 1 Magus of the Moon
@@ -29,22 +28,23 @@
 1 Torch Courier
 1 Treasonous Ogre
 
-// ARTIFACTS (20)
+// ARTIFACTS (21)
 1 Ashnod's Altar
 1 Chrome Mox
+1 Defense Grid
 1 Grinding Station
+1 Grim Monolith
 1 Lightning Greaves
 1 Lion's Eye Diamond
 1 Lotus Petal
-1 Magewright's Stone
 1 Mana Vault
+1 Mox Amber
 1 Mox Diamond
 1 Mox Opal
 1 Phyrexian Altar
 1 Skullclamp
 1 Sol Ring
-1 Springleaf Drum
-1 Sting, the Glinting Dagger
+1 Staff of Domination
 1 The One Ring
 1 Thornbite Staff
 1 Thousand-Year Elixir
@@ -59,7 +59,7 @@
 1 Mass Hysteria
 1 Underworld Breach
 
-// INSTANTS (11)
+// INSTANTS (12)
 1 Abrade
 1 Brightstone Ritual
 1 Deflecting Swat
@@ -69,17 +69,17 @@
 1 Lightning Bolt
 1 Pyroblast
 1 Red Elemental Blast
-1 Redirect Lightning
 1 Seething Song
+1 Tibalt's Trickery
+1 Wild Magic Surge
 
-// SORCERIES (7)
+// SORCERIES (6)
 1 Gamble
 1 Jeska's Will
 1 Molten Duplication
 1 Rite of Flame
 1 Twinflame
 1 Wheel of Fortune
-1 Wheel of Misfortune
 
 // LANDS (29)
 1 Ancient Tomb
@@ -91,10 +91,13 @@
 1 Command Beacon
 1 Gemstone Caverns
 1 Great Furnace
-14 Mountain
+1 Inventors' Fair
+11 Mountain
+1 Plaza of Heroes
 1 Prismatic Vista
 1 Scalding Tarn
 1 Shatterskull Smashing // Shatterskull, the Hammer Pass
 1 Three Tree City
 1 Urza's Saga
+1 Valakut Awakening // Valakut Stoneforge
 1 Wooded Foothills
