@@ -1,5 +1,5 @@
 # Guía Estratégica: Adrix and Nev, Twincasters
-### Duplicación Exponencial de Fichas, Combo de Krakens y Planeswalkers (Simic Token Swarm)
+### Duplicación Exponencial de Fichas, Combo de Krakens, Esix y Planeswalkers (Simic Swarm)
 
 > **Formato:** Commander / EDH (CR 903)  
 > **Comandante:** [Adrix and Nev, Twincasters](file:///root/mtg/decks/Commander/adrix/adrix.txt#L2)  
@@ -20,7 +20,7 @@
 
 ### Reglas Oficiales y Funcionamiento de la Duplicación
 1. **Efecto de Reemplazo (CR 614.1a):** La habilidad de Adrix and Nev **no usa la pila ni se puede responder**. Se aplica instantáneamente en el momento en que se genera cualquier ficha.
-2. **Duplica TODO tipo de fichas:** No solo criaturas; también duplica fichas de **Tesoro** (*Treasure*), **Comida** (*Food*), fichas de **Planeswalker no legendarias** ([Jace, Mirror Mage](file:///root/mtg/decks/Commander/adrix/adrix.txt#L31)), fichas de **Copia** y fichas masivas de **Kraken 9/9** y **Kraken 8/8**.
+2. **Duplica TODO tipo de fichas:** No solo criaturas; también duplica fichas de **Tesoro** (*Treasure*), **Comida** (*Food*), fichas de **Planeswalker no legendarias** ([Jace, Mirror Mage](file:///root/mtg/decks/Commander/adrix/adrix.txt#L31)), fichas de **Copia** ([Esix, Fractal Bloom](file:///root/mtg/decks/Commander/adrix/adrix.txt#L13)) y fichas masivas de **Kraken 9/9** y **Kraken 8/8**.
 3. **Múltiples fuentes:** Si una habilidad dice *"Crea una ficha que es una copia de Jace"*, con Adrix en mesa entran **dos fichas copia** de golpe.
 
 ---
@@ -34,7 +34,7 @@ El mazo ha sido optimizado aplicando el modelo matemático de **Frank Karsten** 
  MTG MANA CURVE & LAND BASE ANALYSIS
 =================================================================
 Total Cartas:           100
-Coste Medio (CMC):      3.39
+Coste Medio (CMC):      3.45
 Tierras Totales:        37 tierras efectivas (35 tradicionales + 2 MDFC)
 Piezas de Rampa:        14 fuentes
 Distribución de Pips:   Verde (G): 49.3%  |  Azul (U): 50.7%
@@ -45,22 +45,32 @@ Distribución de Pips:   Verde (G): 49.3%  |  Azul (U): 50.7%
 
 ```text
   CMC  1:  7 cartas | ███████
-  CMC  2: 14 cartas | ██████████████
+  CMC  2: 13 cartas | █████████████
   CMC  3: 23 cartas | ███████████████████████ (PICO DE LA CURVA)
   CMC  4:  9 cartas | █████████
   CMC  5:  5 cartas | █████
-  CMC  6:  4 cartas | ████
+  CMC  6:  5 cartas | █████
   CMC 7+:  5 cartas | █████
 ```
 
-* **Pico en Turno 2–3 (44 cartas de coste 1–3):** Permite desarrollar la mesa, acelerar maná y colocar motores antes de que el comandante toque el campo.
+* **Pico en Turno 2–3 (43 cartas de coste 1–3):** Permite desarrollar la mesa, acelerar maná y colocar motores antes de que el comandante toque el campo.
 * **Curvatura Perfecta para Turno 4:** Con 14 piezas de aceleración (*Arixmethes*, *Moss Diamond*, *Humble Naturalist*, *Fertile Footsteps*, etc.), Adrix and Nev entra consistentemente en el turno 3 o en el turno 4 manteniendo maná abierto para su protección.
 
 ---
 
 ## 3. Desglose Estratégico por Roles
 
-### A. El Combo Tribal de Monstruos Marinos y Krakens (Paquete de Impacto Letal)
+### A. El Motor Maestro de Copias: [Esix, Fractal Bloom](file:///root/mtg/decks/Commander/adrix/adrix.txt#L13)
+* **Texto de Esix:** *"La primera vez en cada turno que fueras a crear una o más fichas, puedes elegir una criatura. Si lo haces, esas fichas entran como copias de esa criatura en su lugar."*
+* **Sinergia Demoledora con Adrix:**
+  * Al tener a ambos en juego, cualquier creador de fichas se convierte en un multiplicador de las criaturas más poderosas de toda la mesa:
+    * Lanza la aventura de [Flaxen Intruder](file:///root/mtg/decks/Commander/adrix/adrix.txt#L14) (crea 3 fichas ➔ Adrix crea 6): ¡Esix hace que entren como **SEIS COPIAS de la mejor criatura del campo de batalla**!
+    * Cuando muere [Reef Worm](file:///root/mtg/decks/Commander/adrix/adrix.txt#L23), en lugar de dos simples peces, entran **dos copias de cualquier bomba rival o propia**.
+    * Cada activación de [Kazandu Tuskcaller](file:///root/mtg/decks/Commander/adrix/adrix.txt#L17) genera de 2 a 4 copias de la criatura que tú elijas cada turno.
+
+---
+
+### B. El Combo Tribal de Monstruos Marinos y Krakens (Paquete de Impacto Letal)
 El paquete temático estrella de este mazo genera una bola de nieve incontrolable al combinarse con la habilidad duplicadora de Adrix:
 
 ```mermaid
@@ -72,10 +82,12 @@ flowchart TD
     Worm["Reef Worm (Cascada de tokens)"]
     Scourge["Scourge of Fleets (Ira asimétrica)"]
     Arix["Arixmethes, Slumbering Isle (Rampa / Kraken 12/12)"]
+    Esix["Esix, Fractal Bloom (Motor de clones)"]
 
     Adrix -->|Multiplica x2 fichas| Spawning
     Adrix -->|Duplica Krakens 8/8 a velocidad instantánea| Ominous
     Adrix -->|2 Peces -> 4 Ballenas -> 8 Krakens| Worm
+    Adrix -->|Multiplica copias de Esix| Esix
     Serpent -->|Garantiza daño directo de monstruos marinos| Spawning
     Serpent -->|Hace imbloqueable al 12/12| Arix
     Scourge -->|Limpia bloqueadores rivales| Serpent
@@ -99,7 +111,7 @@ flowchart TD
 
 ---
 
-### B. El Combo de Multiplicación de Planeswalkers
+### C. El Combo de Multiplicación de Planeswalkers
 * **[Jace, Mirror Mage](file:///root/mtg/decks/Commander/adrix/adrix.txt#L31):**
   * Coste `{1}{U}{U}` con **Estímulo / Kicker {2}** (5 manás en total).
   * **Interacción Brutal:** Al lanzarlo estimulado, su habilidad de entrada crea una ficha copia de sí mismo que no es legendaria (con lealtad 1). ¡Con **Adrix and Nev** en el campo, esa habilidad crea **DOS fichas copia no legendarias**!
@@ -107,7 +119,7 @@ flowchart TD
 
 ---
 
-### C. Motores de Duplicación y Generación de Fichas (15 Cartas)
+### D. Motores de Duplicación y Generación de Fichas (15 Cartas)
 Al tener a Adrix en juego, cada generador produce una ventaja abrumadora:
 
 * **Clones y Copias Masivas:**
@@ -115,8 +127,8 @@ Al tener a Adrix en juego, cada generador produce una ventaja abrumadora:
   * [Champion of Wits](file:///root/mtg/decks/Commander/adrix/adrix.txt#L9): Filtra la mano al inicio; su coste de *Eternalizar* crea **dos copias 4/4** y te hace robar 8 cartas.
   * [Reflections of Littjara](file:///root/mtg/decks/Commander/adrix/adrix.txt#L49): Copia cada hechizo de criatura del tipo elegido que lances.
 * **Enjambre de Criaturas:**
-  * [Desolation Twin](file:///root/mtg/decks/Commander/adrix/adrix.txt#L13): Pone **dos fichas Eldrazi 10/10** de golpe en mesa (20 de fuerza).
-  * [Flaxen Intruder // Welcome Home](file:///root/mtg/decks/Commander/adrix/adrix.txt#L14): Su aventura genera **seis Osos 2/2** por 7 manás.
+  * [Desolation Twin](file:///root/mtg/decks/Commander/adrix/adrix.txt#L12): Pone **dos fichas Eldrazi 10/10** de golpe en mesa (20 de fuerza).
+  * [Flaxen Intruder // Welcome Home](file:///root/mtg/decks/Commander/adrix/adrix.txt#L14): Su aventura genera **seis Osos 2/2** por 7 manás (o 6 copias de lo que quieras con [Esix, Fractal Bloom](file:///root/mtg/decks/Commander/adrix/adrix.txt#L13)).
   * [The Bears of Littjara](file:///root/mtg/decks/Commander/adrix/adrix.txt#L50): Pone dos cambiaformas 4/4 y convierte a todas tus fichas en 4/4.
   * [Mantle of the Wolf](file:///root/mtg/decks/Commander/adrix/adrix.txt#L46): Da +4/+4 y al morir genera **cuatro Lobos 2/2**.
   * [Kazandu Tuskcaller](file:///root/mtg/decks/Commander/adrix/adrix.txt#L17): Sube de nivel para girarse y generar **dos o cuatro Elefantes 3/3** por turno.
@@ -130,7 +142,7 @@ Al tener a Adrix en juego, cada generador produce una ventaja abrumadora:
 
 ---
 
-### D. Rematadores y Condiciones de Victoria (5 Cartas)
+### E. Rematadores y Condiciones de Victoria (5 Cartas)
 El mazo cuenta con múltiples formas contundentes de cerrar la partida:
 
 1. **[Ruxa, Patient Professor](file:///root/mtg/decks/Commander/adrix/adrix.txt#L24):** 
@@ -147,7 +159,7 @@ El mazo cuenta con múltiples formas contundentes de cerrar la partida:
 
 ---
 
-### E. Ventaja de Cartas y Recursos (12 Cartas)
+### F. Ventaja de Cartas y Recursos (12 Cartas)
 Un mazo de Commander necesita robar de forma continuada para alimentar la mesa y disparar contadores:
 
 * **[Idol of Oblivion](file:///root/mtg/decks/Commander/adrix/adrix.txt#L38):** En este mazo es un motor que roba 1 carta cada turno por solo girarlo (y a partida larga crea dos Eldrazis 10/10).
@@ -160,9 +172,9 @@ Un mazo de Commander necesita robar de forma continuada para alimentar la mesa y
 
 ---
 
-### F. Interacción, Control e Ira Asimétrica (11 Cartas)
+### G. Interacción, Control e Ira Asimétrica (11 Cartas)
 
-* **[Cyclone Summoner](file:///root/mtg/decks/Commander/adrix/adrix.txt#L12) & [Scourge of Fleets](file:///root/mtg/decks/Commander/adrix/adrix.txt#L25) (Iras Asimétricas):**
+* **[Cyclone Summoner](file:///root/mtg/decks/Commander/adrix/adrix.txt#L11) & [Scourge of Fleets](file:///root/mtg/decks/Commander/adrix/adrix.txt#L25) (Iras Asimétricas):**
   * `Cyclone Summoner`: Criatura 7/7 que regresa a la mano de sus propietarios todos los permanentes que no sean Gigantes ni Hechiceros. Como Adrix and Nev tiene el tipo **Hechicero (*Merfolk Wizard*)**, **tu comandante no se va a la mano**, limpiando la defensa enemiga para un ataque libre.
   * `Scourge of Fleets`: Devuelve a la mano todas las criaturas oponentes con fuerza menor o igual a tus Islas, dejando tus gigantescos monstruos marinos listos para el golpe final.
 * **Eliminación y Respuestas Instantáneas:**
@@ -182,13 +194,13 @@ Un mazo de Commander necesita robar de forma continuada para alimentar la mesa y
 ```mermaid
 flowchart LR
     A["Turnos 1–3: Desarrollo y Rampa"] --> B["Turno 4: Bajar a Adrix and Nev"]
-    B --> C["Turnos 5–6: Jace x3, Krakens y Fichas"]
+    B --> C["Turnos 5–6: Esix, Jace x3 y Krakens"]
     C --> D["Turno 7+: Evasión e Ira Asimétrica"]
 ```
 
 ### Turnos 1 a 3: El Despliegue
 * Busca manos con al menos 3 fuentes de maná (entre tierras y rampa de turno 2/3).
-* Prioriza jugar [Fertile Footsteps](file:///root/mtg/decks/Commander/adrix/adrix.txt#L6), [Moss Diamond](file:///root/mtg/decks/Commander/adrix/adrix.txt#L40), [Humble Naturalist](file:///root/mtg/decks/Commander/adrix/adrix.txt#L15), [Ominous Seas](file:///root/mtg/decks/Commander/adrix/adrix.txt#L48) o criaturas utilitarias como [Curious Pair](file:///root/mtg/decks/Commander/adrix/adrix.txt#L11) y [Witching Well](file:///root/mtg/decks/Commander/adrix/adrix.txt#L43).
+* Prioriza jugar [Fertile Footsteps](file:///root/mtg/decks/Commander/adrix/adrix.txt#L6), [Moss Diamond](file:///root/mtg/decks/Commander/adrix/adrix.txt#L40), [Humble Naturalist](file:///root/mtg/decks/Commander/adrix/adrix.txt#L15), [Ominous Seas](file:///root/mtg/decks/Commander/adrix/adrix.txt#L48) o artefactos de filtro como [Witching Well](file:///root/mtg/decks/Commander/adrix/adrix.txt#L43).
 * Si no tienes a Adrix aún pero necesitas ventaja, baja a [Jace, Mirror Mage](file:///root/mtg/decks/Commander/adrix/adrix.txt#L31) en turno 3 para empezar a filtrar con adivinar.
 
 ### Turno 4: Lanzamiento Seguro del Comandante
@@ -196,8 +208,9 @@ flowchart LR
 * Gracias a su habilidad de **Ward {2}**, si algún oponente quiere eliminarlo en turno 4, tendrá que pagar 2 manás extra, lo que casi siempre les deja sin maná para responder. Si tienes [Snakeskin Veil](file:///root/mtg/decks/Commander/adrix/adrix.txt#L63) en mano, tu comandante está prácticamente blindado.
 * Como alternativa, baja a [Arixmethes, Slumbering Isle](file:///root/mtg/decks/Commander/adrix/adrix.txt#L5) para acelerar 2 manás adicionales el siguiente turno.
 
-### Turnos 5 a 6: Explosión de Fichas y Triplicación de Jace
+### Turnos 5 a 6: Despliegue de Esix, Planeswalkers y Multiplicación de Fichas
 * Ahora cualquier generador de fichas multiplica su valor por dos:
+  * Despliega a [Esix, Fractal Bloom](file:///root/mtg/decks/Commander/adrix/adrix.txt#L13) para convertir cada ficha creada en copias de la mejor criatura del campo de batalla.
   * Lanza a [Jace, Mirror Mage](file:///root/mtg/decks/Commander/adrix/adrix.txt#L31) con su coste de **Estímulo (5 manás)** para crear **dos copias ficha** y controlar a tres Planeswalkers a la vez.
   * Lanza [The Bears of Littjara](file:///root/mtg/decks/Commander/adrix/adrix.txt#L50), [Stolen Identity](file:///root/mtg/decks/Commander/adrix/adrix.txt#L77) o [Reef Worm](file:///root/mtg/decks/Commander/adrix/adrix.txt#L23).
   * Activa [Idol of Oblivion](file:///root/mtg/decks/Commander/adrix/adrix.txt#L38) para robar sin coste.
@@ -205,10 +218,10 @@ flowchart LR
   * Dispara [Ominous Seas](file:///root/mtg/decks/Commander/adrix/adrix.txt#L48) al robar para poner dos Krakens 8/8 instantáneos.
 
 ### Turno 7 en adelante: El Golpe de Gracia
-* Despliega [Cyclone Summoner](file:///root/mtg/decks/Commander/adrix/adrix.txt#L12) o [Scourge of Fleets](file:///root/mtg/decks/Commander/adrix/adrix.txt#L25) para limpiar la mesa oponente dejando intactos a Adrix y tus monstruos marinos.
+* Despliega [Cyclone Summoner](file:///root/mtg/decks/Commander/adrix/adrix.txt#L11) o [Scourge of Fleets](file:///root/mtg/decks/Commander/adrix/adrix.txt#L25) para limpiar la mesa oponente dejando intactos a Adrix y tus monstruos marinos.
 * Conecta libremente gracias a [Serpent of Yawning Depths](file:///root/mtg/decks/Commander/adrix/adrix.txt#L26) disparando [Spawning Kraken](file:///root/mtg/decks/Commander/adrix/adrix.txt#L27) para crear múltiples Krakens 9/9 por impacto.
 * Remata con [Ruxa, Patient Professor](file:///root/mtg/decks/Commander/adrix/adrix.txt#L24) asignando daño sin bloquear, o con [Biomass Mutation](file:///root/mtg/decks/Commander/adrix/adrix.txt#L55) / [Storm the Citadel](file:///root/mtg/decks/Commander/adrix/adrix.txt#L78).
-* Si la partida se estanca, [Treeshaker Chimera](file:///root/mtg/decks/Commander/adrix/adrix.txt#L28) o [Desolation Twin](file:///root/mtg/decks/Commander/adrix/adrix.txt#L13) acabarán con las vidas de los contrincantes por fuerza bruta.
+* Si la partida se estanca, [Treeshaker Chimera](file:///root/mtg/decks/Commander/adrix/adrix.txt#L28) o [Desolation Twin](file:///root/mtg/decks/Commander/adrix/adrix.txt#L12) acabarán con las vidas de los contrincantes por fuerza bruta.
 
 ---
 
