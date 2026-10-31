@@ -51,7 +51,7 @@
 1 Bastion of Remembrance
 1 King Narfi's Betrayal
 1 Military Intelligence
-1 Ominous Seas
+1 Fall from Favor
 
 // INSTANTS (9)
 1 Aetherize

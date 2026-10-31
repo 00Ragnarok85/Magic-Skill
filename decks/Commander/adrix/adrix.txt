@@ -2,6 +2,7 @@
 1 Adrix and Nev, Twincasters
 
 // CREATURES (24)
+1 Arixmethes, Slumbering Isle
 1 Beanstalk Giant // Fertile Footsteps
 1 Biomathematician
 1 Caustic Caterpillar
@@ -10,21 +11,20 @@
 1 Curious Pair // Treats to Share
 1 Cyclone Summoner
 1 Desolation Twin
-1 Elderleaf Mentor
-1 Farfinder
 1 Flaxen Intruder // Welcome Home
 1 Humble Naturalist
 1 Kaseto, Orochi Archmage
 1 Kazandu Tuskcaller
 1 Malcolm, Keen-Eyed Navigator
-1 Meteor Golem
 1 Migratory Greathorn
 1 Old-Growth Troll
 1 Prosperous Pirates
 1 Reclamation Sage
+1 Reef Worm
 1 Ruxa, Patient Professor
-1 Sailor of Means
-1 Sarulf's Packmate
+1 Scourge of Fleets
+1 Serpent of Yawning Depths
+1 Spawning Kraken
 1 Treeshaker Chimera
 
 // ARTIFACTS (10)
@@ -42,8 +42,8 @@
 // ENCHANTMENTS (5)
 1 Mantle of the Wolf
 1 Omen of the Hunt
+1 Ominous Seas
 1 Reflections of Littjara
-1 Roost of Drakes
 1 The Bears of Littjara
 
 // INSTANTS (16)

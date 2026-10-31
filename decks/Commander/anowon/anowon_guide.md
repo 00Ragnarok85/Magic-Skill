@@ -67,7 +67,7 @@ flowchart TD
     B -->|Criatura en Cementerio| C["Robo Masivo de Cartas (Anowon)"]
     B -->|Cementerios Llenos| D["Hurto y Reanimación de Amenazas"]
     B -->|Pings continuos| E["Drenaje Letal (Syr Konrad)"]
-    C --> F["Contadores de Kraken (Ominous Seas)"]
+    C --> F["Robo del Monarca (Fall from Favor)"]
 ```
 
 ### Pilar 1: La Vanguardia Evasiva (30 Criaturas)
@@ -164,7 +164,7 @@ sequenceDiagram
     actor Mesa as 3 Oponentes
 
     Jugador->>Mesa: Turno 1-2: Despliega Slither Blade / Changeling Outcast / Faerie Vandal
-    Jugador->>Mesa: Turno 3: Juega Military Intelligence / Ominous Seas / Espadas
+    Jugador->>Mesa: Turno 3: Juega Military Intelligence / Fall from Favor / Espadas
     Jugador->>Mesa: Turno 4: Bajas a Anowon, the Ruin Thief
     Jugador->>Mesa: Turno 5+: Atacas con evasivos -> Mueles rivales -> Robas 2-3 cartas
     Jugador->>Mesa: Late Game: Syr Konrad drena vidas / Reanimas con Victimize / Notorious Throng
@@ -172,7 +172,7 @@ sequenceDiagram
 
 ### Turnos 1 a 3: Asedio Evasivo
 1. Baja siempre una criatura de turno 1 o 2 ([Slither Blade](file:///root/mtg/decks/Commander/anowon/anowon.txt#L27), [Invisible Stalker](file:///root/mtg/decks/Commander/anowon/anowon.txt#L16), [Changeling Outcast](file:///root/mtg/decks/Commander/anowon/anowon.txt#L7)).
-2. Coloca motores pasivos de robo como [Military Intelligence](file:///root/mtg/decks/Commander/anowon/anowon.txt#L53) o [Ominous Seas](file:///root/mtg/decks/Commander/anowon/anowon.txt#L54).
+2. Coloca motores pasivos de robo y control como [Military Intelligence](file:///root/mtg/decks/Commander/anowon/anowon.txt#L53) o [Fall from Favor](file:///root/mtg/decks/Commander/anowon/anowon.txt#L54).
 
 ### Turno 4: La Llegada del Comandante
 1. Entra **Anowon, the Ruin Thief**. Automáticamente todos tus atacantes se convierten en 2/2 o 3/3.
