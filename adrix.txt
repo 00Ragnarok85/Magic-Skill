@@ -4,7 +4,6 @@
 // CREATURES (24)
 1 Arixmethes, Slumbering Isle
 1 Beanstalk Giant // Fertile Footsteps
-1 Biomathematician
 1 Caustic Caterpillar
 1 Champion of Wits
 1 Crafty Cutpurse
@@ -12,13 +11,14 @@
 1 Desolation Twin
 1 Esix, Fractal Bloom
 1 Flaxen Intruder // Welcome Home
+1 Hornet Nest
 1 Humble Naturalist
 1 Kaseto, Orochi Archmage
 1 Kazandu Tuskcaller
 1 Malcolm, Keen-Eyed Navigator
+1 Master Biomancer
 1 Migratory Greathorn
 1 Old-Growth Troll
-1 Prosperous Pirates
 1 Reclamation Sage
 1 Reef Worm
 1 Ruxa, Patient Professor
@@ -30,16 +30,15 @@
 // PLANESWALKERS (1)
 1 Jace, Mirror Mage
 
-// ARTIFACTS (10)
+// ARTIFACTS (9)
 1 Commander's Sphere
 1 Fractal Harness
 1 Goldvein Pick
 1 Heraldic Banner
 1 Idol of Oblivion
-1 Mana Geode
 1 Moss Diamond
 1 Replicating Ring
-1 Sequence Engine
+1 Simic Signet
 1 Witching Well
 
 // ENCHANTMENTS (5)
@@ -58,15 +57,15 @@
 1 Eureka Moment
 1 Into the Roil
 1 Opt
+1 Perplexing Test
 1 Ram Through
 1 Rapid Hybridization
 1 Snakeskin Veil
 1 Thirst for Knowledge
-1 Thirst for Meaning
 1 Whirlwind Denial
 1 Wilt
 
-// SORCERIES (9)
+// SORCERIES (10)
 1 Boon of the Wish-Giver
 1 Curse of the Swine
 1 Deep Analysis
@@ -74,6 +73,7 @@
 1 Kodama's Reach
 1 Of One Mind
 1 Ravenform
+1 Rite of Replication
 1 Stolen Identity
 1 Storm the Citadel
 
