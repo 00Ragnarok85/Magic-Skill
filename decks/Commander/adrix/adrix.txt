@@ -27,6 +27,9 @@
 1 Spawning Kraken
 1 Treeshaker Chimera
 
+// PLANESWALKERS (1)
+1 Jace, Mirror Mage
+
 // ARTIFACTS (10)
 1 Commander's Sphere
 1 Fractal Harness
@@ -46,9 +49,8 @@
 1 Reflections of Littjara
 1 The Bears of Littjara
 
-// INSTANTS (16)
+// INSTANTS (15)
 1 Annul
-1 Anticipate
 1 Behold the Multiverse
 1 Biomass Mutation
 1 Commander's Insight
