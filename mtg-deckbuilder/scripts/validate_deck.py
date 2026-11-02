@@ -151,9 +151,11 @@ def validate(deck_path_or_str, format_name="commander", check_online=False, offl
         # Look up commander info
         for cmd_name in commander_cards:
             if scryfall_lookup:
-                card_data = scryfall_lookup.get_card(cmd_name, use_cache=True, retry_on_429=not offline) if not offline else scryfall_lookup.load_cache().get(cmd_name.lower(), {})
+                card_data = scryfall_lookup.get_card(cmd_name, offline=offline)
+                if not card_data or "error" in card_data:
+                    card_data = scryfall_lookup.load_cache().get(cmd_name.lower(), {})
                 if not card_data:
-                    warnings.append(f"Card metadata for '{cmd_name}' not in local cache.")
+                    warnings.append(f"Card metadata for '{cmd_name}' not in local database or cache.")
                 elif "error" in card_data:
                     warnings.append(f"Could not verify commander '{cmd_name}' metadata: {card_data['error']}")
                 else:
@@ -259,14 +261,13 @@ def validate(deck_path_or_str, format_name="commander", check_online=False, offl
                             )
                 continue
 
-            if offline:
+            card_info = scryfall_lookup.get_card(name, offline=offline)
+            if not card_info or "error" in card_info:
                 card_info = scryfall_lookup.load_cache().get(name_lower, {})
                 if not card_info:
                     continue
-            else:
-                card_info = scryfall_lookup.get_card(name, use_cache=True)
             if "error" in card_info:
-                warnings.append(f"Could not verify online info for '{name}': {card_info['error']}")
+                warnings.append(f"Could not verify info for '{name}': {card_info['error']}")
                 continue
 
             # Color identity check
@@ -358,7 +359,7 @@ def main():
     parser.add_argument("deck_file", help="Path to deck file")
     parser.add_argument("-f", "--format", default="commander", help="Format: commander, standard, modern, pioneer, legacy, vintage, pauper, brawl, limited")
     parser.add_argument("--check-legality", action="store_true", help="Query Scryfall to verify format card legalities and banlists")
-    parser.add_argument("--offline", action="store_true", help="Run 100% offline using local cache without making network requests")
+    parser.add_argument("--offline", action="store_true", help="Run offline using local cache without making network requests")
     parser.add_argument("--json", action="store_true", help="Output validation as JSON")
 
     args = parser.parse_args()

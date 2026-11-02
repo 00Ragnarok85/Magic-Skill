@@ -100,7 +100,27 @@ Review:
    - Calculates mana curve, average CMC, color pip percentages, and land recommendations.
 
 4. **`scryfall_lookup.py`**:
-   - Fetches card oracle text, color identity, types, and format legalities with local disk caching.
+   - Universal card metadata resolver. Connects directly to the local MTGJSON database for sub-millisecond offline lookup across 35,000+ cards, with automatic online Scryfall fallback. Supports English and official Spanish card names.
+
+5. **`search_cards.py`**:
+   - High-speed CLI search engine powered by MTGJSON:
+     - Exact card lookup (English or Spanish): `python3 scripts/search_cards.py "Krenko, Mob Boss"` or `python3 scripts/search_cards.py "Krenko, jefe de turba"`
+     - Filter by format and colors: `python3 scripts/search_cards.py --colors "G,U" --type "Kraken" --format commander`
+     - Rules text search: `python3 scripts/search_cards.py --text "tokens would be created" --colors "G,U"`
+     - Commander candidate search: `python3 scripts/search_cards.py --commander --colors "U,B"`
+
+6. **`mtg_db.py`**:
+   - Core Python API for querying `resources/cards.sqlite` (35,479 cards). Provides `get_card()`, `search_cards()`, and `translate_name()`.
+
+---
+
+## MTGJSON Global Card Database Integration
+
+The skill is equipped with the complete official Magic: The Gathering card catalog downloaded from [MTGJSON (v5)](https://mtgjson.com/):
+- **Database:** `resources/cards.sqlite` (35,479 unique cards, 68,000+ indexed aliases for adventure/split/mdfc cards and Spanish translations).
+- **Metadata Included:** Mana cost, CMC, type lines, Oracle text, color identity, power/toughness, loyalty, format legalities (Standard, Modern, Pioneer, Commander, Legacy, Vintage, Pauper, Brawl), official WotC rulings with dates, and printings.
+- **Bilingual Resolution:** Seamlessly translates between canonical English and official Spanish printed names.
+- **Offline Reliability:** Instant offline validation and deck analysis with zero network dependencies or rate limits.
 
 ---
 
