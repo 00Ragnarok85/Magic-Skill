@@ -1,0 +1,92 @@
+// COMMANDER (1)
+1 Adrix and Nev, Twincasters
+
+// CREATURES (23)
+1 Arixmethes, Slumbering Isle
+1 Biomathematician
+1 Caustic Caterpillar
+1 Champion of Wits
+1 Crafty Cutpurse
+1 Curiosity Crafter
+1 Cyclone Summoner
+1 Deekah, Fractal Theorist
+1 Esix, Fractal Bloom
+1 Hornet Nest
+1 Kaseto, Orochi Archmage
+1 Managorger Hydra
+1 Master Biomancer
+1 Migratory Greathorn
+1 Old-Growth Troll
+1 Reclamation Sage
+1 Reef Worm
+1 Ruxa, Patient Professor
+1 Scourge of Fleets
+1 Serpent of Yawning Depths
+1 Spawning Kraken
+1 Toski, Bearer of Secrets
+1 Undulating Witness
+
+// ARTIFACTS (6)
+1 Esika's Chariot
+1 Geometric Nexus
+1 Idol of Oblivion
+1 Mana Geode
+1 Replicating Ring
+1 Simic Signet
+
+// ENCHANTMENTS (5)
+1 Ominous Seas
+1 Paradox Zone
+1 Primal Empathy
+1 Reflections of Littjara
+1 The Weatherseed Treaty
+
+// INSTANTS (13)
+1 Behold the Multiverse
+1 Biomass Mutation
+1 Commander's Insight
+1 Eureka Moment
+1 Into the Roil
+1 Mystic Reflection
+1 Perplexing Test
+1 Rapid Hybridization
+1 Snakeskin Veil
+1 Startling Development
+1 Theoretical Duplication
+1 Thirst for Knowledge
+1 Whirlwind Denial
+
+// SORCERIES (16)
+1 Alrund's Epiphany
+1 Beanstalk Giant // Fertile Footsteps
+1 Beyeen Veil // Beyeen Coast
+1 Curse of the Swine
+1 Inscription of Insight
+1 Kodama's Reach
+1 Neoform
+1 Oversimplify
+1 Ravenform
+1 Replication Technique
+1 Rite of Replication
+1 Scale the Heights
+1 Silundi Vision // Silundi Isle
+1 Spitting Image
+1 Stolen Identity
+1 Tam's Resistance
+
+// LANDS (36)
+1 Barkchannel Pathway // Tidechannel Pathway
+1 Evolving Wilds
+1 Littjara Mirrorlake
+1 Lumbering Falls
+1 Novijen, Heart of Progress
+1 Quandrix Campus
+1 Rimewood Falls
+1 Simic Growth Chamber
+1 Temple of Mystery
+1 Temple of the False God
+1 Thornwood Falls
+1 Tyrite Sanctum
+1 Yavimaya Coast
+11 Forest
+12 Island
