@@ -15,7 +15,7 @@ Este documento compara tu mazo montado actual ([`decks/Commander/liesa/liesa.txt
 
 ---
 
-## 2. Cartas que SALEN de tu mazo actual (24 cartas)
+## 2. Cartas que SALEN de tu mazo actual (26 cartas)
 
 *Eran cartas pesadas, de baja sinergia o relleno de draft:*
 
@@ -45,10 +45,12 @@ Este documento compara tu mazo montado actual ([`decks/Commander/liesa/liesa.txt
 | `Generous Revival` | Resurgimiento generoso | Conjuro lento de recuperación. |
 | `Feast of Succession` | Banquete de la sucesión | 6 manás para dar -4/-4 es excesivamente costoso. |
 | `Open the Armory` | Abrir la armería | No hay equipos o auras indispensables que justifiquen gastar 2 manás en buscar. |
+| `Kabira Takedown // Kabira Plateau` | Derribo de Kabira // Meseta de Kabira | Daño condicional al número de criaturas; sustituida por *Impossible Choice* (actualización Star Trek). |
+| `Snow-Covered Plains` (1 de 6) | Llanura nevada | Se cambia por 1 `Plains` normal (el mazo optimizado lleva 7 Plains y 5 Snow-Covered Plains). |
 
 ---
 
-## 3. Cartas que ENTRAN desde tu Colección Física (23 cartas)
+## 3. Cartas que ENTRAN desde tu Colección Física (26 cartas)
 
 *Cartas que ya tienes en tus carpetas/cajas sin usar en otros mazos:*
 
@@ -64,16 +66,35 @@ Este documento compara tu mazo montado actual ([`decks/Commander/liesa/liesa.txt
 | [`Usher of the Fallen`](file:///root/mtg/decks/Commander/liesa_optimized/liesa_optimized.txt#L33) | Escolta de los caídos | Criatura | 2/1 agresivo por 1 maná; crea fichas 1/1 con Alardear. |
 | [`Shaile // Embrose`](file:///root/mtg/decks/Commander/liesa_optimized/liesa_optimized.txt#L25) | Shaile // Embrose, decano | Criatura | Embrose pone contadores y roba cartas al morir criaturas. |
 | [`Skemfar Shadowsage`](file:///root/mtg/decks/Commander/liesa_optimized/liesa_optimized.txt#L27) | Sabia de las sombras de Skemfar | Criatura | Drenaje masivo según tus Clérigos o inyección de vidas. |
-| [`Smitten Swordmaster // Curry Favor`](file:///root/mtg/decks/Commander/liesa_optimized/liesa_optimized.txt#L28) | Maestro espadachín // Ganarse el favor | Criatura | Aventura que drena a cada oponente a coste 1. |
+| [`Fugitive Listener`](file:///root/mtg/decks/Commander/liesa_optimized/liesa_optimized.txt#L28) | — (Star Trek) | Criatura | Cada oponente descarta al entrar; con Tergrid, robas el permanente descartado. |
 | [`Duskfang Mentor`](file:///root/mtg/decks/Commander/liesa_optimized/liesa_optimized.txt#L11) | Mentora de colmillos vespertinos | Criatura | Otorga contador de vínculo vital permanente a cualquier criatura. |
 | [`Dispeller's Capsule`](file:///root/mtg/decks/Commander/liesa_optimized/liesa_optimized.txt#L39) | Cápsula del disipador | Artefacto | Destruye artefacto o encantamiento a velocidad instantánea por 1 maná. |
 | [`Spark Harvest`](file:///root/mtg/decks/Commander/liesa_optimized/liesa_optimized.txt#L74) | Absorber la chispa | Conjuro | 1 maná para destruir cualquier criatura o caminante de planos. |
 | [`Fight as One`](file:///root/mtg/decks/Commander/liesa_optimized/liesa_optimized.txt#L52) | Luchar como uno | Instantáneo | 1 maná para dar indestructible a Liesa o Drannith Magistrate. |
 | [`Professor's Warning`](file:///root/mtg/decks/Commander/liesa_optimized/liesa_optimized.txt#L58) | Advertencia de la profesora | Instantáneo | 1 maná para dar indestructible o contador +1/+1 a velocidad instantánea. |
-| [`Swallow Whole`](file:///root/mtg/decks/Commander/liesa_optimized/liesa_optimized.txt#L75) | De un bocado | Conjuro | Exilio incondicional por 1 maná aprovechando criaturas pequeñas. |
+| [`Resistance Is Futile`](file:///root/mtg/decks/Commander/liesa_optimized/liesa_optimized.txt#L75) | — (Star Trek) | Conjuro | 2 manás: destruye una criatura no artefacto, o reanima un artefacto criatura de VM 3 o menos. |
 | [`Ghastly Demise`](file:///root/mtg/decks/Commander/liesa_optimized/liesa_optimized.txt#L54) | Fallecimiento espantoso | Instantáneo | Remoción instantánea por solo 1 maná negro. |
 | [`Blood Beckoning`](file:///root/mtg/decks/Commander/liesa_optimized/liesa_optimized.txt#L64) | Llamada sangrienta | Conjuro | Recupera hasta 2 criaturas del cementerio a tu mano. |
 | [`Return Upon the Tide`](file:///root/mtg/decks/Commander/liesa_optimized/liesa_optimized.txt#L72) | Regreso sobre las olas | Conjuro | Reanima directo al campo a Gary, Tergrid o Liesa. |
 | [`Spare Supplies`](file:///root/mtg/decks/Commander/liesa_optimized/liesa_optimized.txt#L42) | Suministros de repuesto | Artefacto | Roba 1 carta al entrar y otra al sacrificarse. |
 | [`Idyllic Grange`](file:///root/mtg/decks/Commander/liesa_optimized/liesa_optimized.txt#L80) | Granja idílica | Tierra | Cuenta como Llanura y aporta contador +1/+1. |
 | [`Shimmerdrift Vale`](file:///root/mtg/decks/Commander/liesa_optimized/liesa_optimized.txt#L85) | Valle del brillo errante | Tierra | Tierra nevada que corrige el maná. |
+| [`Impossible Choice`](file:///root/mtg/decks/Commander/liesa_optimized/liesa_optimized.txt#L55) | — (Star Trek) | Instantáneo | 3 manás: destruye una criatura (su dueño crea dos 1/1) o robas 2 cartas y cada jugador pierde 2 vidas. |
+| [`The Unicomplex`](file:///root/mtg/decks/Commander/liesa_optimized/liesa_optimized.txt#L89) | — (Star Trek) | Tierra | Da {B}; si entra enderezada, vigila 1 o pone una criatura de tu cementerio encima de tu biblioteca. |
+| `Plains` (1 extra) | Llanura | Tierra | Sustituye a 1 Snow-Covered Plains del mazo montado. |
+
+---
+
+## 4. Actualización Star Trek (`TRK`, 2026-11-08)
+
+Cambios aplicados sobre la versión optimizada anterior con cartas de la nueva colección Star Trek:
+
+| Entra | Sale | Motivo |
+| :--- | :--- | :--- |
+| [`The Unicomplex`](file:///root/mtg/decks/Commander/liesa_optimized/liesa_optimized.txt#L89) | 1 `Swamp` | Tierra negra con valor extra; no cuesta vida con Liesa al no ser un hechizo. |
+| [`Resistance Is Futile`](file:///root/mtg/decks/Commander/liesa_optimized/liesa_optimized.txt#L75) | `Swallow Whole` | Removal incondicional de 2 manás frente a uno que exige criatura propia y objetivo girado. |
+| [`Impossible Choice`](file:///root/mtg/decks/Commander/liesa_optimized/liesa_optimized.txt#L55) | `Kabira Takedown // Kabira Plateau` | Instantáneo flexible: destrucción o robo de 2. |
+| [`Fugitive Listener`](file:///root/mtg/decks/Commander/liesa_optimized/liesa_optimized.txt#L28) | `Smitten Swordmaster // Curry Favor` | Descarte que alimenta a Tergrid; Swordmaster no tenía sinergia (su aventura necesita Caballeros). |
+
+> [!WARNING]
+> Liesa hace perder 2 vidas a **cualquier jugador** que lance un hechizo, incluido tú. Además, `Weathered Runestone` impide que entren permanentes desde cementerios, lo que también bloquea a tu Tergrid, Blood on the Snow, Return Upon the Tide, Shepherd of the Cosmos y Nullpriest con kicker. No la juegues junto a Tergrid.

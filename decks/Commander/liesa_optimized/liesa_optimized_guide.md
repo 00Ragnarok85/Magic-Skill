@@ -43,7 +43,7 @@ flowchart TD
 * Con cartas como [`Fleshbag Marauder`](file:///root/mtg/decks/Commander/liesa_optimized/liesa_optimized.txt#L16), [`Demon's Disciple`](file:///root/mtg/decks/Commander/liesa_optimized/liesa_optimized.txt#L8), [`Tergrid's Shadow`](file:///root/mtg/decks/Commander/liesa_optimized/liesa_optimized.txt#L59), [`Elderfang Disciple`](file:///root/mtg/decks/Commander/liesa_optimized/liesa_optimized.txt#L13) y [`Go Blank`](file:///root/mtg/decks/Commander/liesa_optimized/liesa_optimized.txt#L69), robas 3 criaturas o permanentes en un solo movimiento.
 
 ### B. El Castigo Activo
-* [`Liesa, Shroud of Dusk`](file:///root/mtg/decks/Commander/liesa_optimized/liesa_optimized.txt#L2) impone 2 vidas por cada hechizo lanzado.
+* [`Liesa, Shroud of Dusk`](file:///root/mtg/decks/Commander/liesa_optimized/liesa_optimized.txt#L2) impone 2 vidas por cada hechizo lanzado **a cualquier jugador, incluido tú**: prioriza tierras, habilidades activadas y pocos hechizos de alto impacto.
 * [`Mage Hunter`](file:///root/mtg/decks/Commander/liesa_optimized/liesa_optimized.txt#L20) suma 1 punto de daño directo extra por hechizo lanzado o copiado. ¡Cada interacción enemiga les cuesta 3 vidas!
 * [`Marauding Blight-Priest`](file:///root/mtg/decks/Commander/liesa_optimized/liesa_optimized.txt#L21) y [`Nadier's Nightblade`](file:///root/mtg/decks/Commander/liesa_optimized/liesa_optimized.txt#L22) aceleran la pérdida de vidas cada vez que ganas vidas o sacrificas fichas.
 
@@ -61,3 +61,11 @@ flowchart TD
 * **Turnos 3–4**: Coloca tus piezas de valor: [`Keeper of the Accord`](file:///root/mtg/decks/Commander/liesa_optimized/liesa_optimized.txt#L18) o [`Thorn of the Black Rose`](file:///root/mtg/decks/Commander/liesa_optimized/liesa_optimized.txt#L31) para asegurar ventaja de cartas y rampa antes de que Liesa entre en juego.
 * **Turno 5**: Despliega a [`Liesa, Shroud of Dusk`](file:///root/mtg/decks/Commander/liesa_optimized/liesa_optimized.txt#L2). Mantén 1 maná abierto si tienes [`Fight as One`](file:///root/mtg/decks/Commander/liesa_optimized/liesa_optimized.txt#L52) o [`Professor's Warning`](file:///root/mtg/decks/Commander/liesa_optimized/liesa_optimized.txt#L58).
 * **Turnos 6+**: Ataca con Liesa para ganar 5 vidas por turno mientras el reloj de desgaste aprieta a los rivales. Remata con [`Gray Merchant of Asphodel`](file:///root/mtg/decks/Commander/liesa_optimized/liesa_optimized.txt#L17) o [`Skemfar Shadowsage`](file:///root/mtg/decks/Commander/liesa_optimized/liesa_optimized.txt#L27).
+
+---
+
+## 4. Notas de Juego Importantes (actualización 2026-11-08)
+
+* **Anti-sinergia de [`Weathered Runestone`](file:///root/mtg/decks/Commander/liesa_optimized/liesa_optimized.txt#L43)**: impide que entren permanentes desde cualquier cementerio, así que anula a tu propia [`Tergrid`](file:///root/mtg/decks/Commander/liesa_optimized/liesa_optimized.txt#L29), a Blood on the Snow (la parte de reanimar), Return Upon the Tide, Shepherd of the Cosmos y Nullpriest con kicker. Úsala contra mazos de cementerio o combo (Krenko, Anowon) y no la juegues junto a Tergrid.
+* **Blessed Sanctuary** previene daño, no pérdida de vida: no te protege de drenajes como los de Kardur ni del propio impuesto de Liesa.
+* **Cartas de Star Trek añadidas**: [`Fugitive Listener`](file:///root/mtg/decks/Commander/liesa_optimized/liesa_optimized.txt#L28) (descarte para Tergrid), [`Impossible Choice`](file:///root/mtg/decks/Commander/liesa_optimized/liesa_optimized.txt#L55), [`Resistance Is Futile`](file:///root/mtg/decks/Commander/liesa_optimized/liesa_optimized.txt#L75) y [`The Unicomplex`](file:///root/mtg/decks/Commander/liesa_optimized/liesa_optimized.txt#L89).

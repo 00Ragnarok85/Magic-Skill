@@ -25,7 +25,7 @@
 1 Shaile, Dean of Radiance // Embrose, Dean of Shadow
 1 Shepherd of the Cosmos
 1 Skemfar Shadowsage
-1 Smitten Swordmaster // Curry Favor
+1 Fugitive Listener
 1 Tergrid, God of Fright // Tergrid's Lantern
 1 Thalia, the Survivor
 1 Thorn of the Black Rose
@@ -52,7 +52,7 @@
 1 Fight as One
 1 Fracture
 1 Ghastly Demise
-1 Kabira Takedown // Kabira Plateau
+1 Impossible Choice
 1 Path to Exile
 1 Plumb the Forbidden
 1 Professor's Warning
@@ -72,7 +72,7 @@
 1 Return Upon the Tide
 1 Slaughter the Strong
 1 Spark Harvest
-1 Swallow Whole
+1 Resistance Is Futile
 
 // LANDS (36)
 1 Command Tower
@@ -86,8 +86,9 @@
 1 Snowfield Sinkhole
 1 Temple of Silence
 1 Terramorphic Expanse
+1 The Unicomplex
 1 Thriving Heath
 7 Plains
 5 Snow-Covered Plains
 6 Snow-Covered Swamp
-6 Swamp
+5 Swamp
