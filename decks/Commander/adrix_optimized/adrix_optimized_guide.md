@@ -4,6 +4,7 @@
 **Formato**: Commander / EDH (Legal según Magic Comprehensive Rules CR 903)  
 **Identidad de Color**: Simic (`{G}{U}`)  
 **Enfoque**: Duplicación Masiva de Fichas, Monstruos Marinos y Clones Exponenciales  
+**Nivel de Liga**: **Bracket 3 Oficial WotC / Nivel 7.0 High-Power Casual**  
 **Origen de Cartas**: **100% de tu colección física ([`ManaBox_Collection.csv`](file:///root/mtg/ManaBox_Collection.csv))**, con **0 cartas en conflicto** con tus otros mazos activos ([Anowon](file:///root/mtg/decks/Commander/anowon/anowon.txt), [Kardur](file:///root/mtg/decks/Commander/kardur/kardur.txt), [Svella](file:///root/mtg/decks/Commander/svella/svella.txt), [Krenko](file:///root/mtg/decks/Commander/krenko/krenko.txt) y [Liesa](file:///root/mtg/decks/Commander/liesa/liesa.txt)).
 
 ---
