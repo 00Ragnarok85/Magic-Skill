@@ -1,0 +1,93 @@
+// MAINDECK (40)
+
+// CREATURES (15)
+1 Automated Warfare System
+1 Assault Drone
+1 Battle-Scarred Survivalist
+1 Cha'DIch Investigator
+1 Cloistered Telepath
+1 Fugitive Listener
+1 Hoshi Sato, Exolinguist
+1 Humpback Whales
+1 Interstellar Effigy
+1 Lore, Positronic Provocateur
+1 Melkotian Adjudicator
+1 Obsidian Order Operative
+1 Rogue Artificial Intelligence
+1 Suus Mahna Practitioner
+1 Tal Shiar Operative
+
+// INSTANTS (4)
+1 Consider the Prime Directive
+1 He's Dead, Jim
+1 Impossible Choice
+
+// SORCERIES (4)
+1 Energize
+2 Resistance Is Futile
+1 Test of Loyalty
+
+// ENCHANTMENTS (1)
+1 De-evolve
+
+// LANDS (17)
+7 Island
+8 Swamp
+1 The Unicomplex
+1 Watery Grave
+
+// SIDEBOARD (50)
+1 A Good Day to Die
+1 Academy Instructor
+1 Andromedan Automatons
+1 Anthropological Mission
+1 Brad Boimler, Eager Ensign
+1 Branching Timeline
+1 Cantankerous Captain
+1 Common Goal
+1 Culber and Stamets, Star-Crossed
+1 Dahar Master
+1 Dal R'El, Augment Orphan
+1 Dathon and Picard at El-Adrel
+1 Deep Space 9
+1 Dominion Assault Force
+1 Dominion Infiltration
+1 Dominion Supervisor
+1 Emergency Medical Hologram
+1 Ferenginar
+1 First Contact
+1 Free Borg Revolutionaries
+1 Gaseous Anomaly
+1 Gray and Adira, Forever Joined
+1 Guidance Failure
+1 Horta
+1 I'm a Doctor, Not a . . .
+1 Kirk, Commanding Officer
+1 Lwaxana Troi, Charming Guest
+1 Miles O'Brien, Transporter Ops
+1 Open Communications
+1 Pah-Wraith
+1 Pattern Buffer Preservation
+1 Peace in Our Time
+1 Perils of the Past
+1 Photosynthetic Physician
+1 Plasma Cascade
+1 Pure Energy
+1 Quark's Bar
+1 Red Alert!
+1 Rules of Acquisition
+1 Set Phasers to . . .
+1 Shields Up!
+1 Silicate Surveyor
+1 Species 8472
+1 Starfleet Spanner Jockey
+1 Subspace Anomaly
+1 Sylvia Tilly, Joy of Discovery
+1 Tactical Officer
+1 Tal Shiar Analyst
+2 Temporal Conqueror
+1 The Measure of a Man
+1 U.S.S. Cerritos, Following Up
+1 Vexing Drone
+1 Warp Core
+1 Xindi Surveyors
