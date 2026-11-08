@@ -16,14 +16,21 @@ El mazo original de Adrix sufría por incluir cartas pesadas de relleno de coste
 1. **El Motor Esika's Chariot + Adrix**:
    * [`Esika's Chariot`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L30) entra al campo y crea **4 gatos 2/2** con Adrix.
    * Pero su mayor virtud es que **en cada ataque clona cualquier ficha de criatura que tengas**. Si eliges una ficha de Kraken 9/9, Adrix duplica el disparo y entran **DOS Krakens 9/9 en cada ataque**.
-2. **Ventaja de Cartas que no depende de Maná**:
+2. **Defensa Aérea Impenetrable con Hornet Queen**:
+   * [`Hornet Queen`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L15) entra y Adrix duplica sus fichas creando **OCHO avispas 1/1 voladoras con toque mortal**. Resuelve de golpe la histórica debilidad de Simic contra comandantes voladores (como Liesa 5/5).
+3. **El Seguro de Vida contra Iras: Return of the Wildspeaker**:
+   * [`Return of the Wildspeaker`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L54) permite robar cartas igual a la mayor fuerza a velocidad de instantáneo (robas 9 cartas con un Kraken en mesa en respuesta a una limpieza rival) o dar +3/+3 a tus fichas para cerrar la partida.
+4. **Respuesta Universal y Rampa Rápida**:
+   * [`Beast Within`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L44) destruye cualquier permanente problemático a velocidad de instantáneo.
+   * [`Three Visits`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L75) busca Bosque o [`Rimewood Falls`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L84) desgirada por 2 manás, permitiendo bajar a Adrix en turno 3 bajo Protección {2}.
+5. **Ventaja de Cartas que no depende de Maná**:
    * [`Toski, Bearer of Secrets`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L26) no puede ser contrarrestado y es indestructible. Roba una carta cada vez que una criatura tuya conecta al rival.
    * [`Curiosity Crafter`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L10) elimina el límite de mano y roba cartas con cada impacto de tus fichas.
-3. **El Combo Oculto con Mystic Reflection**:
+6. **El Combo Oculto con Mystic Reflection**:
    * [`Mystic Reflection`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L50) se puede profetizar por solo `{U}`. En el turno en que vayas a generar fichas (ej. los 2 Krakens de `Spawning Kraken` o los 2 gatos de `Esika's Chariot`), lo lanzas haciendo objetivo a [`Master Biomancer`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L17) o a [`Spawning Kraken`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L25). Ambas fichas entrarán como **copias exactas**, disparando un crecimiento exponencial incontrolable.
-4. **La Mejor Ira de Mesa Simic**:
+7. **La Mejor Ira de Mesa Simic**:
    * [`Oversimplify`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L67) exilia toda criatura enemiga (ignorando indestructible) y te regala un Fractal gigante.
-5. **Base de Maná Duplicada**:
+8. **Base de Maná Duplicada**:
    * 9 tierras duales y utilitarias reales sustituyen a las viejas tierras incoloras, garantizando el maná verde y azul desde los primeros turnos.
 
 ---

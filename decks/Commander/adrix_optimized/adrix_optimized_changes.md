@@ -81,14 +81,14 @@ Este documento detalla la comparativa entre tu mazo montado actual ([`decks/Comm
 | [`The Weatherseed Treaty`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L42) | El tratado de Semillaclima | Encantamiento | Busca 2 tierras y en el capítulo III da Arrollar y +X/+X a tus criaturas. |
 | [`Neoform`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L66) | Neoforma | Conjuro | Sacrifica una ficha para tutorear a Master Biomancer o Esix directo a la mesa. |
 | [`Primal Empathy`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L40) | Empatía primigenia | Encantamiento | Roba carta o infla criaturas al inicio de tu turno. |
-| [`Startling Development`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L54) | Desarrollo extraordinario | Instantáneo | Convierte en Serpiente 4/4 para disparar a Spawning Kraken o activar inbloqueable. |
+| [`Beast Within`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L44) | Bestia interior | Instantáneo | (De Svella) Destrucción incondicional instantánea de cualquier permanente. |
 | [`Biomathematician`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L6) | Biomatemático | Criatura | Pone 2 Fractales con Adrix y dopa a todos los Fractales. |
-| [`Undulating Witness`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L27) | Testigo ondulada | Criatura | Serpiente para la sinergia marina. |
+| [`Hornet Queen`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L15) | Reina avispa | Criatura | (De Svella) Pone 8 avispas 1/1 voladoras con toque mortal con Adrix (cerrojo aéreo total). |
 | [`Geometric Nexus`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L31) | Nexo geométrico | Artefacto | Acumula maná de hechizos y genera fichas de constructos gigantes. |
 | [`Mana Geode`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L33) | Geoda de maná | Artefacto | Acelera maná de cualquier color y hace Adivinar al entrar. |
-| [`Scale the Heights`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L71) | Escalar las alturas | Conjuro | Rampa tierra extra, gana 2 vidas, roba carta y da contador +1/+1. |
+| [`Three Visits`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L75) | Tres visitas | Conjuro | (De Svella) Rampa desgirada de 2 manás; permite bajar a Adrix en turno 3. |
 | [`Inscription of Insight`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L64) | Inscripción de conocimiento | Conjuro | Rebota criaturas, roba 2 cartas o crea fichas de ilusión. |
-| [`Tam's Resistance`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L75) | Resistencia de Tam | Conjuro | Lucha y protección para tus criaturas grandes. |
+| [`Return of the Wildspeaker`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L54) | Retorno de la portavoz salvaje | Instantáneo | (De Svella) Roba 9 cartas a velocidad de instantáneo ante una ira o da +3/+3 letal. |
 | [`Barkchannel Pathway`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L78) | Senda de Canalcorteza | Tierra | Tierra dual desgirada verde/azul. |
 | [`Lumbering Falls`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L81) | Cascada estruendosa | Tierra | Se convierte en 3/3 con Antimaleficio. |
 | [`Novijen, Heart of Progress`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L82) | Novijen, corazón del progreso | Tierra | Pone contadores +1/+1 a todas las criaturas que entren este turno. |
@@ -102,19 +102,18 @@ Este documento detalla la comparativa entre tu mazo montado actual ([`decks/Comm
 
 ---
 
-## 4. ¿Hay cartas en otros mazos que mejorarían aún más a Adrix?
+## 4. Traspaso Estratégico desde Svella aplicado
 
-**SÍ.** Si en algún momento decides compartir cartas entre barajas o cambiarlas, estas son las cartas clave que están actualmente en otros mazos y que le vendrían como anillo al dedo a Adrix:
+Se han transferido **4 cartas clave desde Svella** para dotar a Adrix de la resiliencia y velocidad de un mazo de alta competición:
+1. **[`Three Visits`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L75)**: Rampa desgirada de coste 2 que acelera a Adrix a turno 3 bajo Protección {2}.
+2. **[`Beast Within`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L44)**: La mejor remoción verde incondicional a velocidad de instantáneo.
+3. **[`Return of the Wildspeaker`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L54)**: Robo de 9 cartas a velocidad de instantáneo ante limpiezas de mesa o remate con +3/+3.
+4. **[`Hornet Queen`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L15)**: Bloqueo aéreo impenetrable generando **8 avispas voladoras con toque mortal** con Adrix.
 
-1. **[`Return of the Wildspeaker`](file:///root/mtg/decks/Commander/svella/svella.txt)** *(en el mazo de Svella)*:  
-   A velocidad de instantáneo te permite **robar cartas igual a la mayor fuerza entre tus criaturas**. Con [`Spawning Kraken`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L25) en mesa, ¡robas 9 cartas por 5 manás de golpe!
-2. **[`Beast Within`](file:///root/mtg/decks/Commander/svella/svella.txt)** *(en el mazo de Svella)*:  
-   La mejor remoción verde: destruye cualquier permanente enemigo a cambio de una triste bestia 3/3 que tus Krakens arrollan sin inmutarse.
-3. **[`Three Visits`](file:///root/mtg/decks/Commander/svella/svella.txt)** *(en el mazo de Svella)*:  
-   Rampa de 2 manás desgirada que busca [`Rimewood Falls`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L84) directo al campo.
-4. **[`Saw It Coming`](file:///root/mtg/decks/Commander/anowon/anowon.txt)** / **[`Negate`](file:///root/mtg/decks/Commander/anowon/anowon.txt)** *(en el mazo de Anowon)*:  
+### Cartas adicionales en otros mazos a considerar a futuro:
+1. **[`Saw It Coming`](file:///root/mtg/decks/Commander/anowon/anowon.txt)** / **[`Negate`](file:///root/mtg/decks/Commander/anowon/anowon.txt)** *(en el mazo de Anowon)*:  
    Contrahechizos sólidos para frenar las iras de mesa contra tus Krakens.
-5. **[`Aetherize`](file:///root/mtg/decks/Commander/anowon/anowon.txt)** *(en el mazo de Anowon)*:  
+2. **[`Aetherize`](file:///root/mtg/decks/Commander/anowon/anowon.txt)** *(en el mazo de Anowon)*:  
    Devuelve todas las criaturas atacantes enemigas a sus manos a velocidad de instantáneo.
-6. **[`Sol Ring`](file:///root/mtg/decks/Commander/anowon/anowon.txt)** *(en Anowon, Krenko y Liesa)*:  
+3. **[`Sol Ring`](file:///root/mtg/decks/Commander/anowon/anowon.txt)** *(en Anowon, Krenko y Liesa)*:  
    Hay 2 copias físicas en la colección. Si quieres meterle una a Adrix, simplemente cambias [`Mana Geode`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L33) por Sol Ring.
