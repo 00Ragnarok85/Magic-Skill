@@ -5,14 +5,14 @@
 1 Scourge of Fleets
 1 Champion of Wits
 1 Coiling Oracle
-1 Crafty Cutpurse
+1 Reclamation Sage
 1 Curiosity Crafter
 1 Ruxa, Patient Professor
 1 Esix, Fractal Bloom
 1 Farhaven Elf
 1 Fertilid
 1 Guardian Augmenter
-1 Hornet Nest
+1 Battle Mammoth
 1 Hornet Queen
 1 Hydra Broodmaster
 1 Incubation Druid
