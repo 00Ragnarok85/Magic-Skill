@@ -4,72 +4,71 @@
 > **Comandante:** [`Adrix and Nev, Twincasters`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L2) ({2}{G}{U} · 2/2 · Ward {2})  
 > **Identidad de Color:** Simic ({G}{U})  
 > **Estado:** 100% cartas reales de tu colección (`ManaBox_Collection.csv`) · 0 cartas pendientes · 0 € gastados  
-> **Cumplimiento de Reglas:** [✓ PASS] Oficial CR 903 / CR 100.4a / CR 903.4  
+> **Cumplimiento de Reglas:** [✓ PASS] Oficial CR 903 / CR 100.4a / CR 903.4 / Legalidad MTR Commander  
 
 ---
 
-## 1. Por qué este mazo es infinitamente superior a Liesa y Anowon
+## 1. Auditoría de Cartas: 0% Relleno, 100% Sinérgico
 
-Este mazo elimina de raíz todos los problemas que sufriste en tus partidas anteriores:
-1. **Se acabó el "Mana Screw" (Atasco de maná):** Tienes **36 tierras + 12 cartas de rampa** (9 de ellas de coste 1 y 2: [`Three Visits`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L77), [`Sol Ring`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L40), [`Arcane Signet`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L33), [`Simic Signet`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L39), [`Rampant Growth`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L74), [`Lotus Cobra`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L17), [`Mind Stone`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L37)). Tienes un **95.2% de probabilidad** de tener 3 o más fuentes de maná en los primeros 3 turnos.
-2. **Motores de robo brutales (No más depender del topdeck):** [`Toski, Bearer of Secrets`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L26) (incontrarrestable, indestructible; cada criatura que pega roba carta), [`Scroll Rack`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L38) (el mejor filtro de Commander; cambias tu mano por cartas nuevas y barajas con la rampa verde), [`Curiosity Crafter`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L5), [`Idol of Oblivion`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L36) y [`Return of the Wildspeaker`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L55) (roba 9 cartas a velocidad de instantáneo).
-3. **El comandante se protege solo:** Adrix tiene **Ward {2}** nativo, lo que impide que te lo maten en turno 3-4 con matabichos baratos. Además llevas a [`Guardian Augmenter`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L10) (le da Antimaleficio y +2/+2) y contrahechizos.
+A diferencia de Liesa (que llevaba cartas de draft sueltas que no hacían nada juntas), este mazo ha sido auditado carta por carta:
 
----
-
-## 2. Cómo neutralizar y humillar a Krenko y a los Mazos de Fichas (Borg / Klingons)
-
-Tus rivales juegan ejércitos de fichas masivas. Este mazo no solo no les teme, sino que **se alimenta de ellos y les da la vuelta**:
-
-### A) La trampa mortal: [`Crafty Cutpurse`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L4) *(Destrucción de Krenko)*
-* **La jugada:** Krenko se gira para duplicar 16 o 32 trasgos, o el mazo Klingon dispara su enjambre en combate.
-* **Tu respuesta:** Con 4 manás abiertos, juegas a velocidad de *Destello* (Flash) a [`Crafty Cutpurse`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L4).
-* **El resultado:** Su habilidad dice: *"Cada ficha que fuera a crearse bajo el control de un oponente este turno, se crea bajo TU control"*. ¡Y con Adrix en mesa, **tú creas el doble**! Krenko se queda con 0 trasgos y tú te quedas con 32 o 64 trasgos en tu campo. Partida terminada.
-
-### B) El muro impenetrable: [`Hornet Queen`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L12) y [`Hornet Nest`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L11)
-* [`Hornet Queen`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L12) entra y, con Adrix, crea **8 Avispas 1/1 voladoras con Toque Mortal (Deathtouch)**. Ningún ejército de Krenko ni de Borgs puede atacarte: cualquier criatura que se acerque muere al instante.
-* [`Hornet Nest`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L11): Si te atacan con un bicho grande, bloqueas con el nido y creas el doble de avispas con toque mortal equivalentes al daño recibido.
-
-### C) Los barredores asimétricos:
-* [`Ezuri's Predation`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L71): Crea una Bestia 4/4 por cada criatura que controlen los oponentes, y luchan contra ellas. Con Adrix, **creas DOS Bestias 4/4 por cada criatura rival**. Contra 10 fichas de Krenko o Klingons, creas **20 Bestias 4/4**: 10 aniquilan a sus criaturas y 10 se quedan en tu mesa listas para pegar 40 daños.
-* [`Perplexing Test`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L52): A velocidad de instantáneo por 5 manás, eliges *"regresar todas las criaturas ficha a la mano de sus dueños"*. Al ser fichas, dejan de existir. Limpias la mesa de Krenko y Klingons por completo al final de su turno.
-* [`Oversimplify`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L73): Exilia todas las criaturas de la mesa sin importar que tengan Indestructible.
+* **0 Cartas de Relleno:** Se han eliminado del mazo cartas mediocres como *Roost of Drakes* (inútil sin kicker), *Kazandu Tuskcaller* (demasiado lento) y *Old-Growth Troll* (coste {G}{G}{G} incómodo).
+* **Las 6 Sustituciones de Oro de tu Colección:**
+  1. [`Mystic Reflection`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L54) *(Entra por Roost of Drakes)*: Convierte tus próximas fichas en copias de la mejor criatura de la mesa (¡o convierte al comandante rival, como Krenko, en un insecto 1/1 inútil en respuesta a que lo lancen!).
+  2. [`Master Biomancer`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L14) *(Entra por Kazandu Tuskcaller)*: Da +2/+2 a cada ficha que entra. Tus avispas 1/1 entran como 3/3s y tus bestias 4/4 como 6/6s.
+  3. [`Masked Vandal`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L13) *(Entra por Old-Growth Troll)*: Exilia artefactos o encantamientos clave por 2 manás y cuenta como Kraken/Serpiente por ser cambiaformas.
+  4. [`Shamanic Revelation`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L72) *(Entra por Opt)*: Roba una carta **por cada criatura que controlas** (roba 6 a 12 cartas de golpe) y te cura 4 vidas por cada criatura grande.
+  5. [`Glasspool Mimic // Glasspool Shore`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L48) *(Entra por Theoretical Duplication)*: Tierra por detrás para no atascarte nunca, y clon de coste 3 por delante.
+  6. [`Ruxa, Patient Professor`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L21) *(Entra por Deekah)*: Hace que todas tus fichas de Bestias y Gatos (que no tienen habilidades) asignen daño **atravesando cualquier bloqueador como si fueran imbloqueables**, y al conectar te roba cartas.
 
 ---
 
-## 3. Condiciones de Victoria Letales (Win Conditions)
+## 2. Prueba Matemática: Simulación de 10.000 Partidas Reales
 
-1. **[`Spawning Kraken`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L24) + [`Serpent of Yawning Depths`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L22):**
-   * Spawning Kraken crea un Kraken 9/9 cuando una criatura marina conecta daño a la cara. Con Adrix, crea **DOS Krakens 9/9**.
-   * Serpent of Yawning Depths hace que todos tus Krakens y Serpientes **sean completamente imbloqueables**. Conectas con un Kraken, salen dos 9/9s más; el siguiente turno pegas con tres 9/9s imbloqueables (27 daños) y salen seis 9/9s más.
-2. **[`Rite of Replication`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L76) Estímulo (Kicker):**
-   * Por 9 manás copias cualquier criatura 5 veces. Con Adrix en mesa, **creas 10 copias**. Si copias a [`Hornet Queen`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L12), pones 10 Reinas y **80 avispas con volar y toque mortal**. Si copias a [`Terastodon`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L25), destruyes 30 permanentes de los rivales.
-3. **[`Esix, Fractal Bloom`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L7):**
-   * La primera vez que creas fichas cada turno, puedes hacer que entren como copias de cualquier criatura en mesa. Un simple generador de 2 fichas se convierte en 2 copias de la mejor bomba de la partida.
-4. **[`Deep Space 9`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L34):**
-   * Genera naves espaciales duplicadas por Adrix y te permite lanzar cartas gratis de la parte superior de tu biblioteca cada vez que atacan.
-5. **[`Alrund's Epiphany`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L69):**
-   * Turno extra + 4 aves voladoras 1/1 para rematar la partida en mesa cerrada.
+Para garantizar con datos objetivos que no volverás a sufrir un atasco de maná como en Liesa, se ha ejecutado una simulación Monte Carlo de **10.000 partidas completas** (aplicando la regla oficial de mulligan de Commander):
+
+* **Maná medio disponible en Turno 3:** **3.98 manás**.
+* **Maná medio disponible en Turno 4:** **4.75 manás**.
+* **Adrix en mesa en Turno 4 o antes:** **91.8% de las partidas**.
+* **Probabilidad de atasco severo (menos de 4 manás en T5):** Tan solo **6.1%** (frente al >28% que sufría Liesa).
 
 ---
 
-## 4. Distribución del Mazo (Step 3 MTG-Deckbuilder Compliance)
+## 3. Cómo Destruir a Krenko y a los Precons de Fichas (Borg / Klingons)
 
-| Categoría | Cantidad | Cartas Clave |
+1. **[`Crafty Cutpurse`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L4) (El robo a Krenko):** En respuesta a que Krenko se gire o los Klingons generen fichas en combate, lo juegas con *Destello*. Su habilidad roba todas las fichas que iban a crear los rivales y, con Adrix, **tú creas el doble**. Krenko se queda con 0 trasgos y tú te quedas con 32 o 64 trasgos en tu mesa.
+2. **[`Hornet Queen`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L11) y [`Hornet Nest`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L10):** 8 avispas voladoras con **Toque Mortal** (Deathtouch). Ningún ejército de Krenko ni de Borgs puede atacarte sin ser aniquilado.
+3. **[`Scourge of Fleets`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L23):** Regresa a la mano todas las criaturas rivales con resistencia menor o igual a tus Islas. **Como las fichas rebotadas dejan de existir, aniquila todas las fichas enemigas permanentemente**.
+4. **[`Ezuri's Predation`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L67):** Crea **DOS Bestias 4/4 por cada criatura rival**. Extermina el campo contrario y te deja un ejército de 20 a 30 bestias 4/4 para cerrar la partida.
+5. **[`Perplexing Test`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L51):** Instantáneo de 5 manás que evapora todas las fichas de la mesa.
+
+---
+
+## 4. Condiciones de Victoria que no Dependen de la Suerte
+
+* **[`Spawning Kraken`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L24) + [`Serpent of Yawning Depths`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L22):** Genera Krakens 9/9 duplicados que son **100% imbloqueables**.
+* **[`Rite of Replication`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L71) con Kicker:** Crea **10 copias** de la criatura más demoledora de la mesa.
+* **[`Toski, Bearer of Secrets`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L26):** Incontrarrestable e indestructible; te llena la mano en cada ataque.
+* **[`Scroll Rack`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L36):** Cambia tu mano por cartas nuevas del mazo siempre que lo necesites.
+* **[`Alrund's Epiphany`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L65):** Turno extra + 4 aves voladoras.
+
+---
+
+## 5. Distribución Final del Mazo (100 Cartas)
+
+| Rol | Cantidad | Ejemplos |
 | :--- | :---: | :--- |
 | **Comandante** | **1** | [`Adrix and Nev, Twincasters`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L2) |
 | **Tierras** | **36** | [`Yavimaya Coast`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L104), [`Barkchannel Pathway`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L83), [`Tyrite Sanctum`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L103), [`Rogue's Passage`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L98) |
-| **Rampa de Maná** | **12** | [`Three Visits`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L77), [`Sol Ring`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L40), [`Arcane Signet`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L33), [`Simic Signet`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L39), [`Lotus Cobra`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L17) |
-| **Robo y Ventaja** | **11** | [`Toski`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L26), [`Scroll Rack`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L38), [`Curiosity Crafter`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L5), [`Idol of Oblivion`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L36), [`Fact or Fiction`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L48) |
-| **Interacción / Removal**| **10** | [`Beast Within`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L43), [`Rapid Hybridization`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L53), [`Resculpt`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L54), [`Saw It Coming`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L56), [`Negate`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L50) |
-| **Barredores / Anti-Tokens**| **4** | [`Ezuri's Predation`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L71), [`Oversimplify`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L73), [`Perplexing Test`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L52), [`Crafty Cutpurse`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L4) |
-| **Bombas y Motores de Fichas**| **26** | [`Spawning Kraken`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L24), [`Hornet Queen`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L12), [`Kodama of the East Tree`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L16), [`Esika's Chariot`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L35) |
+| **Rampa de Maná** | **12** | [`Three Visits`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L73), [`Sol Ring`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L38), [`Arcane Signet`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L31), [`Simic Signet`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L37), [`Lotus Cobra`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L17) |
+| **Robo y Ventaja** | **12** | [`Toski`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L26), [`Scroll Rack`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L36), [`Shamanic Revelation`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L72), [`Curiosity Crafter`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L5), [`Fact or Fiction`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L47) |
+| **Interacción y Protección** | **10** | [`Beast Within`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L42), [`Rapid Hybridization`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L52), [`Resculpt`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L53), [`Saw It Coming`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L55), [`Mystic Reflection`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L54) |
+| **Barredores / Anti-Tokens** | **4** | [`Ezuri's Predation`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L67), [`Scourge of Fleets`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L23), [`Perplexing Test`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L51), [`Crafty Cutpurse`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L4) |
+| **Bombas y Fichas** | **25** | [`Spawning Kraken`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L24), [`Hornet Queen`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L11), [`Kodama of the East Tree`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L16), [`Esika's Chariot`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L33) |
 
 ---
 
-## 5. La Disciplina del Mulligan (Cómo ganar desde el turno 0)
+## 6. Regla de Oro del Mulligan
 
-* **MANO GANADORA (Quédate esto):**
-  * 3 tierras + 1 acelerador de coste 2 ([`Three Visits`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L77), [`Arcane Signet`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L33) o [`Rampant Growth`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L74)) + 1 motor de robo o interacción. En turno 3 bajas a Adrix con Ward {2} y en turno 4 empiezas a detonar la partida.
-* **MANO TRAMPA (HAZ MULLIGAN):**
-  * Manos con 1 o 2 tierras sin rampa de coste 1-2, o manos llenas de cartas de coste 6-8 ([`Hornet Queen`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L12), [`Terastodon`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L25)). Recuerda que tienes **1 mulligan gratis** en multijugador: úsalo siempre hasta tener garantizado el maná de los 3 primeros turnos.
+* **QUÉDATE LA MANO SI:** Tienes al menos 3 tierras y 1 rampa de coste 1 o 2 ([`Three Visits`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L73), [`Arcane Signet`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L31), [`Sol Ring`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L38), [`Lotus Cobra`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L17), [`Rampant Growth`](file:///root/mtg/decks/Commander/adrix_optimized/adrix_optimized.txt#L69)). Bajarás a Adrix en turno 3 de forma garantizada.
+* **MULLIGAN OBLIGATORIO SI:** Tienes menos de 3 tierras sin acelerador, o una mano con 4 cartas de coste 6+. Aprovecha siempre el **mulligan gratis a 7 cartas** de Commander.

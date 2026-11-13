@@ -7,7 +7,7 @@
 1 Coiling Oracle
 1 Crafty Cutpurse
 1 Curiosity Crafter
-1 Deekah, Fractal Theorist
+1 Ruxa, Patient Professor
 1 Esix, Fractal Bloom
 1 Farhaven Elf
 1 Fertilid
@@ -16,11 +16,11 @@
 1 Hornet Queen
 1 Hydra Broodmaster
 1 Incubation Druid
-1 Kazandu Tuskcaller
+1 Master Biomancer
 1 Kodama of the East Tree
 1 Lotus Cobra
 1 Managorger Hydra
-1 Old-Growth Troll
+1 Masked Vandal
 1 Rampaging Baloths
 1 Reef Worm
 1 Serpent of Yawning Depths
@@ -43,10 +43,9 @@
 1 Simic Signet
 1 Sol Ring
 
-// ENCHANTMENTS (3)
+// ENCHANTMENTS (2)
 1 Ominous Seas
 1 Paradox Zone
-1 Roost of Drakes
 
 // INSTANTS (15)
 1 Beast Within
@@ -57,15 +56,16 @@
 1 Fact or Fiction
 1 Into the Roil
 1 Negate
-1 Opt
+1 Mystic Reflection
 1 Perplexing Test
 1 Rapid Hybridization
 1 Resculpt
 1 Return of the Wildspeaker
 1 Saw It Coming
-1 Theoretical Duplication
+1 Glasspool Mimic // Glasspool Shore
 
-// SORCERIES (9)
+// SORCERIES (10)
+1 Shamanic Revelation
 1 Alrund's Epiphany
 1 Curse of the Swine
 1 Ezuri's Predation
